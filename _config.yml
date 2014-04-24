@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://xiaoq-in.github.com
+production_url : http://blog.xiaoq.in
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,7 +81,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : xiaoq-in
     livefyre :
@@ -99,7 +99,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : piwik
+    provider : google
     google : 
         tracking_id : 'UA-48100963-1'
     getclicky :
