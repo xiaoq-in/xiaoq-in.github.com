@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Jekyll
+category : 技术
 tagline: "使用Jekyll"
 tags : [jekyll, github, bootstrap]
 ---
