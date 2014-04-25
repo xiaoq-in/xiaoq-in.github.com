@@ -100,8 +100,6 @@ JB :
   #        
   analytics :
     provider : gtm
-    gtm : 
-        tag_id : 'GTM-P3M3HC'
     google : 
         tracking_id : 'UA-48100963-1'
     getclicky :
@@ -111,6 +109,8 @@ JB :
     piwik :
         baseURL : 'www.piwik.la' # Piwik installation address (without protocol)
         idsite : '2'                   # the id of the site on Piwik
+    gtm : 
+        tag_id : 'GTM-P3M3HC'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
