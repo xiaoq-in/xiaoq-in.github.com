@@ -99,7 +99,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : gtm
+    provider : piwik
     google : 
         tracking_id : 'UA-48100963-1'
     getclicky :
