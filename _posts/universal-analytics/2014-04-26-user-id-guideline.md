@@ -34,7 +34,7 @@ User-ID功能的使用也比较简单，现在.JS跟踪信息设置中的User-ID
 
 GTM的话，在UA的代码设置中展开”要设置的字段“并设置为如下：
 
-    [&uid	:	{{UID}}]
+    &uid 对应的值为UID的宏
 
 其中UID为你设置的会员ID宏，可以通过第一方cookie来提取、通过自定义javascript的宏进行提取、或者在页面前端新增相应的DataLayer再通过宏提取。
 
