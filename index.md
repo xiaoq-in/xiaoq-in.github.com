@@ -13,14 +13,14 @@ tagline: 数字营销探索与学习
 
 中文名 `肖庆`，英文名`Jason`:
     
-    Life is Wonderful
+    数字营销从业者，主攻数据分析和搜索营销
     
-    个人资质 :
+    资质认证 :
       Google Analytics个人认证
       Google AdWords个人认证
       Bing Advertising个人认证
 
-持续学习的心态比认证本身更重要
+*持续学习的心态比认证本身更重要
     
 ## 最新文章
 
