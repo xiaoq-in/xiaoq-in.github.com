@@ -24,7 +24,7 @@ tagline: 数字营销探索与学习
     
 ## 最新文章
 
-    微信公众平台同步更新，欢迎关注，订阅号：xiaoq-in
+    微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in
 
 近期关注主题：Google Tag Manager、Universal Analytics
 
