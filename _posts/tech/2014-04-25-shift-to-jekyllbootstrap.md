@@ -1,6 +1,6 @@
 ---
 layout: post
-category : 技术
+category : tech
 tagline: "博客切换为Jekyll Bootstrap系统"
 tags : [jekyll, github, bootstrap]
 ---
