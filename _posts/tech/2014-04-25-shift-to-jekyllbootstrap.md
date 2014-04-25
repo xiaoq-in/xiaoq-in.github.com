@@ -1,7 +1,7 @@
 ---
 layout: post
+title: 博客切换为Jekyll Bootstrap系统
 category : tech
-tagline: "博客切换为Jekyll Bootstrap系统"
 tags : [jekyll, github, bootstrap]
 ---
 {% include JB/setup %}
