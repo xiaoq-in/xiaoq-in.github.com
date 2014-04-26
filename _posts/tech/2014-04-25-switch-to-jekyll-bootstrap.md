@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 博客切换为Jekyll Bootstrap系统
-permalink: /tech/shit-to-jekyllbootstrap/
+permalink: /tech/switch-to-jekyll-bootstrap/
 category : tech
 tags : [jekyll, github, bootstrap]
 ---
