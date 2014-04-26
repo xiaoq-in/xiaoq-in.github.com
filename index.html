@@ -5,10 +5,7 @@ tagline: 数字营销探索与学习
 ---
 {% include JB/setup %}
 
-<h2 id="_1">最新文章</h2>
-<pre><code>微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in（扫描以下二维码订阅）
-</code></pre>
-<p><img alt="扫描订阅微信公众账号" src="http://blog.xiaoq.in/cdn/images/weixin.jpg" /></p>
+<pre><code>微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in</code></pre>
 
 <ul class="posts">
   {% for post in paginator.posts %}
@@ -22,7 +19,7 @@ tagline: 数字营销探索与学习
   {% else %}
     <span class="previous">上一页</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number ">当前页: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="/page{{ paginator.next_page }}" class="next">下一页</a>
   {% else %}
