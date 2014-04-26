@@ -37,13 +37,13 @@ User-ID功能的使用也比较简单，先在“媒体资源”的.JS跟踪信�
 
 GTM的话，在UA的代码设置中展开”要设置的字段“并设置为如下：
 
-```字段名称为&uid 对应的值为UID的宏，即{{USER_ID}}```
+```字段名称为&uid 对应的值为UID的宏，即USER_ID```
 
-其中UID为你设置的会员ID宏（名称为`{{USER_ID}}`），可以通过第一方cookie来提取、通过自定义javascript的宏进行提取、或者在页面前端新增相应的DataLayer再通过宏提取。
+其中UID为你设置的会员ID宏（名称为`USER_ID`），可以通过第一方cookie来提取、通过自定义javascript的宏进行提取、或者在页面前端新增相应的DataLayer再通过宏提取。
 
 如果你直接使用UA的话，代码如下：
 
-```ga(‘set’, ‘&uid’, {{USER_ID}}); // 使用已登录的 user_id 来设置用户 ID```
+```ga(‘set’, ‘&uid’, USER_ID); // 使用已登录的 user_id 来设置用户 ID```
 
 其中，USER_ID 的值是一个字符串，表示从您的系统中检索而来的唯一稳定 ID。
 
