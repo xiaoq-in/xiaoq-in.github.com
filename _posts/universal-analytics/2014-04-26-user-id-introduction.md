@@ -80,6 +80,6 @@ GTM的话，在UA的代码设置中展开”要设置的字段“并设置为如
 
 ![user-id-1](http://cdn.xiaoq.in/hub/user-id-1.png "User-ID设备重叠")
 
-![user-id-1](http://cdn.xiaoq.in/hub/user-id-2.png "User-ID设备路径")
+![user-id-2](http://cdn.xiaoq.in/hub/user-id-2.png "User-ID设备路径")
 
-![user-id-1](http://cdn.xiaoq.in/hub/user-id-3.png "User-ID流量获取设备")
+![user-id-3](http://cdn.xiaoq.in/hub/user-id-3.png "User-ID流量获取设备")
