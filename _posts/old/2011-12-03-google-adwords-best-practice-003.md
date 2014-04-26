@@ -16,7 +16,7 @@ ratings_average:
 duoshuo_thread_id:
   - 511668
 yourls_shorturl:
-  - http://g.xiaoq.in//3
+  - http://g.blog.xiaoq.in/3
 ta-thumbnail:
   - NoMediaFound
 categories:

@@ -8,7 +8,7 @@ views:
 duoshuo_thread_id:
   - 511594
 yourls_shorturl:
-  - http://g.xiaoq.in//1
+  - http://g.blog.xiaoq.in/1
 ta-thumbnail:
   - NoMediaFound
 categories:
