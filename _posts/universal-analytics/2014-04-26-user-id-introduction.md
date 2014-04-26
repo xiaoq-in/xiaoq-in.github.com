@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Universal Analytics User-ID使用心得
+permalink: /universal-analytics/user-id-introduction/
 category : Universal Analytics
 tags : [User-ID, Universal Analytics, Google Tag Manager]
 ---
