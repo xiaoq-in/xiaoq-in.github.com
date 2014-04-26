@@ -32,7 +32,7 @@
     <div class="pagination">
       <ul>
       {% if page.previous %}
-        <li class="prev">&larr; a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a></li>
+        <li class="prev">&larr; <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a></li>
       {% else %}
         <li class="prev disabled">&larr; <a>{{ page.previous.title }}</a></li>
       {% endif %}
