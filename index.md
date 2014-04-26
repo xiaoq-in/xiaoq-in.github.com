@@ -22,11 +22,12 @@ tagline: 数字营销探索与学习
 
 >*持续学习的心态比认证本身更重要
 
-      ```温馨提示：旧的文章均已迁移过来了，评论无法迁移，分类和标签的URL发生了变化，页面没有迁移。```
+      `温馨提示：旧的文章均已迁移过来了，评论无法迁移，分类和标签的URL发生了变化，页面没有迁移。`
     
 ## 最新文章
 
     微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in
+    ![扫描订阅微信公众账号](http://blog.xiaoq.in/cdn/cdn/images/weixin.jpg)
 
 近期关注主题：Google Tag Manager、Universal Analytics
 
