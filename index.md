@@ -16,19 +16,20 @@ tagline: 数字营销探索与学习
     数字营销从业者，主攻数据分析和搜索营销
 
     [资质认证](https://googlerecords.starttest.com?code=I007EFF6F0164F4670275F8740664F267E4C14E40) :
+    
       Google Analytics个人认证
       Google AdWords个人认证
       Bing Advertising个人认证
 
 >*持续学习的心态比认证本身更重要
 
-`温馨提示`：旧的文章均已迁移过来了，评论无法迁移，分类和标签的URL发生了变化，页面没有迁移。
+`温馨提示` 旧的文章均已迁移过来了，评论无法迁移，分类和标签的URL发生了变化，页面没有迁移。
     
 ## 最新文章
 
     微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in（扫描以下二维码订阅）
     
-    ![扫描订阅微信公众账号](http://blog.xiaoq.in/cdn/cdn/images/weixin.jpg)
+![扫描订阅微信公众账号](http://blog.xiaoq.in/cdn/cdn/images/weixin.jpg)
 
 近期关注主题：Google Tag Manager、Universal Analytics
 
