@@ -29,7 +29,7 @@ tagline: 数字营销探索与学习
 
     微信公众平台同步更新，欢迎订阅，订阅号：xiaoq-in（扫描以下二维码订阅）
     
-![扫描订阅微信公众账号](http://blog.xiaoq.in/cdn/cdn/images/weixin.jpg)
+![扫描订阅微信公众账号](http://blog.xiaoq.in/cdn/images/weixin.jpg)
 
 近期关注主题：Google Tag Manager、Universal Analytics
 
