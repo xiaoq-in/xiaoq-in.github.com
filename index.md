@@ -13,13 +13,11 @@ tagline: 数字营销探索与学习
 
 中文名 `肖庆`，英文名`Jason`，邮箱`g#xiaoq.in`:
     
-    数字营销从业者，主攻数据分析和搜索营销
+    数字营销从业者，主攻数据分析和搜索营销，
+    Google Analytics个人认证、Google AdWords个人认证
+    Bing Advertising个人认证
 
-    [资质认证](https://googlerecords.starttest.com?code=I007EFF6F0164F4670275F8740664F267E4C14E40) :
-    
-      Google Analytics个人认证
-      Google AdWords个人认证
-      Bing Advertising个人认证
+[资质认证](https://googlerecords.starttest.com?code=I007EFF6F0164F4670275F8740664F267E4C14E40)
 
 >*持续学习的心态比认证本身更重要
 
