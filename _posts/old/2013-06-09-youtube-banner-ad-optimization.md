@@ -14,7 +14,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/s
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/6/1212-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2013/6/1212-1.gif;
 categories:
   - Google AdWords
 tags:
@@ -22,13 +22,13 @@ tags:
   - YouTube广告优化
   - YouTube广告优化技巧
 ---
-在做海外（含港澳台）市场的朋友都会发现，YouTube占了内容广告中的很大一部分流量，并且貌似也带来了不错的转化量和转化率。但是，如何去优化<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/youtube%e5%b9%bf%e5%91%8a/" title="查看YouTube广告中的全部文章" target="_blank">YouTube广告</a></span>，很多人却有些迷茫。这里介绍下本人探索出来的一种做法和思路，仅供参考。
+在做海外（含港澳台）市场的朋友都会发现，YouTube占了内容广告中的很大一部分流量，并且貌似也带来了不错的转化量和转化率。但是，如何去优化<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/youtube%e5%b9%bf%e5%91%8a/" title="查看YouTube广告中的全部文章" target="_blank">YouTube广告</a></span>，很多人却有些迷茫。这里介绍下本人探索出来的一种做法和思路，仅供参考。
 
 首先，你需要充分了解到内容广告的转化周期较长，优化也需要一定的时间，并且对其他转化途径会带来积极影响，否则你可能坚持不到一周就放弃了。我们通常需要同时关注浏览型转化，根据过往经验而言，一般这种广告的浏览型转化大概会是一次点击转化的大概2倍左右（可能根据行业或产品略有差异），看看GA的转化渠道中YouTube系列在其中是否起到积极的辅助转化作用。
 
-优化<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/youtube%e5%b9%bf%e5%91%8a/" title="查看YouTube广告中的全部文章" target="_blank">YouTube广告</a></span>，其实跟优化其他（内容）广告原理和思路大致是一致的，只是我们限定在一个特定的展示位置（youtube.com）这种，并且展示位置的环境有些差异，展示位置URL也比较混乱（即URL不是SEO友好型的，通过URL你无法判定内容），而且很多展示位置还是匿名的（如x65tw5263something.anonymous.google），甚至有些不是YouTube的展示位置（比如合作伙伴的，嵌套视频的）也被当做是YouTube的URL。
+优化<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/youtube%e5%b9%bf%e5%91%8a/" title="查看YouTube广告中的全部文章" target="_blank">YouTube广告</a></span>，其实跟优化其他（内容）广告原理和思路大致是一致的，只是我们限定在一个特定的展示位置（youtube.com）这种，并且展示位置的环境有些差异，展示位置URL也比较混乱（即URL不是SEO友好型的，通过URL你无法判定内容），而且很多展示位置还是匿名的（如x65tw5263something.anonymous.google），甚至有些不是YouTube的展示位置（比如合作伙伴的，嵌套视频的）也被当做是YouTube的URL。
 
-<img class="alignnone  wp-image-1213" alt="youtube banner ad optimization" src="http://cdn.xiaoq.in/2013/06/youtube-banner-ad-optimization.gif" width="600" />
+<img class="alignnone  wp-image-1213" alt="youtube banner ad optimization" src="http://blog.xiaoq.in/cdn/2013/06/youtube-banner-ad-optimization.gif" width="600" />
 
 <p style="text-align: center;">
   理想的数据表现大体应该是这样的，已隐去相关数据，仅供参考

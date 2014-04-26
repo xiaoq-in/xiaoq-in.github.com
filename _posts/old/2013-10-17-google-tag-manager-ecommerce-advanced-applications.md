@@ -14,7 +14,7 @@ ratings_score:
 ratings_average:
   - 0
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/10/1350-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2013/10/1350-1.png;
 categories:
   - Google Analytics
 tags:
@@ -28,9 +28,9 @@ tags:
   - 转化跟踪
   - 页面类型跟踪
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-tag-manager/" title="查看Google Tag Manager中的全部文章" target="_blank">Google Tag Manager</a></span>是一个非常强大的代码管理工具，对于刚刚接触并使用它的人来说，可能会认为它充其量就只是一个代码容器，把很多段代码扔进去然后前端显示很漂亮，就觉得这个工具很赞了。不过，它的作用绝不仅仅停留在这么简单，它在帮助你高效便捷管理代码的同时，还能够实现更多的扩展功能，帮助提供更深入的数据透视。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-tag-manager/" title="查看Google Tag Manager中的全部文章" target="_blank">Google Tag Manager</a></span>是一个非常强大的代码管理工具，对于刚刚接触并使用它的人来说，可能会认为它充其量就只是一个代码容器，把很多段代码扔进去然后前端显示很漂亮，就觉得这个工具很赞了。不过，它的作用绝不仅仅停留在这么简单，它在帮助你高效便捷管理代码的同时，还能够实现更多的扩展功能，帮助提供更深入的数据透视。
 
-<img class="alignnone  wp-image-1365" alt="clientId-ABC" src="http://cdn.xiaoq.in/2013/10/clientId-ABC.png" width="650" />
+<img class="alignnone  wp-image-1365" alt="clientId-ABC" src="http://blog.xiaoq.in/cdn/2013/10/clientId-ABC.png" width="650" />
 
 <p style="text-align: center;">
   不同客户ID的ABC（获取-行为-转化）数据示例
@@ -38,17 +38,17 @@ tags:
 
 &nbsp;
 
-就“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-tag-manager/" title="查看Google Tag Manager中的全部文章" target="_blank">Google Tag Manager</a></span>在电子商务网站中的高级应用”这个话题思考和探索了几天，本想直接丢一大堆的代码在这里，不过本博客的受众应该大多数还是跟我一样的技术菜鸟，怕大家反感或者看不懂，反而偏离了我的初衷，让大家反而觉得太高深不敢用了。
+就“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-tag-manager/" title="查看Google Tag Manager中的全部文章" target="_blank">Google Tag Manager</a></span>在电子商务网站中的高级应用”这个话题思考和探索了几天，本想直接丢一大堆的代码在这里，不过本博客的受众应该大多数还是跟我一样的技术菜鸟，怕大家反感或者看不懂，反而偏离了我的初衷，让大家反而觉得太高深不敢用了。
 
-这里就实例来说主要针对外贸电商，因为Google Shopping在国内貌似不能使用，因此无法使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>，其实也可以扩展到国内（看到京东、中粮、凡客那些都有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>广告，不过好像是通过DSP来实现的），电子商务网站分析的数据维度一般更多，但并不排除其他类型的网站有类似的需求，因此也可以扩展到各个行业领域。
+这里就实例来说主要针对外贸电商，因为Google Shopping在国内貌似不能使用，因此无法使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>，其实也可以扩展到国内（看到京东、中粮、凡客那些都有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>广告，不过好像是通过DSP来实现的），电子商务网站分析的数据维度一般更多，但并不排除其他类型的网站有类似的需求，因此也可以扩展到各个行业领域。
 
-最初使用GTM的时候，主要是由于代码太多了，然后技术大哥也太忙了影响效率。于是最初的实际使用就是：将十几段<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>代码和转化代码扔进去了（游戏运营公司，主要是为了充分利用自身不同游戏类似的用户群进行交叉营销，这种思路大家也可以借鉴下）。
+最初使用GTM的时候，主要是由于代码太多了，然后技术大哥也太忙了影响效率。于是最初的实际使用就是：将十几段<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>代码和转化代码扔进去了（游戏运营公司，主要是为了充分利用自身不同游戏类似的用户群进行交叉营销，这种思路大家也可以借鉴下）。
 
 这种最简单的使用方式，相信大家都已经了解了。没接触过的话，看下帮助中心，跟着步骤来就是了。基本半天也能够研究透。 现在，我们来说说电子商务网站在代码部署中会遇到的一些代码，以及在GTM中的基本设置方法：
 
-1.  <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>（这里以Universal Analytics为例）基本的流量跟踪代码。新建标签，填入对应的跟踪ID，设置所有页面触发的规则，保存。后面会讲到设置自定义维度，以及其他的一些高级设置。
-2.  <span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e8%b7%9f%e8%b8%aa/" title="查看转化跟踪中的全部文章" target="_blank">转化跟踪</a></span>代码。新建标签，中填入转化ID和转化标签，转化价值先暂且随便填一个，设置触发规则（一般是支付成功页面的URL或者注册成功的URL等），保存。如何读取动态转化价值，下面会详谈。
-3.  <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-adwords/" title="查看Google AdWords中的全部文章" target="_blank">Google AdWords</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>代码（这里特指<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>）。新建标签，填入转化ID和转化标签，选择使用Data Layer，先暂且勾选默认的not set（后面会详谈如何读取动态值），保存。
+1.  <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>（这里以Universal Analytics为例）基本的流量跟踪代码。新建标签，填入对应的跟踪ID，设置所有页面触发的规则，保存。后面会讲到设置自定义维度，以及其他的一些高级设置。
+2.  <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e8%b7%9f%e8%b8%aa/" title="查看转化跟踪中的全部文章" target="_blank">转化跟踪</a></span>代码。新建标签，中填入转化ID和转化标签，转化价值先暂且随便填一个，设置触发规则（一般是支付成功页面的URL或者注册成功的URL等），保存。如何读取动态转化价值，下面会详谈。
+3.  <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-adwords/" title="查看Google AdWords中的全部文章" target="_blank">Google AdWords</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>代码（这里特指<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%86%8d%e8%90%a5%e9%94%80/" title="查看动态再营销中的全部文章" target="_blank">动态再营销</a></span>）。新建标签，填入转化ID和转化标签，选择使用Data Layer，先暂且勾选默认的not set（后面会详谈如何读取动态值），保存。
 4.  事件跟踪代码。目前GTM中已经可以自动识别事件跟踪，不过为了区分事件，还需要对网站的标签进行一些规范化操作，下面详谈。
 5.  其他跟踪代码，如果GTM已经有集成，根据提示设置即可；如果没有，选择HTML方式添加。需要注意的是如果代码使用了document.write，是不能放到里面的，只能是再额外单独加到网站了。
 
@@ -68,7 +68,7 @@ ecomm_totalvalue: 'REPLACE_WITH_VALUE'
 };
 &lt;/script&gt;</pre>
 
-这是定义<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>的，在订单号生成的页面生成，详细可以参考：<a href="https://support.google.com/tagmanager/answer/3002596?hl=en" target="_blank">https://support.google.com/tagmanager/answer/3002596?hl=en</a>
+这是定义<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>的，在订单号生成的页面生成，详细可以参考：<a href="https://support.google.com/tagmanager/answer/3002596?hl=en" target="_blank">https://support.google.com/tagmanager/answer/3002596?hl=en</a>
 
 <pre>&lt;script&gt;
 dataLayer = [{

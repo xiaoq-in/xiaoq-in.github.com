@@ -25,11 +25,11 @@ tags:
   - 肖庆
   - 谷歌分析
 ---
-下文同样<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>自<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的那个PDF文档《<a href="http://www.google.com/intl/en/landing/conversion/conversionsfordummies.pdf" target="_blank">Improving Online Conversions For Dummies</a>》，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>为原创，作者为<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，转载请注明出处。
+下文同样<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>自<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的那个PDF文档《<a href="http://www.google.com/intl/en/landing/conversion/conversionsfordummies.pdf" target="_blank">Improving Online Conversions For Dummies</a>》，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>为原创，作者为<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，转载请注明出处。
 
 Some of the terms used to describe online conversion optimization can be a bit confusing. Here’s a quick translation guide to the phrases we think are key:
 
-有些用来描述在线转化优化的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%9c%af%e8%af%ad/" title="查看术语中的全部文章" target="_blank">术语</a></span>可能会有些让人困惑不解。下面翻译一些我们认为很关键的词汇:
+有些用来描述在线转化优化的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%9c%af%e8%af%ad/" title="查看术语中的全部文章" target="_blank">术语</a></span>可能会有些让人困惑不解。下面翻译一些我们认为很关键的词汇:
 
 **A/B testing. **This allows you to compare two or more different versions of a page quickly and simply to see which version is more effective at referring quality leads and customers.
 

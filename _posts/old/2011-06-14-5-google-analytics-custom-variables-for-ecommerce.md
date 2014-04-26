@@ -21,7 +21,7 @@ ratings_average:
 yourls_shorturl:
   - http://t.xiaoq.in/72
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/6/491-1.jpg;https://xiaoq.in/thumb/cache/2011/6/491-2.jpg;https://xiaoq.in/thumb/cache/2011/6/491-3.png;
+  - http://blog.xiaoq.in/thumb/cache/2011/6/491-1.jpg;http://blog.xiaoq.in/thumb/cache/2011/6/491-2.jpg;http://blog.xiaoq.in/thumb/cache/2011/6/491-3.png;
 categories:
   - Google Analytics
 tags:
@@ -33,19 +33,19 @@ tags:
   - 跟踪回头客
   - 跟踪运输方式
 ---
-我相信每个公司都能使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。特别是电子商务公司。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>插入对于高级细分至关重要的新的数据维度。作为分析师，我们需要做高级细分来了解用户行为。而电子商务网站有一些特定的独特行为，是无法通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>的基本配置来跟踪的。
+我相信每个公司都能使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。特别是电子商务公司。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>插入对于高级细分至关重要的新的数据维度。作为分析师，我们需要做高级细分来了解用户行为。而电子商务网站有一些特定的独特行为，是无法通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>的基本配置来跟踪的。
 
-I believe that every business can use <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> custom variables. Especially ecommerce businesses. Custom variables inject new data dimensions that are crucial for segmentation. As analysts we need to do segmentation to understand user behavior. And ecommerce sites have certain unique behaviors that are not tracked with a basic Google Analytics implementation.
+I believe that every business can use <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> custom variables. Especially ecommerce businesses. Custom variables inject new data dimensions that are crucial for segmentation. As analysts we need to do segmentation to understand user behavior. And ecommerce sites have certain unique behaviors that are not tracked with a basic Google Analytics implementation.
 
 For those that have not used custom variables before you can get read [Mastering Custom Variables][1] for overview.
 
-对于那些之前没有用过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的人，你可以阅读我的上篇文章“<a title="掌握谷歌分析自定义变量" href="http://g.xiaoq.in/cn/google-analytics/mastering-google-analytics-custom-variables/" target="_blank">掌握谷歌分析自定义变量</a>”来整体了解下。
+对于那些之前没有用过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的人，你可以阅读我的上篇文章“<a title="掌握谷歌分析自定义变量" href="http://g.xiaoq.in/cn/google-analytics/mastering-google-analytics-custom-variables/" target="_blank">掌握谷歌分析自定义变量</a>”来整体了解下。
 
 Now on to the custom variables!
 
 现在，谈自定义变量！
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bc%98%e6%83%a0%e7%a0%81%e5%92%8c%e4%bf%83%e9%94%80%e7%a0%81/" title="查看跟踪优惠码和促销码中的全部文章" target="_blank">跟踪优惠码和促销码</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bc%98%e6%83%a0%e7%a0%81%e5%92%8c%e4%bf%83%e9%94%80%e7%a0%81/" title="查看跟踪优惠码和促销码中的全部文章" target="_blank">跟踪优惠码和促销码</a></span>**
 
 **Tracking Coupon Codes and Promotional Codes**  
 <img title="Tracking Coupon Codes with Google Analytics" src="http://cutroni.com/blog/wp-content/uploads/coupon-300x245.jpg" alt="Tracking Coupon Codes with Google Analytics" width="300" height="245" />  
@@ -71,11 +71,11 @@ _gaq.push(['_setCustomVar',1,'HolidayPromo','10perOff',3]);`
 
 The above code would need to appear on your receipt page. And remember, the slot, or index, in the code above may be different for you. It all depends on your use of custom variables.
 
-你可能想问我为什么在此使用页面级自定义变量？记住，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>会把一个页面级自定义变量归到一个会话中。因此，尽管自定义变量只会开始作用于着陆页面，但是数据将应用到整个访问。
+你可能想问我为什么在此使用页面级自定义变量？记住，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>会把一个页面级自定义变量归到一个会话中。因此，尽管自定义变量只会开始作用于着陆页面，但是数据将应用到整个访问。
 
 You might be wondering why I decided to go with a page level custom variable here. Remember, Google Analytics will sessionize a page level custom variable. So even though the custom var will only fire on the receipt page the data will be applied to the entire visit.
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bb%98%e6%ac%be%e6%96%b9%e5%bc%8f/" title="查看跟踪付款方式中的全部文章" target="_blank">跟踪付款方式</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bb%98%e6%ac%be%e6%96%b9%e5%bc%8f/" title="查看跟踪付款方式中的全部文章" target="_blank">跟踪付款方式</a></span>**
 
 **Tracking Payment Method**
 
@@ -93,7 +93,7 @@ To capture payment type use a page level custom variable. The resulting GA code 
 
 Don’t forget to replace `<PAYMENT TYPE>` with the customer’s payment method.
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e8%bf%90%e8%be%93%e6%96%b9%e5%bc%8f/" title="查看跟踪运输方式中的全部文章" target="_blank">跟踪运输方式</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e8%bf%90%e8%be%93%e6%96%b9%e5%bc%8f/" title="查看跟踪运输方式中的全部文章" target="_blank">跟踪运输方式</a></span>**
 
 **Tracking Shipping Method**
 
@@ -104,7 +104,7 @@ Like payment method, it’s interesting to see what shipping method people choos
 
 `_gaq.push(['_setCustomVar',3,'CustType','Repeat',1]);`
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e5%9b%9e%e5%a4%b4%e5%ae%a2/" title="查看跟踪回头客中的全部文章" target="_blank">跟踪回头客</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e5%9b%9e%e5%a4%b4%e5%ae%a2/" title="查看跟踪回头客中的全部文章" target="_blank">跟踪回头客</a></span>**
 
 **Tracking Repeat Customers**
 
@@ -116,7 +116,7 @@ I remember reading Eric Peterson’s book [Web Analytics Demystified][2] a looon
 
 The behavior of repeat customers is different than first time customers. This segment of customers usually takes less time to purchase due to a knowledge of your products and services. Normally it costs you less money to get these people to convert. So it’s a good idea to understand what marketing they respond to and how they use your website.
 
-为了在谷歌分析中<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e5%9b%9e%e5%a4%b4%e5%ae%a2/" title="查看跟踪回头客中的全部文章" target="_blank">跟踪回头客</a></span>，你必须使用访问级自定义变量。记住访问级自定义变量通过cookie保留到访问者的电脑。何时设置自定义变量最为关键。
+为了在谷歌分析中<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e5%9b%9e%e5%a4%b4%e5%ae%a2/" title="查看跟踪回头客中的全部文章" target="_blank">跟踪回头客</a></span>，你必须使用访问级自定义变量。记住访问级自定义变量通过cookie保留到访问者的电脑。何时设置自定义变量最为关键。
 
 To track repeat customers in Google Analytics you must use a visitor scope custom variable. Remember a visitor scoped custom variable persists on the visitor’s computer as a cookie. The trick is when you set the custom variable.
 
@@ -136,11 +136,11 @@ I should note that this is an AWESOME custom variable to use in an advanced segm
 
 <img title="Creating a customer segment in Google Analytics" src="http://cutroni.com/blog/wp-content/uploads/Screen-shot-2011-06-12-at-8.36.11-PM.png" alt="Creating a customer segment in Google Analytics" width="732" height="460" />
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%ad%e4%b9%b0%e5%8e%86%e5%8f%b2/" title="查看购买历史中的全部文章" target="_blank">购买历史</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%ad%e4%b9%b0%e5%8e%86%e5%8f%b2/" title="查看购买历史中的全部文章" target="_blank">购买历史</a></span>**
 
 **Purchase History**
 
-到此事情变得有些复杂了。跟踪<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%ad%e4%b9%b0%e5%8e%86%e5%8f%b2/" title="查看购买历史中的全部文章" target="_blank">购买历史</a></span>记录需要在服务器端的一些配置，意味着你或者你的计算机部门同事需要创建一些代码，基于他们在过去购买数量来分类客户。与其跟踪每次购买，我更偏爱于跟踪不同批量的购买，如下面这样：
+到此事情变得有些复杂了。跟踪<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%ad%e4%b9%b0%e5%8e%86%e5%8f%b2/" title="查看购买历史中的全部文章" target="_blank">购买历史</a></span>记录需要在服务器端的一些配置，意味着你或者你的计算机部门同事需要创建一些代码，基于他们在过去购买数量来分类客户。与其跟踪每次购买，我更偏爱于跟踪不同批量的购买，如下面这样：
 
 This is where things get a little more complicated. Tracking things like purchase history requires a bit of configuration on the server side, meaning you or your nerds need to create some code to categorize customers based on the number of purchases they’ve made in the past. Rather than track every single purchase I prefer to bucket the purchases, like this:
 
@@ -166,7 +166,7 @@ So there you have it, five custom variables for ecommerce websites. This is by n
 
 Are you using custom variables on your ecommerce website? If so I’d love to hear how!
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自Jutin的博客，原文地址：<a title="You are here: Home / Analysis / 5 Google Analytics Custom Variables for Ecommerce5 Google Analytics Custom Variables for Ecommerce" href="http://cutroni.com/blog/2011/06/14/5-google-analytics-custom-variables-for-ecommerce/" target="_blank">http://cutroni.com/blog/2011/06/14/5-google-analytics-custom-variables-for-ecommerce/</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自Jutin的博客，原文地址：<a title="You are here: Home / Analysis / 5 Google Analytics Custom Variables for Ecommerce5 Google Analytics Custom Variables for Ecommerce" href="http://cutroni.com/blog/2011/06/14/5-google-analytics-custom-variables-for-ecommerce/" target="_blank">http://cutroni.com/blog/2011/06/14/5-google-analytics-custom-variables-for-ecommerce/</a>
 
  [1]: http://cutroni.com/blog/2011/05/18/mastering-google-analytics-custom-variables/
  [2]: http://www.amazon.com/Web-Analytics-Demystified-Marketers-Understanding/dp/0974358428

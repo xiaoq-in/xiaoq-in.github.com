@@ -21,7 +21,7 @@ ratings_average:
 yourls_shorturl:
   - http://t.xiaoq.in/26
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/5/451-1.png;https://xiaoq.in/thumb/cache/2011/5/451-2.png;https://xiaoq.in/thumb/cache/2011/5/451-3.png;https://xiaoq.in/thumb/cache/2011/5/451-4.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2011/5/451-1.png;http://blog.xiaoq.in/thumb/cache/2011/5/451-2.png;http://blog.xiaoq.in/thumb/cache/2011/5/451-3.png;http://blog.xiaoq.in/thumb/cache/2011/5/451-4.jpg;
 categories:
   - Google Analytics
 tags:
@@ -29,13 +29,13 @@ tags:
   - 自定义变量
   - 自定义报告
 ---
-<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>被各大网站使用，比如豆瓣，赶集，58同城等，主要应用在记录注册会员的站内行为，网站区域及类别，通过分析可以得出网站用户的兴趣，用户关注话题及活跃区域等。当然，博客网站也可以使用这个功能来跟踪关注度高的分类或去除管理员登陆等。
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>被各大网站使用，比如豆瓣，赶集，58同城等，主要应用在记录注册会员的站内行为，网站区域及类别，通过分析可以得出网站用户的兴趣，用户关注话题及活跃区域等。当然，博客网站也可以使用这个功能来跟踪关注度高的分类或去除管理员登陆等。
 
-下文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自Justin Cutroni的博客（Analytics Talk ），原文请点击<a title="掌握谷歌分析自定义变量" href="http://cutroni.com/blog/2011/05/18/mastering-google-analytics-custom-variables/" target="_blank">此处</a>，版权归原作者所有。
+下文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自Justin Cutroni的博客（Analytics Talk ），原文请点击<a title="掌握谷歌分析自定义变量" href="http://cutroni.com/blog/2011/05/18/mastering-google-analytics-custom-variables/" target="_blank">此处</a>，版权归原作者所有。
 
-I’ve got a stack of posts that I want to write, and realized that the all deal with Custom Variables. So, to make sure that we’re all on the same page when it comes to custom vars, here’s my guide to Mastering <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Custom Variables.
+I’ve got a stack of posts that I want to write, and realized that the all deal with Custom Variables. So, to make sure that we’re all on the same page when it comes to custom vars, here’s my guide to Mastering <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Custom Variables.
 
-我有很多文章想写，并且意识到它们都是关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的。因此，为了使我们在说<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的时候得到同样的页面，下面将引导你掌握谷歌分析的自定义变量。
+我有很多文章想写，并且意识到它们都是关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的。因此，为了使我们在说<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>的时候得到同样的页面，下面将引导你掌握谷歌分析的自定义变量。
 
 For those of you that have not used custom variables, CVs are a way for you to insert custom data into Google Analytics. What kid of custom data? Almost any kind of data. As long as the data is available to you in the source code of a web page you can pass it to Google Analytics via a custom variable.
 
@@ -76,7 +76,7 @@ Then I can click on “Year” to a get a list of all the values:
 
 Custom variables can also be used in custom reports and advanced segments. The name of the custom variable becomes the “Key” dimension and the value of the custom variable becomes the “Custom Variable Value” dimension.
 
-自定义变量可以用在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>和高级细分中。自定义变量的名称变为“键”，自定义变量的值也变为“自定义变量值”维度。
+自定义变量可以用在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>和高级细分中。自定义变量的名称变为“键”，自定义变量的值也变为“自定义变量值”维度。
 
 <img title="Google Analytics Custom Variable Dimensions" src="http://cutroni.com/blog/wp-content/uploads/Screen-shot-2011-05-18-at-8.18.09-AM.png" alt="Google Analytics Custom Variable Dimensions" width="190" height="254" />
 
@@ -272,9 +272,9 @@ BUT, Google has since changed how it collects data. The size of the image reques
 
 **但是**，谷歌已经改变了其收集数据的方式。图片请求的大小限制是8000多个字符。因此，理论上说，谷歌可以去除64个字符的限制。但是，他们却没有&#8230;&#8230;
 
-3. Custom Variable processing lags the standard data processing by about 24 hours. However, if you add a custom variable to a custom report it will be visible. I know, completely weird.自定义变量和标准数据相比有大概24小时的延迟。然后，如果你添加一个自定义变量到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>，它会显现出来。我知道，完全不可思议。
+3. Custom Variable processing lags the standard data processing by about 24 hours. However, if you add a custom variable to a custom report it will be visible. I know, completely weird.自定义变量和标准数据相比有大概24小时的延迟。然后，如果你添加一个自定义变量到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>，它会显现出来。我知道，完全不可思议。
 
-4. Page level custom variables are more-or-less the same as an event. When you create an Advanced Segment using a page-level custom variable, GA will return the number of visits that included that custom var. So, if you don’t have enough slots available you may want to consider using an event.页面级自定义变量或多或是与事件是一样的。当你使用一个页面级自定义变量创建高级细分时，GA会返回包含该自定义变量访问的数值。因此，如果你没有足够的可用位置，你或许可以考虑使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>。
+4. Page level custom variables are more-or-less the same as an event. When you create an Advanced Segment using a page-level custom variable, GA will return the number of visits that included that custom var. So, if you don’t have enough slots available you may want to consider using an event.页面级自定义变量或多或是与事件是一样的。当你使用一个页面级自定义变量创建高级细分时，GA会返回包含该自定义变量访问的数值。因此，如果你没有足够的可用位置，你或许可以考虑使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>。
 
 5. When you set a custom variable the data is sent immediately back to Google Analytics via an image request. This means that if you set a custom variable, on the last page of a visit and AFTER the pageview is recorded, that custom variable will NOT be collected by Google Analytics. If you can, put your custom variable code BEFORE `_trackPageview()`.当你设置一个自定义变量时，数据会迅速通过一次图片请求发送回谷歌分析。这就意味着如你设置了一个自定义变量，在一次访问的最后一页并且该页面访问被记录**之后**，该自定义变量不会被谷歌分析收集。如果可能的话，把自定义变量的代码放置在_trackPageview()**之前**。
 

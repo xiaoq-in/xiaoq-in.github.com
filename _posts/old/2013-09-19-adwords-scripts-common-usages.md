@@ -14,17 +14,17 @@ ratings_score:
 ratings_average:
   - 5
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/9/1307-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2013/9/1307-1.png;
 categories:
   - Google AdWords
 tags:
   - AdWords Scripts
 ---
-对于大多数的广告优化人员来说，可能很少有机会去用到自动竞价管理工具或者通过API去进行批量化管理与优化，不过对于使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的人来说，只要你稍微懂一些Javascript，具有一定的广告优化经验，很多自动化的功能都能够实现，绝对高端大气上档次，这就是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>。
+对于大多数的广告优化人员来说，可能很少有机会去用到自动竞价管理工具或者通过API去进行批量化管理与优化，不过对于使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的人来说，只要你稍微懂一些Javascript，具有一定的广告优化经验，很多自动化的功能都能够实现，绝对高端大气上档次，这就是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>。
 
-<img class="alignnone size-full wp-image-1308" alt="AdWords Scripts" src="http://cdn.xiaoq.in/2013/09/AdWords-Scripts.png" width="648" height="375" />
+<img class="alignnone size-full wp-image-1308" alt="AdWords Scripts" src="http://blog.xiaoq.in/cdn/2013/09/AdWords-Scripts.png" width="648" height="375" />
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>这个东西，在某种程度上是自动化规则的升级版，不过由于它是从底层的代码进行操作的，因此更为灵活。通过它，你可以实现：自动化出价、自动化报表、自动化替换和暂停或启用广告语、记录各种细微数据变化进行测试对比、调整预算，你能想到的几乎都可以实现。当然主要还是基于现有的逻辑和外部的一些数据来进行操作，有些过于复杂的竞价策略实现起来可能还是比较麻烦。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>这个东西，在某种程度上是自动化规则的升级版，不过由于它是从底层的代码进行操作的，因此更为灵活。通过它，你可以实现：自动化出价、自动化报表、自动化替换和暂停或启用广告语、记录各种细微数据变化进行测试对比、调整预算，你能想到的几乎都可以实现。当然主要还是基于现有的逻辑和外部的一些数据来进行操作，有些过于复杂的竞价策略实现起来可能还是比较麻烦。
 
 如果你稍微研究过这个功能，应该都会知道这个网站：<a title="Free AdWords Scripts.com" href="http://www.freeadwordsscripts.com/" target="_blank">Free AdWords Scripts.com</a>，里面提供了很多范例代码，很多可以直接套用，或者进行一些细微修改来用。当然，<a title="Complete Scripts" href="https://developers.google.com/adwords/scripts/docs/examples/complete-scripts" target="_blank">官方文档</a>也提供了大量的范例文件和详细的说明文档。其中，最经典的例子有几个：
 
@@ -35,4 +35,4 @@ tags:
 5.  搜索查询报告。这个是做搜索最为关注的一个数据点了，否定词和扩展关键词全靠它了。现在，通过<a title="Search Query Report" href="https://developers.google.com/adwords/scripts/docs/solutions/search-query" target="_blank">Search Query Report</a>，你可以预设一些条件对搜索词进行自动地添加或者否定。方便很多了吧？换做内容广告的，展示位置的处理方式也类似于此。
 6.  标签（虚拟文件夹）。这个功能是任何大型账户的操作人员都会使用的一个工具，因为我们的广告账户分组可能很多时候需要考虑到账户的结构与表现相关性等因素，而老板关注的点可能是从另外一个角度去看，或者实际业务需要从另外一个角度去看问题，再或者我们需要筛选出其中最有价值的数据进行重点优化，这都是标签的一些基本用途。现在，通过<a title="Labels" href="https://developers.google.com/adwords/scripts/docs/solutions/labels" target="_blank">标签的自动化设置</a>，你可以减少很多重复工作量。比如自动给“昨日点击最多，转化费用高于目标期望的非品牌关键词”加上标签，然后发送到你的工作邮箱。
 
-以上是我们使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>来实现的最常用的一些功能，并且都有提供了范例，比较适合有一定编程基础和较长账户操作经验的童鞋使用。
+以上是我们使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-scripts/" title="查看AdWords Scripts中的全部文章" target="_blank">AdWords Scripts</a></span>来实现的最常用的一些功能，并且都有提供了范例，比较适合有一定编程基础和较长账户操作经验的童鞋使用。

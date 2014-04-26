@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/6c
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/1/571-1.gif;https://xiaoq.in/thumb/cache/2012/1/571-2.gif;https://xiaoq.in/thumb/cache/2012/1/571-3.jpg;https://xiaoq.in/thumb/cache/2012/1/571-4.jpg;https://xiaoq.in/thumb/cache/2012/1/571-5.jpg;https://xiaoq.in/thumb/cache/2012/1/571-6.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/1/571-1.gif;http://blog.xiaoq.in/thumb/cache/2012/1/571-2.gif;http://blog.xiaoq.in/thumb/cache/2012/1/571-3.jpg;http://blog.xiaoq.in/thumb/cache/2012/1/571-4.jpg;http://blog.xiaoq.in/thumb/cache/2012/1/571-5.jpg;http://blog.xiaoq.in/thumb/cache/2012/1/571-6.jpg;
 categories:
   - Google AdWords
 tags:
@@ -31,9 +31,9 @@ tags:
 ---
 你知道你是否正在因为带流量到（没有找到）404页面而浪费钱吗？
 
-随着时间的增长，URL链接地址发生了改变，网站进行了重建，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>改变了，因而要找出所有这些<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>将会十分困难。如果你正在通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>为错误页面带去流量&#8212;那么，那么正在浪费钱。
+随着时间的增长，URL链接地址发生了改变，网站进行了重建，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>改变了，因而要找出所有这些<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>将会十分困难。如果你正在通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>为错误页面带去流量&#8212;那么，那么正在浪费钱。
 
-下面是一个循序渐进的指南，帮助你找出Adwords账户中所有的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>。我将介绍如何检查Adwords的死链接；这种方法也可以应用到任何的PPC账户。
+下面是一个循序渐进的指南，帮助你找出Adwords账户中所有的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%ad%bb%e9%93%be%e6%8e%a5/" title="查看死链接中的全部文章" target="_blank">死链接</a></span>。我将介绍如何检查Adwords的死链接；这种方法也可以应用到任何的PPC账户。
 
 ### 第一步&#8212;确保你的网站显示404错误
 
@@ -66,11 +66,11 @@ tags:
 
 如果你想检查微软adCenter或者Yahoo搜索营销广告系列，导出这些广告系列为CSV文件即可。
 
-### 第三步&#8212;将所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e5%9d%80/" title="查看目标网址中的全部文章" target="_blank">目标网址</a></span>转化为超级链接
+### 第三步&#8212;将所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e5%9d%80/" title="查看目标网址中的全部文章" target="_blank">目标网址</a></span>转化为超级链接
 
 打开你刚刚保存的文件。
 
-“T”列应该是被标记为 ‘Destination URLs’（<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>注：如果不是，请做相应调整）。这一列同时保留关键词和广告语级别的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e5%9d%80/" title="查看目标网址中的全部文章" target="_blank">目标网址</a></span>。
+“T”列应该是被标记为 ‘Destination URLs’（<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>注：如果不是，请做相应调整）。这一列同时保留关键词和广告语级别的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e5%9d%80/" title="查看目标网址中的全部文章" target="_blank">目标网址</a></span>。
 
 更改T列的标头名为“URLs”（或者任意单字）。如果其中有空格，我们将运行的宏将会停止运行。因为T列中的其他单元格应该是http://something，改列中应该也不会有其他的空格。
 
@@ -137,9 +137,9 @@ Now we have a file that contains all of our PPC destination URLs. It’s time to
 
 ### 第五步&#8212;检查文件中的错误链接
 
-The very first thing to do is make sure you have [Xenu Link Sleuth][1] on your computer. <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/xenu/" title="查看Xenu中的全部文章" target="_blank">Xenu</a></span> is a free spidering program. If you don’t have it, download it and install it now – it’ll only take a couple minutes.
+The very first thing to do is make sure you have [Xenu Link Sleuth][1] on your computer. <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/xenu/" title="查看Xenu中的全部文章" target="_blank">Xenu</a></span> is a free spidering program. If you don’t have it, download it and install it now – it’ll only take a couple minutes.
 
-Next, open <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/xenu/" title="查看Xenu中的全部文章" target="_blank">Xenu</a></span>.
+Next, open <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/xenu/" title="查看Xenu中的全部文章" target="_blank">Xenu</a></span>.
 
 Go to File > Check URL
 

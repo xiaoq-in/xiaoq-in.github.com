@@ -45,7 +45,7 @@ tags:
 
 <span style="font-size: 12px;">5.当您想购买阿里巴巴英文版国际站排名广告的时候，是否觉得排名广告价格太高？超出公司的推广预算！ </span>
 
-<span style="font-size: 12px;">6.输入您公司产品的关键字搜索时，是否能在阿里巴巴平台第一页的前几名找到？如果不能，通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e9%98%bf%e5%b7%b4%e5%b7%b4%e6%8e%92%e5%90%8d/" title="查看阿里阿巴巴排名中的全部文章" target="_blank">阿里阿巴巴排名</a></span>优化，这一点将轻而易举地做到。 </span>
+<span style="font-size: 12px;">6.输入您公司产品的关键字搜索时，是否能在阿里巴巴平台第一页的前几名找到？如果不能，通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e9%98%bf%e5%b7%b4%e5%b7%b4%e6%8e%92%e5%90%8d/" title="查看阿里阿巴巴排名中的全部文章" target="_blank">阿里阿巴巴排名</a></span>优化，这一点将轻而易举地做到。 </span>
 
 <span style="font-size: medium;"><strong><img src="http://www.alirank.net/UploadFile/2010920211344497.gif" alt="" width="6" height="6" align="absMiddle" /><a href="http://xiaoq.in/" target="_blank">阿里巴巴排名优化</a>三步法 </strong></span>
 

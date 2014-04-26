@@ -76,7 +76,7 @@ Engage-Digital Blog by Hugh Gage
 
 http://www.engage-digital.com/blog
 
-<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Blog (Google’s official blog)
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Blog (Google’s official blog)
 
 http://analytics.blogspot.com
 
@@ -136,7 +136,7 @@ Rich Page Rambling by Rich Page
 
 http://www.rich-page.com
 
-<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>Angel by Gary Angel
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>Angel by Gary Angel
 
 http://semphonic.blogs.com/semangel
 

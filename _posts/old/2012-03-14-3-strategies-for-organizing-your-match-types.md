@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/3v
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/3/705-1.png;https://xiaoq.in/thumb/cache/2012/3/705-2.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/3/705-1.png;http://blog.xiaoq.in/thumb/cache/2012/3/705-2.png;
 categories:
   - Google AdWords
 tags:
@@ -29,13 +29,13 @@ tags:
   - 词组匹配
   - 账户结构
 ---
-我在Search Engine Land专栏的最新文章是关于根据<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8c%b9%e9%85%8d%e6%96%b9%e5%bc%8f/" title="查看匹配方式中的全部文章" target="_blank">匹配方式</a></span>对账户进行组织的方式。
+我在Search Engine Land专栏的最新文章是关于根据<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8c%b9%e9%85%8d%e6%96%b9%e5%bc%8f/" title="查看匹配方式中的全部文章" target="_blank">匹配方式</a></span>对账户进行组织的方式。
 
-如果通过一个搜索查询可以触发你AdWords账户中的2个或以上<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看关键词中的全部文章" target="_blank">关键词</a></span>，Google将会尝试展现最严格的选项。这种限制不仅仅是针对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8c%b9%e9%85%8d%e6%96%b9%e5%bc%8f/" title="查看匹配方式中的全部文章" target="_blank">匹配方式</a></span>，还延伸到地理位置定位和时段设置，等等。
+如果通过一个搜索查询可以触发你AdWords账户中的2个或以上<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看关键词中的全部文章" target="_blank">关键词</a></span>，Google将会尝试展现最严格的选项。这种限制不仅仅是针对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8c%b9%e9%85%8d%e6%96%b9%e5%bc%8f/" title="查看匹配方式中的全部文章" target="_blank">匹配方式</a></span>，还延伸到地理位置定位和时段设置，等等。
 
-然而，Google并不会总是优先展现<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ae%8c%e5%85%a8%e5%8c%b9%e9%85%8d/" title="查看完全匹配中的全部文章" target="_blank">完全匹配</a></span>，其次<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%af%8d%e7%bb%84%e5%8c%b9%e9%85%8d/" title="查看词组匹配中的全部文章" target="_blank">词组匹配</a></span>，最后<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>。他们还会查看广告排名（最高每次点击费用*质量得分）。如果你有一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ae%8c%e5%85%a8%e5%8c%b9%e9%85%8d/" title="查看完全匹配中的全部文章" target="_blank">完全匹配</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看关键词中的全部文章" target="_blank">关键词</a></span>出价为0.25美金，而<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>的出价为1美金，Google通常会展现<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>关键词。
+然而，Google并不会总是优先展现<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ae%8c%e5%85%a8%e5%8c%b9%e9%85%8d/" title="查看完全匹配中的全部文章" target="_blank">完全匹配</a></span>，其次<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%af%8d%e7%bb%84%e5%8c%b9%e9%85%8d/" title="查看词组匹配中的全部文章" target="_blank">词组匹配</a></span>，最后<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>。他们还会查看广告排名（最高每次点击费用*质量得分）。如果你有一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ae%8c%e5%85%a8%e5%8c%b9%e9%85%8d/" title="查看完全匹配中的全部文章" target="_blank">完全匹配</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看关键词中的全部文章" target="_blank">关键词</a></span>出价为0.25美金，而<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>的出价为1美金，Google通常会展现<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e6%b3%9b%e5%8c%b9%e9%85%8d/" title="查看广泛匹配中的全部文章" target="_blank">广泛匹配</a></span>关键词。
 
-作为一个广告商，你将会发现完全匹配转化率高于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%af%8d%e7%bb%84%e5%8c%b9%e9%85%8d/" title="查看词组匹配中的全部文章" target="_blank">词组匹配</a></span>或者广泛匹配。你应该通过使用出价和否定词控制广告的展现。
+作为一个广告商，你将会发现完全匹配转化率高于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%af%8d%e7%bb%84%e5%8c%b9%e9%85%8d/" title="查看词组匹配中的全部文章" target="_blank">词组匹配</a></span>或者广泛匹配。你应该通过使用出价和否定词控制广告的展现。
 
 你可以在付费搜索账户中通过多种方式组织你的匹配方式。没有哪种策略是更好或更差&#8212;-他们只是不同的策略而已。在今天这篇文章中，我们将检查这3种最常见的匹配方式组织技巧，并且说明它们各自的优缺点。
 
@@ -79,7 +79,7 @@ tags:
 
 **优点：**使用这种结构的最大优点便是你可以同时根据匹配方式来调整出价和预算。这种方法还允许你针对每个匹配方式和关键词组撰写相应的广告语。
 
-**缺点：**这种<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e7%bb%93%e6%9e%84/" title="查看账户结构中的全部文章" target="_blank">账户结构</a></span>存在的一个问题是，你将很快拥有太多的广告系列。如果你每种匹配方式有多个广告组，并且每个广告组仅包含相同匹配方式的关键词，这样的话你将需要更多的广告系列，而且如果你还在做地理位置定位或者内容网络广告，那么年将会迅速被太多的广告系列充斥。
+**缺点：**这种<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e7%bb%93%e6%9e%84/" title="查看账户结构中的全部文章" target="_blank">账户结构</a></span>存在的一个问题是，你将很快拥有太多的广告系列。如果你每种匹配方式有多个广告组，并且每个广告组仅包含相同匹配方式的关键词，这样的话你将需要更多的广告系列，而且如果你还在做地理位置定位或者内容网络广告，那么年将会迅速被太多的广告系列充斥。
 
 每个广告系列必须要还设置一个预算。如果你将预算进行过度细化，那么没有一个广告系列会获得足够的流量。另外，这种方法相对其他组织结构方式而言，组织和管理将更为耗时。
 
@@ -93,6 +93,6 @@ tags:
 
 如果你管理一个超大账户，预算不断调整，新产品不断发布，并且目标定位不断变化，通过广告系列进行组织通常是最好的办法。
 
-在决定如何组织匹配方式和关键词时，检查你的目标、时间、技术以及预算。设想组织账户的不同情况。然后选择可以让你在时间允许的范围内达到目标。合适的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e7%bb%93%e6%9e%84/" title="查看账户结构中的全部文章" target="_blank">账户结构</a></span>对于管理付费搜索账户和提升成功效果而言是非常关键的。
+在决定如何组织匹配方式和关键词时，检查你的目标、时间、技术以及预算。设想组织账户的不同情况。然后选择可以让你在时间允许的范围内达到目标。合适的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e7%bb%93%e6%9e%84/" title="查看账户结构中的全部文章" target="_blank">账户结构</a></span>对于管理付费搜索账户和提升成功效果而言是非常关键的。
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://certifiedknowledge.org/blog/3-strategies-for-organizing-your-match-types/" target="_blank">http://certifiedknowledge.org/blog/3-strategies-for-organizing-your-match-types/</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://certifiedknowledge.org/blog/3-strategies-for-organizing-your-match-types/" target="_blank">http://certifiedknowledge.org/blog/3-strategies-for-organizing-your-match-types/</a>

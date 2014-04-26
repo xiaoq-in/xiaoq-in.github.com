@@ -65,4 +65,4 @@ tags:
 
 蓄意影响百度的“搜索框提示”和“相关搜索”，会严重干扰正常用户，会引起用户的反感。由于系统防范策略的作用，网站的正常名称可能会被“搜索框提示”和“相关搜索”清除，特别恶劣者，可能会影响网站在百度搜索的表现。
 
-转载自<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%99%be%e5%ba%a6%e7%ab%99%e9%95%bf%e5%b9%b3%e5%8f%b0/" title="查看百度站长平台中的全部文章" target="_blank">百度站长平台</a></span>，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9f%a5%e5%90%8d%e7%ab%99%e7%82%b9seo%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9/" title="查看知名站点SEO注意事项中的全部文章" target="_blank">知名站点SEO注意事项</a></span>：<a title="知名站点SEO注意事项" href="http://zhanzhang.baidu.com/wiki/29" target="_blank">http://zhanzhang.baidu.com/wiki/29</a>
+转载自<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%99%be%e5%ba%a6%e7%ab%99%e9%95%bf%e5%b9%b3%e5%8f%b0/" title="查看百度站长平台中的全部文章" target="_blank">百度站长平台</a></span>，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9f%a5%e5%90%8d%e7%ab%99%e7%82%b9seo%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9/" title="查看知名站点SEO注意事项中的全部文章" target="_blank">知名站点SEO注意事项</a></span>：<a title="知名站点SEO注意事项" href="http://zhanzhang.baidu.com/wiki/29" target="_blank">http://zhanzhang.baidu.com/wiki/29</a>

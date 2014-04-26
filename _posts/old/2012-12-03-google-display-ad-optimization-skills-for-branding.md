@@ -14,15 +14,15 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/18
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/12/991-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/12/991-1.gif;
 categories:
   - Google AdWords
 tags:
   - 内容广告优化
   - 品牌推广
 ---
-为品牌客户服务，谷歌<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e5%b9%bf%e5%91%8a%e4%bc%98%e5%8c%96/" title="查看内容广告优化中的全部文章" target="_blank">内容广告优化</a></span>最主要的考量标准就是cpc和ctr了，这里将讲述我的一个真实案例，当然不会提及品牌名称等敏感信息，仅供学习交流。一个专业的<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>，最终优化得出来的数据图表应该是如下图所示，前期cpc较高，ctr较低，随着你的优化，先逐步达到一个高峰，然后逐步平稳并稳中有升。  
-<img class="alignnone size-full wp-image-992" title="gdn optimization" src="http://cdn.xiaoq.in/2012/12/gdn-optimization.gif" alt="" width="1160" height="310" />
+为品牌客户服务，谷歌<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e5%b9%bf%e5%91%8a%e4%bc%98%e5%8c%96/" title="查看内容广告优化中的全部文章" target="_blank">内容广告优化</a></span>最主要的考量标准就是cpc和ctr了，这里将讲述我的一个真实案例，当然不会提及品牌名称等敏感信息，仅供学习交流。一个专业的<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>，最终优化得出来的数据图表应该是如下图所示，前期cpc较高，ctr较低，随着你的优化，先逐步达到一个高峰，然后逐步平稳并稳中有升。  
+<img class="alignnone size-full wp-image-992" title="gdn optimization" src="http://blog.xiaoq.in/cdn/2012/12/gdn-optimization.gif" alt="" width="1160" height="310" />
 
 &nbsp;
 
@@ -42,6 +42,6 @@ tags:
 
 第七，目标页面的内容。鉴于用户在内容广告上的访问行为差异，并且很可能会存在用户多次访问的情形，因此如果你的页面一直没有新鲜的东西或者广告内容与目标页面的内容完全不搭，那么很有可能，用户下次直接忽视你的广告了。这也是我们需要定期更新内容广告创意的一个原因之一了，避免用户产生厌倦心理（频次控制也能避免用户的这种困恼）。
 
-以上仅是最基本的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e5%b9%bf%e5%91%8a%e4%bc%98%e5%8c%96/" title="查看内容广告优化中的全部文章" target="_blank">内容广告优化</a></span>技巧，作为品牌客户的SEM来说，做好以上几点，你的数据图表应该也很容易做到上图这样的了，指标也很容易实现。当然，电商客户可能会不削一顾，不过作为基本的优化技巧和理念来说，都是通用的，只是我们关注的数据指标有些差异罢了。
+以上仅是最基本的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e5%b9%bf%e5%91%8a%e4%bc%98%e5%8c%96/" title="查看内容广告优化中的全部文章" target="_blank">内容广告优化</a></span>技巧，作为品牌客户的SEM来说，做好以上几点，你的数据图表应该也很容易做到上图这样的了，指标也很容易实现。当然，电商客户可能会不削一顾，不过作为基本的优化技巧和理念来说，都是通用的，只是我们关注的数据指标有些差异罢了。
 
 &nbsp;

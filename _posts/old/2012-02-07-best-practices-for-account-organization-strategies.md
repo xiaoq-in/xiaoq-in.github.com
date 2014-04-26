@@ -27,7 +27,7 @@ tags:
   - 最佳实践
   - 账户结构
 ---
-<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>给你巨大的控制权，你可以决定在何种条件下你的广告参与竞价。你可以控制：
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>给你巨大的控制权，你可以决定在何种条件下你的广告参与竞价。你可以控制：
 
 *   关键词
 *   否定关键词
@@ -44,7 +44,7 @@ tags:
 
 出价类型（预算优化【AdWords 将为我设置出价，在目标预算范围内尽可能提高点击次数】，最高CPC，转化优化，每千次展示出价）。有如此多的选项，以至于很难说出所有的组合，你想广告展示在哪里，你想为每次点击或展示付费多少。
 
-为了确保你的账户组织合理，请学习这些<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5/" title="查看最佳实践中的全部文章" target="_blank">最佳实践</a></span>技巧：
+为了确保你的账户组织合理，请学习这些<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5/" title="查看最佳实践中的全部文章" target="_blank">最佳实践</a></span>技巧：
 
 *   首先确定你的商业目标。如果你不了解你需要实现何种营销需求，那么你将很难成功。
 *   然后，学习AdWords中所有可用的定位选项。

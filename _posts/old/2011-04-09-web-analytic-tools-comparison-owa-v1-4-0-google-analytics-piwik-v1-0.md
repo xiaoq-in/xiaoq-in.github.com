@@ -34,13 +34,13 @@ tags:
   </p>
   
   <p>
-    三款主流<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e5%88%86%e6%9e%90/" title="查看网站分析中的全部文章" target="_blank">网站分析</a></span>工具比较
+    三款主流<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e5%88%86%e6%9e%90/" title="查看网站分析中的全部文章" target="_blank">网站分析</a></span>工具比较
   </p>
 </div>
 
-To help answer the question “how does <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/owa/" title="查看OWA中的全部文章" target="_blank">OWA</a></span> compares to other web analytics packages/services?” we have put together a side-by-side grid of features/functionality. It takes time to properly research the features of other software/services so right now we have only included two comparisons: <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> and Piwik. Google Analytics was included because it is the service that people most often want to compare against. Piwik was included to see how <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/owa/" title="查看OWA中的全部文章" target="_blank">OWA</a></span> compared to another open source solution.
+To help answer the question “how does <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/owa/" title="查看OWA中的全部文章" target="_blank">OWA</a></span> compares to other web analytics packages/services?” we have put together a side-by-side grid of features/functionality. It takes time to properly research the features of other software/services so right now we have only included two comparisons: <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> and Piwik. Google Analytics was included because it is the service that people most often want to compare against. Piwik was included to see how <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/owa/" title="查看OWA中的全部文章" target="_blank">OWA</a></span> compared to another open source solution.
 
-为了回答“OWA与其他<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e5%88%86%e6%9e%90/" title="查看网站分析中的全部文章" target="_blank">网站分析</a></span>工具包/服务有何不同”这个问题，我们并行列出了一些功能特性。研究其他软件/服务很费时，因此我们目前只是包含了两个比较对象：Google Analytics和Piwik。GA被收录是因为人们通常最希望与之对比。收录Piwik则是因为其同样是开源解决方案。
+为了回答“OWA与其他<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e5%88%86%e6%9e%90/" title="查看网站分析中的全部文章" target="_blank">网站分析</a></span>工具包/服务有何不同”这个问题，我们并行列出了一些功能特性。研究其他软件/服务很费时，因此我们目前只是包含了两个比较对象：Google Analytics和Piwik。GA被收录是因为人们通常最希望与之对比。收录Piwik则是因为其同样是开源解决方案。
 
 We hope to add more comparisons with other vendors as time permits.
 
@@ -53,12 +53,12 @@ We hope to add more comparisons with other vendors as time permits.
     </td>
     
     <td width="24%">
-      <strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/owa-v1-4-0/" title="查看OWA v1.4.0中的全部文章" target="_blank">OWA v1.4.0</a></span></strong></p> <p>
-        <strong><img class="alignnone size-full wp-image-245" title="owa-logo-100w" src="http://cdn.54jack.com/images/2011/04/owa-logo-100w.png" alt="" width="100" height="55" /> </strong><strong> </strong></td> <td width="23%">
+      <strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/owa-v1-4-0/" title="查看OWA v1.4.0中的全部文章" target="_blank">OWA v1.4.0</a></span></strong></p> <p>
+        <strong><img class="alignnone size-full wp-image-245" title="owa-logo-100w" src="http://blog.xiaoq.in/cdn/images/2011/04/owa-logo-100w.png" alt="" width="100" height="55" /> </strong><strong> </strong></td> <td width="23%">
           <strong>Google Analytics</strong><strong> </strong></p> <p>
-            <strong><img class="alignnone size-full wp-image-246" title="google-analytics-logo-100w" src="http://cdn.54jack.com/images/2011/04/google-analytics-logo-100w.png" alt="" width="100" height="72" /></strong></td> <td width="23%">
-              <strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/piwik-v1-0/" title="查看Piwik v1.0中的全部文章" target="_blank">Piwik v1.0</a></span></strong><strong> </strong></p> <p>
-                <strong><img class="alignnone size-full wp-image-247" title="piwik-logo-100w" src="http://cdn.54jack.com/images/2011/04/piwik-logo-100w.png" alt="" width="100" height="36" /> </strong></td> </tr> <tr>
+            <strong><img class="alignnone size-full wp-image-246" title="google-analytics-logo-100w" src="http://blog.xiaoq.in/cdn/images/2011/04/google-analytics-logo-100w.png" alt="" width="100" height="72" /></strong></td> <td width="23%">
+              <strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/piwik-v1-0/" title="查看Piwik v1.0中的全部文章" target="_blank">Piwik v1.0</a></span></strong><strong> </strong></p> <p>
+                <strong><img class="alignnone size-full wp-image-247" title="piwik-logo-100w" src="http://blog.xiaoq.in/cdn/images/2011/04/piwik-logo-100w.png" alt="" width="100" height="36" /> </strong></td> </tr> <tr>
                   <td colspan="4">
                     <strong>概览</strong><strong> </strong>
                   </td>
@@ -645,5 +645,5 @@ We hope to add more comparisons with other vendors as time permits.
                 </p>
                 
                 <p>
-                  本文原创<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>自<a title="OWA" href="http://www.openwebanalytics.com/?page_id=158" target="_blank">Open Web Analytics</a>，<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>：<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>。转载请注明出处，谢谢。
+                  本文原创<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>自<a title="OWA" href="http://www.openwebanalytics.com/?page_id=158" target="_blank">Open Web Analytics</a>，<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>：<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>。转载请注明出处，谢谢。
                 </p>

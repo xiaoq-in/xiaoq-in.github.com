@@ -31,16 +31,16 @@ tags:
   - 面包屑
   - 预计点击率
 ---
-四月份，<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>进行了很多更新，主要有：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>整合到一个选项卡，操作更便捷了；完全匹配和词组匹配增加变体选项，对于扩展错拼词和单复数等变体词很有帮助；<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%98%be%e7%a4%ba%e7%bd%91%e5%9d%80/" title="查看显示网址中的全部文章" target="_blank">显示网址</a></span>包含<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%86%e5%b1%82%e9%93%be%e6%8e%a5/" title="查看分层链接中的全部文章" target="_blank">分层链接</a></span>（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>），对点击率大有帮助；<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>增加3个数据维度（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%a2%84%e8%ae%a1%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看预计点击率中的全部文章" target="_blank">预计点击率</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看广告相关性中的全部文章" target="_blank">广告相关性</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span>），从而更方便进行广告效果改善。
+四月份，<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>进行了很多更新，主要有：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>整合到一个选项卡，操作更便捷了；完全匹配和词组匹配增加变体选项，对于扩展错拼词和单复数等变体词很有帮助；<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%98%be%e7%a4%ba%e7%bd%91%e5%9d%80/" title="查看显示网址中的全部文章" target="_blank">显示网址</a></span>包含<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%86%e5%b1%82%e9%93%be%e6%8e%a5/" title="查看分层链接中的全部文章" target="_blank">分层链接</a></span>（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>），对点击率大有帮助；<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>增加3个数据维度（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%a2%84%e8%ae%a1%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看预计点击率中的全部文章" target="_blank">预计点击率</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看广告相关性中的全部文章" target="_blank">广告相关性</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span>），从而更方便进行广告效果改善。
 
 <img class="alignnone size-full wp-image-771" title="google-adwords-square-logo-100x60" src="http://xiaoq.in/g/pics/2012/04/google-adwords-square-logo-100x60.gif" alt="" width="100" height="60" />
 
-<a title="包含分层网站链接的显示网址" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1704389" target="_blank"><strong>包含分层网站链接的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%98%be%e7%a4%ba%e7%bd%91%e5%9d%80/" title="查看显示网址中的全部文章" target="_blank">显示网址</a></span></strong></a>
+<a title="包含分层网站链接的显示网址" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1704389" target="_blank"><strong>包含分层网站链接的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%98%be%e7%a4%ba%e7%bd%91%e5%9d%80/" title="查看显示网址中的全部文章" target="_blank">显示网址</a></span></strong></a>
 
 <div>
   <div>
     <p>
-      您有可能会看到文字广告的显示网址中包含一系列分层的链接，显示了您网站上各个网页的具体位置。我们将这些链接称为“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>”(breadcrumb)，这个词源于格林童话《亨塞乐与格兰特》，亨塞乐沿着<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>穿过森林，找到了回家的路。或者，为便于理解，我们就叫它“分层路径”。这些分层的路径链接可以帮助用户轻松访问您网站上的各个相关部分。
+      您有可能会看到文字广告的显示网址中包含一系列分层的链接，显示了您网站上各个网页的具体位置。我们将这些链接称为“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>”(breadcrumb)，这个词源于格林童话《亨塞乐与格兰特》，亨塞乐沿着<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%9d%a2%e5%8c%85%e5%b1%91/" title="查看面包屑中的全部文章" target="_blank">面包屑</a></span>穿过森林，找到了回家的路。或者，为便于理解，我们就叫它“分层路径”。这些分层的路径链接可以帮助用户轻松访问您网站上的各个相关部分。
     </p>
     
     <p>
@@ -100,7 +100,7 @@ tags:
     </p>
     
     <p>
-      现在，您可在一个位置找到所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>定位和排除对象。我们已将<strong>投放网络</strong>、<strong>受众群体</strong>和<strong>主题</strong>标签转移到新的<strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span></strong>标签下，以便您能够更轻松地构建、监控和优化自己的展示广告系列。
+      现在，您可在一个位置找到所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>定位和排除对象。我们已将<strong>投放网络</strong>、<strong>受众群体</strong>和<strong>主题</strong>标签转移到新的<strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span></strong>标签下，以便您能够更轻松地构建、监控和优化自己的展示广告系列。
     </p>
     
     <p>
@@ -126,7 +126,7 @@ tags:
     </p>
     
     <p>
-      <a title="查看质量得分" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=2454010&from=10215&rd=1" target="_blank"><strong>查看<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span></strong></a>
+      <a title="查看质量得分" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=2454010&from=10215&rd=1" target="_blank"><strong>查看<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span></strong></a>
     </p>
     
     <p>
@@ -134,20 +134,20 @@ tags:
     </p>
     
     <p>
-      <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>的三个主要影响因素直观地呈现出来，更方便进行广告效果改善，这三个维度分别为：
+      <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>的三个主要影响因素直观地呈现出来，更方便进行广告效果改善，这三个维度分别为：
     </p>
     
     <p>
-      <strong><a title="预计点击率" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659696" target="_blank">预计点击率</a>：</strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%a2%84%e8%ae%a1%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看预计点击率中的全部文章" target="_blank">预计点击率</a></span>是一种关键字状态，可衡量您的广告在针对相应关键字展示时，有多大的可能性获得点击。该指标与广告的排名无关。
+      <strong><a title="预计点击率" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659696" target="_blank">预计点击率</a>：</strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%a2%84%e8%ae%a1%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看预计点击率中的全部文章" target="_blank">预计点击率</a></span>是一种关键字状态，可衡量您的广告在针对相应关键字展示时，有多大的可能性获得点击。该指标与广告的排名无关。
     </p>
     
     <div id="article-content-div">
       <p>
-        <strong><a title="广告相关性" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659752" target="_blank">广告相关性</a>：</strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看广告相关性中的全部文章" target="_blank">广告相关性</a></span>是一种关键字状态，它可以衡量您的关键字与广告之间的相关程度。
+        <strong><a title="广告相关性" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659752" target="_blank">广告相关性</a>：</strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看广告相关性中的全部文章" target="_blank">广告相关性</a></span>是一种关键字状态，它可以衡量您的关键字与广告之间的相关程度。
       </p>
       
       <p>
-        <a title="目标网页体验" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659694" target="_blank"><strong><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span></strong></a>：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span>是一种关键字状态，它可以衡量您网站的目标网页对点击您广告的用户有多大帮助。
+        <a title="目标网页体验" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=1659694" target="_blank"><strong><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span></strong></a>：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e7%bd%91%e9%a1%b5%e4%bd%93%e9%aa%8c/" title="查看目标网页体验中的全部文章" target="_blank">目标网页体验</a></span>是一种关键字状态，它可以衡量您网站的目标网页对点击您广告的用户有多大帮助。
       </p>
       
       <p>

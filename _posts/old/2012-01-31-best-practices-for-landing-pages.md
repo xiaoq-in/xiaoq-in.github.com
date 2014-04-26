@@ -26,11 +26,11 @@ tags:
   - 最佳实践
   - 着陆页面
 ---
-设计正确的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>是将搜索者转换为买家的一项关键技术。在此出错将会把潜在客户带回起点或者竞争对手网站。
+设计正确的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>是将搜索者转换为买家的一项关键技术。在此出错将会把潜在客户带回起点或者竞争对手网站。
 
 以下是一些你必须解决以提升成功几率的关键性问题：
 
-*   确保你的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>回答搜索者的问题&#8212;不是搜索查询本身，而是搜索者的需求，他们想知道你的网站是否可以满足他们的需求。
+*   确保你的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>回答搜索者的问题&#8212;不是搜索查询本身，而是搜索者的需求，他们想知道你的网站是否可以满足他们的需求。
 *   起草目标网址时使其符合谷歌的编辑政策，并增加额外的跟踪信息以便你可以查看AdWords访客是如何浏览你的网站及完成转化。
 *   把用户带到你网站中与用户所处购买漏斗阶段相对应的最相关页面，或者专为搜索查询创建的页面。
 *   正确导引AdWords流量是至关重要的。为了这样做，你需要了解不同种类的用户查询：交易型，信息型，以及导航型。

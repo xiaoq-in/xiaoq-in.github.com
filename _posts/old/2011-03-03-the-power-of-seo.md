@@ -29,7 +29,7 @@ SEO，可以塑造品牌。
 
 这是到今天为止对SEO的一个非常深刻的认识，并且亲身经历过的。
 
-<img class="alignnone size-full wp-image-176" title="power of seo" src="http://cdn.54jack.com/images/2011/03/power-of-seo.gif" alt="" width="710" height="390" />
+<img class="alignnone size-full wp-image-176" title="power of seo" src="http://blog.xiaoq.in/cdn/images/2011/03/power-of-seo.gif" alt="" width="710" height="390" />
 
 我们看到网上有很多所谓的伪原创，而有些竞争对手甚至可以做到搜索你的关键词排名在你的前面，而且更为可恶的是，他们在“伪原创”的文章中进行批量替换，对很多关键词进行反义替换，对你进行恶意攻击。而在这个时候，他们的丑陋嘴脸也暴露无疑：敲诈。
 

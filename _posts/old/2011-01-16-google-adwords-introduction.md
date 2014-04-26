@@ -27,9 +27,9 @@ categories:
 tags:
   - 谷歌广告
 ---
-相对而言，<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>之于我并不陌生，早在2007年11月27号我就开通了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%b9%bf%e5%91%8a/" title="查看谷歌广告中的全部文章" target="_blank">谷歌广告</a></span>（<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>），<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%b9%bf%e5%91%8a/" title="查看谷歌广告中的全部文章" target="_blank">谷歌广告</a></span>的开通门槛很低，只需一百块的启动费，没有最低消费，完全自主控制预算及费用。首次开通会有很大的优惠，比如我充值了一百块，账号里面会有五百块，如果充值3000会再送三千。（谷歌谷歌广告，看到他们自家的开户广告，填写优惠活动表单，谷歌广告销售人员会主动联系你，并发送链接给你让你授权他进入后台发送优惠）。
+相对而言，<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>之于我并不陌生，早在2007年11月27号我就开通了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%b9%bf%e5%91%8a/" title="查看谷歌广告中的全部文章" target="_blank">谷歌广告</a></span>（<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>），<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%b9%bf%e5%91%8a/" title="查看谷歌广告中的全部文章" target="_blank">谷歌广告</a></span>的开通门槛很低，只需一百块的启动费，没有最低消费，完全自主控制预算及费用。首次开通会有很大的优惠，比如我充值了一百块，账号里面会有五百块，如果充值3000会再送三千。（谷歌谷歌广告，看到他们自家的开户广告，填写优惠活动表单，谷歌广告销售人员会主动联系你，并发送链接给你让你授权他进入后台发送优惠）。
 
-<img class="alignnone size-full wp-image-104" title="google adwords introduction" src="http://cdn.54jack.com/images/2011/01/google-adwords-introduction.bmp" alt="" />
+<img class="alignnone size-full wp-image-104" title="google adwords introduction" src="http://blog.xiaoq.in/cdn/images/2011/01/google-adwords-introduction.bmp" alt="" />
 
 标准 AdWords 文字广告的外观如下：
 

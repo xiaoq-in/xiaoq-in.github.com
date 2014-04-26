@@ -14,7 +14,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/r
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/7/1228-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2013/7/1228-1.gif;
 categories:
   - Google AdWords
 tags:
@@ -23,9 +23,9 @@ tags:
   - SeoTools for Excel
   - 展示位置定位
 ---
-内容广告有着诸多的定位方式，比如<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/scm/" title="查看SCM中的全部文章" target="_blank">SCM</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>、兴趣类别、兴趣倾向、关键字、主题、再营销（动态再营销）、以及<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>。内容广告的核心是目标受众的精准定位，本文虽然说通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>锁定目标受众，但并不否定受众为中心这个基本理念。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>，对于大多数效果型的广告主来说，可以说是最具效力的定位方式（当然，再营销除外），它是你了解受众的渠道、拓展受众的基础、锁定大多数目标受众的最有效方式。
+内容广告有着诸多的定位方式，比如<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/scm/" title="查看SCM中的全部文章" target="_blank">SCM</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>、兴趣类别、兴趣倾向、关键字、主题、再营销（动态再营销）、以及<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>。内容广告的核心是目标受众的精准定位，本文虽然说通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>锁定目标受众，但并不否定受众为中心这个基本理念。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae%e5%ae%9a%e4%bd%8d/" title="查看展示位置定位中的全部文章" target="_blank">展示位置定位</a></span>，对于大多数效果型的广告主来说，可以说是最具效力的定位方式（当然，再营销除外），它是你了解受众的渠道、拓展受众的基础、锁定大多数目标受众的最有效方式。
 
-<img class="alignnone size-full wp-image-1233" alt="placement targeting" src="http://cdn.xiaoq.in/2013/07/placement-targeting.gif" width="275" height="320" />
+<img class="alignnone size-full wp-image-1233" alt="placement targeting" src="http://blog.xiaoq.in/cdn/2013/07/placement-targeting.gif" width="275" height="320" />
 
 一般来说，一个成熟的账户中，展示位置定位需要占据半壁江山，因为其中很多的网站只需要展示位置定位或其组合就能获得更好的收益。不信的话请跑一个展示位置报告，往往排名前10的域名基本会带来大概30%的转化数量（特殊行业除外，一般是用户群的差异性太大，一般来说一个行业的受众访问习惯差不多的，会呈现一种聚众效应，比如想租房的人很多会去58、赶集、百姓网等网站）。在前期的话，可能兴趣、主题和关键字为主，因为你无法猜测或摸清用户的浏览习惯，当然，通过行业调研报告、使用展示广告规划师可以让你更有底一些，但行业水平跟你的实际业务可能还是有些差距，你可能不敢冒险以更高的出价去定投一些网站。
 
@@ -39,8 +39,8 @@ tags:
 
 出价一般先高后低，同时确保点击率不要太低，这样你的账户质量可以积累，同时也可以在前期跑更多的数据。一般来说，你的账户表现越好，能跑更多的量，并且CPA也能够逐步降低下来，而最终的这个CPA对于一个新账户或效果差的账户来说甚至可能是基本无法获得展示的。
 
-另外可以新建一个空白的广告组专门进行<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告的投放，看看自动优化的效果，稍微关注和调控下，往往也会如你所愿，并且可以开拓新客源，后期再可以考虑逐步排除已经定投的域名，总有些你没有覆盖到的，如果量大再将这个域名单独分组。如此循环往复，滚雪球一般。
+另外可以新建一个空白的广告组专门进行<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告的投放，看看自动优化的效果，稍微关注和调控下，往往也会如你所愿，并且可以开拓新客源，后期再可以考虑逐步排除已经定投的域名，总有些你没有覆盖到的，如果量大再将这个域名单独分组。如此循环往复，滚雪球一般。
 
-文章开头也提到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/scm/" title="查看SCM中的全部文章" target="_blank">SCM</a></span>，这种广告形式对于本地搜索量小的广告主尤其有效，因为它的原理是所有搜索引擎的SEO结果的目标页面，只要这个目标页面中有GDN的展示位置，那么都是你的~对这种广告进行优化，主要可以参考你所在行业的一些支持GDN的大流量网站的keyword meta，或者文章标题，直接从主流搜索引擎广告后台拿搜索词也可以。这种一般流量会很大，而且相关度也很高，转化率甚至会比再营销还好。当然，本文主要说展示位置定位，这种投放出来的展示位置也是非常不错的，组合关键词效果更佳，但量会打些折扣，综合来看吧。
+文章开头也提到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/scm/" title="查看SCM中的全部文章" target="_blank">SCM</a></span>，这种广告形式对于本地搜索量小的广告主尤其有效，因为它的原理是所有搜索引擎的SEO结果的目标页面，只要这个目标页面中有GDN的展示位置，那么都是你的~对这种广告进行优化，主要可以参考你所在行业的一些支持GDN的大流量网站的keyword meta，或者文章标题，直接从主流搜索引擎广告后台拿搜索词也可以。这种一般流量会很大，而且相关度也很高，转化率甚至会比再营销还好。当然，本文主要说展示位置定位，这种投放出来的展示位置也是非常不错的，组合关键词效果更佳，但量会打些折扣，综合来看吧。
 
 &nbsp;

@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/1q
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/7/817-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/7/817-1.png;
 categories:
   - Google AdWords
 tags:
@@ -26,7 +26,7 @@ tags:
   - 展示广告网络
   - 展示网络广告
 ---
-在当今竞争日益激烈的市场环境下，尤其是在中国的特定国情下，Google的搜索市场份额相对下滑，谷歌<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>可以说是成功与否的杀手锏。如果你是做品牌推广，那么谷歌强大的内容网络合作伙伴和广告位置是你的不二选择，你的广告可以投放到赶集，58等本地网站，新浪网、凤凰网等门户网站，以及数以百万计的中小网站和垂直行业网站。如果你在做直效广告，那么通过再营销和关键词定位、兴趣定位等方式，你可以在扩大用户基数的同时，以更低的价格获得较为精准的流量，从而在降低转化成本的同时提升转化数量。
+在当今竞争日益激烈的市场环境下，尤其是在中国的特定国情下，Google的搜索市场份额相对下滑，谷歌<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a%e7%bd%91%e7%bb%9c/" title="查看展示广告网络中的全部文章" target="_blank">展示广告网络</a></span>可以说是成功与否的杀手锏。如果你是做品牌推广，那么谷歌强大的内容网络合作伙伴和广告位置是你的不二选择，你的广告可以投放到赶集，58等本地网站，新浪网、凤凰网等门户网站，以及数以百万计的中小网站和垂直行业网站。如果你在做直效广告，那么通过再营销和关键词定位、兴趣定位等方式，你可以在扩大用户基数的同时，以更低的价格获得较为精准的流量，从而在降低转化成本的同时提升转化数量。
 
 内容广告是一个非常好的东西，但是很多人可能并不敢轻易尝试或者不懂得如何去做优化，从而产生一种极端偏见：内容广告虽然cpc便宜，但是太多“垃圾网站”产生巨量的“无效”点击，它们简直就是在浪费钱！
 
@@ -47,7 +47,7 @@ tags:
 3.  兴趣定位。
 4.  主题定位。
 5.  再营销。
-6.  <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>。
+6.  <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>。
 
 关于这些广告系列的基本设置，在此也不再累赘，请参看<a title="AdWords帮助" href="http://support.google.com/adwords" target="_blank">Google AdWords的帮助中心</a>，这几个是重点和难点，需要重点把握：<a title="展示广告网络入门指南" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=2580399" target="_blank">展示广告网络入门指南</a>，<a title="您的广告在展示广告网络中的展示位置取决于您的定位方法" href="https://support.google.com/adwords/bin/answer.py?hl=zh-cn&answer=1209882" target="_blank">您的广告在展示广告网络中的展示位置取决于您的定位方法</a>，<a title="出价在展示广告网络中的用法" href="http://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=2580293&from=116285&rd=1" target="_blank">出价在展示广告网络中的用法</a>，<a title="评估展示广告网络上的广告效果" href="https://support.google.com/adwords/bin/answer.py?hl=zh-Hans&answer=2404178" target="_blank">评估展示广告网络上的广告效果</a>。
 
@@ -59,8 +59,8 @@ tags:
 
 做内容广告的话，你可能更需要关注辅助转化。通过搜索渠道和启用浏览型转化，你可以查看到一部分相关的数据。
 
-*在看到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a/" title="查看展示广告中的全部文章" target="_blank">展示广告</a></span>的消费者中，有五分之一的人会执行相关搜索，三分之一的人会访问相关网站。信息来源：“无声的点击：打造在线品牌”(The Silent Click: Building Brands Online)，Online Publishers Association，2009 年 6 月*  
-*最近的一项研究显示，与没有看到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a/" title="查看展示广告中的全部文章" target="_blank">展示广告</a></span>的用户相比，看到此类广告的用户访问相应广告客户网站的可能性提高了 268%，浏览的网页数量平均多出了 355%。信息来源：comScore 在线固定样本组调查结果；调查总数：67 项调查*
+*在看到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a/" title="查看展示广告中的全部文章" target="_blank">展示广告</a></span>的消费者中，有五分之一的人会执行相关搜索，三分之一的人会访问相关网站。信息来源：“无声的点击：打造在线品牌”(The Silent Click: Building Brands Online)，Online Publishers Association，2009 年 6 月*  
+*最近的一项研究显示，与没有看到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e5%b9%bf%e5%91%8a/" title="查看展示广告中的全部文章" target="_blank">展示广告</a></span>的用户相比，看到此类广告的用户访问相应广告客户网站的可能性提高了 268%，浏览的网页数量平均多出了 355%。信息来源：comScore 在线固定样本组调查结果；调查总数：67 项调查*
 
 做内容广告通常还需要进行的一项设置是对类别进行排除，比如排除域名停放网站，带有性或者暴力内容网站，死亡、恐怖、灾难，视频，直播等类别的网站。这些类别的网站一般效果会较差，建议排除，具体根据需要。
 
@@ -68,7 +68,7 @@ tags:
 
 做优化，其实无外乎有几点：定位更精准，出价更优化，平衡收支点，提升转化数。定位方式，同搜索广告类似，一般可以做地理位置精简，时段精简，关键词否定，展示位置否定。最近兴起的社交网络也是一个建议开启的选项。出价及其后面的几个方面，需要看你的目标，不能一概而论，尤其是针对老板的：“这些关键词必须保证前三或第一位”，如同招商银行对于客服的规定：“必须等客户挂断电话之后才能挂断”。实在让人哭笑不得！
 
-内容广告的效果一般而言在初期是非常的差的，但是随着优化的进行，效果会越来越好。如果你使用过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>的话，对于这点的体会会更深些。
+内容广告的效果一般而言在初期是非常的差的，但是随着优化的进行，效果会越来越好。如果你使用过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>的话，对于这点的体会会更深些。
 
 最近在进行另外一项测试，就是将再营销代码放置到其他大流量的相关网站，发现效果也是非常的不错，这就相当于你在更广泛的受众中进行挑选，而这部分受众也是相关的。<a title="百度精准广告" href="http://ad.baidu.com/adjz.html" target="_blank">百度的精准广告</a>原理也大抵如此吧。其他一些国外的再营销公司，他们的做法其实也是类似于此。你首先需要对用户数据进行收集，然后再对这部分用户进行筛选并针对性的推送广告。
 

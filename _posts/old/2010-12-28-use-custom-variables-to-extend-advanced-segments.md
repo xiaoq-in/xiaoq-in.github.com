@@ -23,15 +23,15 @@ tags:
   - 自定义变量
   - 高级细分
 ---
-本文转载自<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>帮助中心：<a href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&answer=2481996" title="使用自定义变量来扩展高级细分" target="_blank">使用自定义变量来扩展高级细分</a>。
+本文转载自<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>帮助中心：<a href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&answer=2481996" title="使用自定义变量来扩展高级细分" target="_blank">使用自定义变量来扩展高级细分</a>。
 
-您可以使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来扩展<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>的范围。
+您可以使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来扩展<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>的范围。
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>依据的标准是用户的会话（访问）数据。如果某个访问者在指定日期范围内的任意一次访问中达到了您的高级细分条件，该访问者就会被加入该细分中。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>依据的标准是用户的会话（访问）数据。如果某个访问者在指定日期范围内的任意一次访问中达到了您的高级细分条件，该访问者就会被加入该细分中。
 
 例如，假设您创建了一个高级细分来找出从未转化过的访问者（与该访问者对应的收入等于 0）。在这种情况下，如果某个访问者在指定日期范围内有 4 次访问带来的收入高于 100 元，同时有 1 次访问带来的收入为 0 元，就会被错误地归类为从未转化过的访问者。
 
-为避免这种错误归类的情况，您可以使用访问者级的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来汇总多个会话的行为，然后再根据该自定义变量创建高级细分。
+为避免这种错误归类的情况，您可以使用访问者级的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来汇总多个会话的行为，然后再根据该自定义变量创建高级细分。
 
 自定义变量有三种：
 

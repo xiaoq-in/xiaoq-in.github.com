@@ -14,7 +14,7 @@ ratings_score:
 ratings_average:
   - 5
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/10/1337-1.png;https://xiaoq.in/thumb/cache/2013/10/1337-2.png;
+  - http://blog.xiaoq.in/thumb/cache/2013/10/1337-1.png;http://blog.xiaoq.in/thumb/cache/2013/10/1337-2.png;
 categories:
   - Google Analytics
 tags:
@@ -26,22 +26,22 @@ tags:
   - 数字分析入门
   - 数字分析基础
 ---
-<a title="Analytics Academy" href="https://analyticsacademy.withgoogle.com/course" target="_blank">Analytics Academy</a>是一个由<a title="Justin Cutroni" href="http://cutroni.com/blog/2013/10/01/analytics-academy-a-new-way-to-learn-about-digital-analytics/" target="_blank">Justin Cutroni</a>主导的关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%95%b0%e5%ad%97%e5%88%86%e6%9e%90/" title="查看数字分析中的全部文章" target="_blank">数字分析</a></span>的基础课程，主要基于<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>讲述数据分析的基本理念和思路，视频讲解并且带有配套的在线考试（完全免费，完成之后能拿到一个证书，与<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>IQ不同），同时如果有问题还能通过论坛、Google+等形式与网友或导师进行互动。这是一个不错的学习资源，推荐大家去学习下。以下，我将对其中部分关键的信息进行翻译，英文不太好的童鞋也可以参考下。
+<a title="Analytics Academy" href="https://analyticsacademy.withgoogle.com/course" target="_blank">Analytics Academy</a>是一个由<a title="Justin Cutroni" href="http://cutroni.com/blog/2013/10/01/analytics-academy-a-new-way-to-learn-about-digital-analytics/" target="_blank">Justin Cutroni</a>主导的关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%95%b0%e5%ad%97%e5%88%86%e6%9e%90/" title="查看数字分析中的全部文章" target="_blank">数字分析</a></span>的基础课程，主要基于<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>讲述数据分析的基本理念和思路，视频讲解并且带有配套的在线考试（完全免费，完成之后能拿到一个证书，与<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>IQ不同），同时如果有问题还能通过论坛、Google+等形式与网友或导师进行互动。这是一个不错的学习资源，推荐大家去学习下。以下，我将对其中部分关键的信息进行翻译，英文不太好的童鞋也可以参考下。
 
-<img class="alignnone size-full wp-image-1343" alt="AA_Full-lesson-view" src="http://cdn.xiaoq.in/2013/10/AA_Full-lesson-view2.png" width="600" height="585" />
+<img class="alignnone size-full wp-image-1343" alt="AA_Full-lesson-view" src="http://blog.xiaoq.in/cdn/2013/10/AA_Full-lesson-view2.png" width="600" height="585" />
 
 &#8220;Digital analytics&#8221; is the analysis of qualitative and quantitative data from your business and the competition to drive a continual improvement, of the online experience that your customers and potential customers have which translates to your desired outcomes.
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%95%b0%e5%ad%97%e5%88%86%e6%9e%90/" title="查看数字分析中的全部文章" target="_blank">数字分析</a></span>是对业务和竞争数据的定量和定性分析，从而持续改进客户和潜在客户的线上经历，并将其经历转化为期望目标。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%95%b0%e5%ad%97%e5%88%86%e6%9e%90/" title="查看数字分析中的全部文章" target="_blank">数字分析</a></span>是对业务和竞争数据的定量和定性分析，从而持续改进客户和潜在客户的线上经历，并将其经历转化为期望目标。
 
-Which of the following platforms is <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span> capable of tracking?（ABCD）  
+Which of the following platforms is <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span> capable of tracking?（ABCD）  
 User activity on a website  
 User activity on a mobile website  
 User activity on a mobile application  
 User activity on a gaming console  
 User activity on any digitally connected device
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>能够监测网站、移动网站、应用、游戏终端以及其他任何的联网数字设备。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>能够监测网站、移动网站、应用、游戏终端以及其他任何的联网数字设备。
 
 内容发布平台的期望目标：鼓励经常访问；品牌客户：激励互动提升知名度；在线文档/支持：快速提供信息；询盘为导向公司：促进联系表单提交；电商：促进销售。
 
@@ -80,17 +80,17 @@ A potential customer joins your social media community.
 
 A customer visits your site four times in a month before making a $100 purchase on your site. Given the following sequence of channels that the user visited from, how much conversion credit would be assigned to the &#8220;display ad&#8221;?
 
-<img class="alignnone size-full wp-image-1339" alt="Activity1.3" src="http://cdn.xiaoq.in/2013/10/Activity1.31.png" width="740" height="134" />
+<img class="alignnone size-full wp-image-1339" alt="Activity1.3" src="http://blog.xiaoq.in/cdn/2013/10/Activity1.31.png" width="740" height="134" />
 
 $0 $25 $100  
 First-click attribution  
 Last-click attribution  
 Linear attribution
 
-这个题目是关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>中的归因模型的，别看这个很高级的样子，在此其实并不那么复杂，这个考试主要考查基于首次点击的归因、基于最后点击的归因、基于线性归因。从字面意思理解都很容易。即如果是第一次点击算，则展示广告是价值是0，因为它并非第一次点击；如果是最后一次点击算，则展示广告是100，因为所有的价值都算在它头上（这个模式可能是大多数公司的算法）；如果是基于线性的话，则四个渠道平分，因此是25。通过对归因模型的分析，我们可以找出各个渠道之间的相互影响，特别是在如今跨平台跨渠道用户十分纠结的情况下，这种底层现象不容忽视。
+这个题目是关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>中的归因模型的，别看这个很高级的样子，在此其实并不那么复杂，这个考试主要考查基于首次点击的归因、基于最后点击的归因、基于线性归因。从字面意思理解都很容易。即如果是第一次点击算，则展示广告是价值是0，因为它并非第一次点击；如果是最后一次点击算，则展示广告是100，因为所有的价值都算在它头上（这个模式可能是大多数公司的算法）；如果是基于线性的话，则四个渠道平分，因此是25。通过对归因模型的分析，我们可以找出各个渠道之间的相互影响，特别是在如今跨平台跨渠道用户十分纠结的情况下，这种底层现象不容忽视。
 
 Which of the following should be the first step you complete during the analytics planning process?（C）  
-Implement <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>  
+Implement <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>  
 Create your implementation plan  
 Define your overall measurement plan and business objectives  
 Maintain and refine your plans  

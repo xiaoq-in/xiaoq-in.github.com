@@ -17,7 +17,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/37
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2009/9/332-1.jpg;https://xiaoq.in/thumb/cache/2009/9/332-2.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2009/9/332-1.jpg;http://blog.xiaoq.in/thumb/cache/2009/9/332-2.jpg;
 categories:
   - 生活札记
 tags:
@@ -26,7 +26,7 @@ tags:
   - 思想道德与法律基础
   - 理论热点面对面2009
 ---
-昨天，从早上8点直到晚上10点，连续上了12个小时的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%80%9d%e6%83%b3%e9%81%93%e5%be%b7%e4%b8%8e%e6%b3%95%e5%be%8b%e5%9f%ba%e7%a1%80/" title="查看思想道德与法律基础中的全部文章" target="_blank">思想道德与法律基础</a></span>课。昨天晚上却又看了一部电影，《钢琴师》，直到两点。因此，今天浪费了半天。文都太黑了，一天半的课程压缩到一天，又可以节省不少开支了。  
+昨天，从早上8点直到晚上10点，连续上了12个小时的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%80%9d%e6%83%b3%e9%81%93%e5%be%b7%e4%b8%8e%e6%b3%95%e5%be%8b%e5%9f%ba%e7%a1%80/" title="查看思想道德与法律基础中的全部文章" target="_blank">思想道德与法律基础</a></span>课。昨天晚上却又看了一部电影，《钢琴师》，直到两点。因此，今天浪费了半天。文都太黑了，一天半的课程压缩到一天，又可以节省不少开支了。  
 不说了，按照上课老师的推荐，又买了两本书。今天，只花了两小时就把那个梯度练习的基础篇做完了，感觉这个不是太难。  
 [<img src="http://ecx.images-amazon.com/images/I/41xLtEGLj%2BL._AA200_.jpg" border="0" alt=" “六个为什么”:对若干重大问题的解答" />][1][<img src="http://ecx.images-amazon.com/images/I/51lwTFIEcoL._AA200_.jpg" border="0" alt=" 理论热点面对面2009" />][2]
 

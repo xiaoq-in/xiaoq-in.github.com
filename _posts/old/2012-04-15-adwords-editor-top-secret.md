@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/5g
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/754-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/754-1.png;
 categories:
   - Google AdWords
 tags:
@@ -25,8 +25,8 @@ tags:
   - 完美指南
   - 编辑器
 ---
-<a title="AdWords 编辑器" href="http://www.google.com/intl/zh-CN/adwordseditor/index.html" target="_blank">Google AdWords 编辑器</a>是进行大型账户管理的一个必备工具，随着版本的持续更新，功能和性能都在不断提升。通过使用AdWords<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bc%96%e8%be%91%e5%99%a8/" title="查看编辑器中的全部文章" target="_blank">编辑器</a></span>，你可以大大提高工作效率，并且对于新手而言，还能够避免在AdWords在线后台中的一些操作对账户的质量得分的影响。如果配合使用思维导图和Excel，那么你的思路会更清晰，效率会更高。  
-就个人而言，我偏向于使用思维导图构建账户结果，把各个广告系列和广告组之间的关系理清，然后再复制到Excel中，使之形成符合<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bc%96%e8%be%91%e5%99%a8/" title="查看编辑器中的全部文章" target="_blank">编辑器</a></span>的规范格式，最后再导入到编辑器中。
+<a title="AdWords 编辑器" href="http://www.google.com/intl/zh-CN/adwordseditor/index.html" target="_blank">Google AdWords 编辑器</a>是进行大型账户管理的一个必备工具，随着版本的持续更新，功能和性能都在不断提升。通过使用AdWords<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bc%96%e8%be%91%e5%99%a8/" title="查看编辑器中的全部文章" target="_blank">编辑器</a></span>，你可以大大提高工作效率，并且对于新手而言，还能够避免在AdWords在线后台中的一些操作对账户的质量得分的影响。如果配合使用思维导图和Excel，那么你的思路会更清晰，效率会更高。  
+就个人而言，我偏向于使用思维导图构建账户结果，把各个广告系列和广告组之间的关系理清，然后再复制到Excel中，使之形成符合<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bc%96%e8%be%91%e5%99%a8/" title="查看编辑器中的全部文章" target="_blank">编辑器</a></span>的规范格式，最后再导入到编辑器中。
 
 <img class="alignnone size-full wp-image-756" title="adwords-editor-971" src="http://xiaoq.in/g/pics/2012/04/adwords-editor-971.png" alt="" width="278" height="151" />
 
@@ -59,4 +59,4 @@ tags:
 
 关键字提示工具对于挖掘关键词是很有帮助的，它提供三种方式：关键字扩展、关键字组合器、基于搜索的关键字。每种方式找到的关键词在其后都会显示全球每月搜索量，本地每月搜索量、竞争程度、广告份额/搜索份额等信息。
 
-总之，以上只是个人在使用编辑器时最常使用的一些功能，部分只是提供一个大概思路，具体还得根据账户的具体情况适当应用。可以肯定的是，如果你想更细致地管理广告、提高工作效率，使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> 编辑器是必须的。
+总之，以上只是个人在使用编辑器时最常使用的一些功能，部分只是提供一个大概思路，具体还得根据账户的具体情况适当应用。可以肯定的是，如果你想更细致地管理广告、提高工作效率，使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> 编辑器是必须的。

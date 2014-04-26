@@ -28,7 +28,7 @@ tags:
 ---
 <div class="post-body">
   <div style="text-align: left;">
-    <span style="color: #ff6600;"><em>下文原文来自<a title="谷歌分析官方博客" href="http://analytics.blogspot.com/2011/04/new-google-analytics-available-to.html?utm_source=54jack&utm_medium=54jack&utm_campaign=54jack" target="_blank">谷歌分析官方博客</a>，由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，转载请注明出处，本站将持续跟进翻译<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的最新文章。</em></span>
+    <span style="color: #ff6600;"><em>下文原文来自<a title="谷歌分析官方博客" href="http://analytics.blogspot.com/2011/04/new-google-analytics-available-to.html?utm_source=54jack&utm_medium=54jack&utm_campaign=54jack" target="_blank">谷歌分析官方博客</a>，由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，转载请注明出处，本站将持续跟进翻译<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的最新文章。</em></span>
   </div>
   
   <div style="text-align: left;">
@@ -36,11 +36,11 @@ tags:
   </div>
   
   <div style="text-align: left;">
-    <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=allaccess"><span style="color: #0083c8;">series of posts</span></a> highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=allaccess"><span style="color: #0083c8;">new <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span></span></a>. The new version of Google Analytics is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics"><span style="color: #0083c8;">follow Google Analytics on Twitter</span></a> for the latest updates.</em>
+    <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=allaccess"><span style="color: #0083c8;">series of posts</span></a> highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=allaccess"><span style="color: #0083c8;">new <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span></span></a>. The new version of Google Analytics is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics"><span style="color: #0083c8;">follow Google Analytics on Twitter</span></a> for the latest updates.</em>
   </div>
   
   <div style="text-align: left;">
-    <em>这是我们<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户都开放测试版本了。你可以追随我们的twitter获取最新更新。</em>
+    <em>这是我们<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户都开放测试版本了。你可以追随我们的twitter获取最新更新。</em>
   </div>
   
   <div>
@@ -48,11 +48,11 @@ tags:
   </div>
   
   <div>
-    我非常兴奋地通知各位，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试版本了，现有各种语言对应版本。当你登录到谷歌分析时，你会在账户右上角看到一个指向新版的链接。
+    我非常兴奋地通知各位，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试版本了，现有各种语言对应版本。当你登录到谷歌分析时，你会在账户右上角看到一个指向新版的链接。
   </div>
   
   <div>
-    <img class="alignnone size-full wp-image-294" title="100percent-new-version-link" src="http://cdn.54jack.com/images/2011/04/100percent-new-version-link.png" alt="" width="400" height="117" />
+    <img class="alignnone size-full wp-image-294" title="100percent-new-version-link" src="http://blog.xiaoq.in/cdn/images/2011/04/100percent-new-version-link.png" alt="" width="400" height="117" />
   </div>
   
   <div>

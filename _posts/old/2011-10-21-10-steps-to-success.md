@@ -29,7 +29,7 @@ tags:
   - 广告优化
   - 账户管理
 ---
-深入细致地操作英文<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>账户已经快两个月，这段时间因为诸事繁忙，博客也没有更新。下面就简单说说如何优化Google Adwords账号吧。对于一个新手而言，拿到一个老账户，望着其中可能一年都赚不到的预算，往往不免激动，兴奋；然而看着其中杂乱无章的关键词和广告语，最终却陷入不知道所措的境地。而拿到新账户，也同样陷入囧图：一片空白！
+深入细致地操作英文<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>账户已经快两个月，这段时间因为诸事繁忙，博客也没有更新。下面就简单说说如何优化Google Adwords账号吧。对于一个新手而言，拿到一个老账户，望着其中可能一年都赚不到的预算，往往不免激动，兴奋；然而看着其中杂乱无章的关键词和广告语，最终却陷入不知道所措的境地。而拿到新账户，也同样陷入囧图：一片空白！
 
 以下仅以无专业人士维护的旧账号为例。
 
@@ -47,7 +47,7 @@ tags:
 
 到第四步，请下载并安装<a title="AdWords 编辑器" href="http://www.google.com/intl/zh-CN/adwordseditor/" target="_blank">AdWords 编辑器</a>吧。今后必然会用到。
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-%e7%bc%96%e8%be%91%e5%99%a8/" title="查看AdWords 编辑器中的全部文章" target="_blank">AdWords 编辑器</a></span>是一款用于管理 AdWords 广告系列的免费 Google 应用程序。您可以使用 <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-%e7%bc%96%e8%be%91%e5%99%a8/" title="查看AdWords 编辑器中的全部文章" target="_blank">AdWords 编辑器</a></span>下载您的 AdWords 帐户中的相关信息，运用其强大的编辑工具更新您的广告系列，然后将更改的内容上传到您的帐户。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-%e7%bc%96%e8%be%91%e5%99%a8/" title="查看AdWords 编辑器中的全部文章" target="_blank">AdWords 编辑器</a></span>是一款用于管理 AdWords 广告系列的免费 Google 应用程序。您可以使用 <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-%e7%bc%96%e8%be%91%e5%99%a8/" title="查看AdWords 编辑器中的全部文章" target="_blank">AdWords 编辑器</a></span>下载您的 AdWords 帐户中的相关信息，运用其强大的编辑工具更新您的广告系列，然后将更改的内容上传到您的帐户。
 
 <li id="awe-home-1">
   离线操作，随时上传您所做的更改。

@@ -30,7 +30,7 @@ tags:
   - 阿里巴巴
   - 阿里巴巴国际站排名技巧规则
 ---
-如何提高产品关键词在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>国际站排名，产品信息质量是关键，下面<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e7%9f%b3%e6%88%90%e9%87%91/" title="查看点石成金中的全部文章" target="_blank">点石成金</a></span>的工程师把一些容易忽视的细节分享给大家！
+如何提高产品关键词在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>国际站排名，产品信息质量是关键，下面<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e7%9f%b3%e6%88%90%e9%87%91/" title="查看点石成金中的全部文章" target="_blank">点石成金</a></span>的工程师把一些容易忽视的细节分享给大家！
 
 发布产品前要做的工作：  
 1）处理过的PS 图片，要漂亮，要清晰，统一规格（600X600），统一格式，最好有专业认证的图标，公司的标志，，多多益善，产品多的要分类好。
@@ -90,4 +90,4 @@ About us:字体同上
 
 接下来就选产品的分组选择 7“ tablet pc。
 
-信息质量只是排名的一部分，更多<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>方面技巧方面的文章建议继续关注<span class='wp_keywordlink'><a href="http://www.sotop.org/" title="淘宝关键词排名查询" target="_blank">搜桃网</a></span>官方博客，后续会有更多<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>国际站排名技巧文章，将由<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e7%9f%b3%e6%88%90%e9%87%91/" title="查看点石成金中的全部文章" target="_blank">点石成金</a></span>优化团队向搜桃网独家投稿奉上。
+信息质量只是排名的一部分，更多<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>方面技巧方面的文章建议继续关注<span class='wp_keywordlink'><a href="http://www.sotop.org/" title="淘宝关键词排名查询" target="_blank">搜桃网</a></span>官方博客，后续会有更多<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4/" title="查看阿里巴巴中的全部文章" target="_blank">阿里巴巴</a></span>国际站排名技巧文章，将由<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e7%9f%b3%e6%88%90%e9%87%91/" title="查看点石成金中的全部文章" target="_blank">点石成金</a></span>优化团队向搜桃网独家投稿奉上。

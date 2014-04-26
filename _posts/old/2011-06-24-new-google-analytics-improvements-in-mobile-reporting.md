@@ -27,12 +27,12 @@ tags:
 ---
 <div>
   <div>
-    <em>这是我们新版<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>系列文章的一部分。心吧谷歌分析目前已经向所有用户测试开放。请成为我们的Twitter粉丝以活动最近更新。本周，我们将讨论对于谷歌分析中的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87%e6%8a%a5%e5%91%8a/" title="查看移动设备报告中的全部文章" target="_blank">移动设备报告</a></span>的一些改进。</em> 
+    <em>这是我们新版<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>系列文章的一部分。心吧谷歌分析目前已经向所有用户测试开放。请成为我们的Twitter粉丝以活动最近更新。本周，我们将讨论对于谷歌分析中的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87%e6%8a%a5%e5%91%8a/" title="查看移动设备报告中的全部文章" target="_blank">移动设备报告</a></span>的一些改进。</em> 
   </div>
 </div>
 
 <div>
-  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=mobilereports">series of posts</a> highlighting the <a href="http://www.youtube.com/watch?v=3KaHlt5pKSY&playnext=1&list=PL2F48091EFBD18CF5">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates. This week, we’ll discuss some recent improvements to mobile reporting in Google Analytics.</em>
+  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=mobilereports">series of posts</a> highlighting the <a href="http://www.youtube.com/watch?v=3KaHlt5pKSY&playnext=1&list=PL2F48091EFBD18CF5">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates. This week, we’ll discuss some recent improvements to mobile reporting in Google Analytics.</em>
 </div>
 
 <div>
@@ -41,7 +41,7 @@ tags:
 
 <div>
   <div>
-    来自<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87/" title="查看移动设备中的全部文章" target="_blank">移动设备</a></span>的网络流量正在迅猛增长，因为智能手机和平板电脑的销量预计今年会超过电脑。谷歌分析已经提供了一些方式来跟踪这种日益增长的移动网络应用。其中有对智能手机的标准跟踪和把谷歌分析代码嵌入到Iphone操作系统和Android操作系统的软件开发工具包。
+    来自<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87/" title="查看移动设备中的全部文章" target="_blank">移动设备</a></span>的网络流量正在迅猛增长，因为智能手机和平板电脑的销量预计今年会超过电脑。谷歌分析已经提供了一些方式来跟踪这种日益增长的移动网络应用。其中有对智能手机的标准跟踪和把谷歌分析代码嵌入到Iphone操作系统和Android操作系统的软件开发工具包。
   </div>
   
   <div>
@@ -58,7 +58,7 @@ tags:
 </div>
 
 <div>
-  今天你将看到我们对于谷歌分析<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%8a%a5%e5%91%8a%e6%94%b9%e8%bf%9b/" title="查看报告改进中的全部文章" target="_blank">报告改进</a></span>的第一小步：在访问者报告中一个全新的“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87/" title="查看移动设备中的全部文章" target="_blank">移动设备</a></span>”选项卡。
+  今天你将看到我们对于谷歌分析<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%8a%a5%e5%91%8a%e6%94%b9%e8%bf%9b/" title="查看报告改进中的全部文章" target="_blank">报告改进</a></span>的第一小步：在访问者报告中一个全新的“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87/" title="查看移动设备中的全部文章" target="_blank">移动设备</a></span>”选项卡。
 </div>
 
 <div>
@@ -70,7 +70,7 @@ tags:
 </div>
 
 <div>
-  <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://cdn.54jack.com/images/2011/06/mobile-newsection-box.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5621489790363913282" style="border: 0px;" src="http://cdn.54jack.com/images/2011/06/mobile-newsection-box.png" alt="" border="0" /></a>
+  <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://blog.xiaoq.in/cdn/images/2011/06/mobile-newsection-box.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5621489790363913282" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/06/mobile-newsection-box.png" alt="" border="0" /></a>
 </div>
 
 <div>
@@ -110,7 +110,7 @@ tags:
 </div>
 
 <div>
-  <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://cdn.54jack.com/images/2011/06/mobile-device-image-cropped.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5621489783149513938" style="border: 0px;" src="http://cdn.54jack.com/images/2011/06/mobile-device-image-cropped.png" alt="" border="0" /></a>
+  <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://blog.xiaoq.in/cdn/images/2011/06/mobile-device-image-cropped.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5621489783149513938" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/06/mobile-device-image-cropped.png" alt="" border="0" /></a>
 </div>
 
 <div>
@@ -129,7 +129,7 @@ tags:
 
 <div>
   <div>
-    如果你还没有看过我们上周关于<a title="地理位置报告" href="http://g.xiaoq.in/cn/google-analytics/new-google-analytics-improvements-in-map-overlay-reports/" target="_blank">地理位置报告</a>的文章，尝试在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87%e6%8a%a5%e5%91%8a/" title="查看移动设备报告中的全部文章" target="_blank">移动设备报告</a></span>中以可视化的方式查看你的移动流量来自哪里。
+    如果你还没有看过我们上周关于<a title="地理位置报告" href="http://g.xiaoq.in/cn/google-analytics/new-google-analytics-improvements-in-map-overlay-reports/" target="_blank">地理位置报告</a>的文章，尝试在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87%e6%8a%a5%e5%91%8a/" title="查看移动设备报告中的全部文章" target="_blank">移动设备报告</a></span>中以可视化的方式查看你的移动流量来自哪里。
   </div>
 </div>
 
@@ -140,4 +140,4 @@ tags:
 谷歌分析小组，Trevor Claiborne发表  
 Posted by Trevor Claiborne, Google Analytics Team
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，谷歌分析官方博客原文：<a title="新版谷歌分析：移动设备报告改进" href="http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in_23.html" target="_blank">http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in_23.html</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，谷歌分析官方博客原文：<a title="新版谷歌分析：移动设备报告改进" href="http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in_23.html" target="_blank">http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in_23.html</a>

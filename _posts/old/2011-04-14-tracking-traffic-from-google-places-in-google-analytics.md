@@ -15,7 +15,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/a
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/4/259-1.jpg;https://xiaoq.in/thumb/cache/2011/4/259-2.jpg;https://xiaoq.in/thumb/cache/2011/4/259-3.jpg;https://xiaoq.in/thumb/cache/2011/4/259-4.jpg;https://xiaoq.in/thumb/cache/2011/4/259-5.jpg;https://xiaoq.in/thumb/cache/2011/4/259-6.jpg;https://xiaoq.in/thumb/cache/2011/4/259-7.jpg;https://xiaoq.in/thumb/cache/2011/4/259-8.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2011/4/259-1.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-2.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-3.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-4.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-5.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-6.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-7.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/259-8.jpg;
 categories:
   - Google Analytics
 tags:
@@ -32,17 +32,17 @@ tags:
   - 谷歌分析
   - 高级细分
 ---
-**本文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，转载请注明出处，谢谢。**
+**本文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，转载请注明出处，谢谢。**
 
-Google has gone to great lengths lately to incorporate local data wherever it can. Google Place Search rolled out in late October and services such as <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-tags/" title="查看Google Tags中的全部文章" target="_blank">Google Tags</a></span> and <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-boost/" title="查看Google Boost中的全部文章" target="_blank">Google Boost</a></span> offer increased visibility, for a price. It’s only natural that we would want to know if investing in these add-ons is actually worthwhile.
+Google has gone to great lengths lately to incorporate local data wherever it can. Google Place Search rolled out in late October and services such as <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-tags/" title="查看Google Tags中的全部文章" target="_blank">Google Tags</a></span> and <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-boost/" title="查看Google Boost中的全部文章" target="_blank">Google Boost</a></span> offer increased visibility, for a price. It’s only natural that we would want to know if investing in these add-ons is actually worthwhile.
 
-谷歌最近在尽可能地整合本地数据方面做了很大努力。谷歌<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bd%8d%e7%bd%ae%e6%90%9c%e7%b4%a2/" title="查看位置搜索中的全部文章" target="_blank">位置搜索</a></span>在（去年）十月下旬发布，如<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-tags/" title="查看Google Tags中的全部文章" target="_blank">Google Tags</a></span> 和 <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-boost/" title="查看Google Boost中的全部文章" target="_blank">Google Boost</a></span>等提供可见性提升服务，当然这是要钱的。很自然地，我们希望知道投资在这些附加产品上是否真的值得。
+谷歌最近在尽可能地整合本地数据方面做了很大努力。谷歌<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bd%8d%e7%bd%ae%e6%90%9c%e7%b4%a2/" title="查看位置搜索中的全部文章" target="_blank">位置搜索</a></span>在（去年）十月下旬发布，如<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-tags/" title="查看Google Tags中的全部文章" target="_blank">Google Tags</a></span> 和 <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-boost/" title="查看Google Boost中的全部文章" target="_blank">Google Boost</a></span>等提供可见性提升服务，当然这是要钱的。很自然地，我们希望知道投资在这些附加产品上是否真的值得。
 
-Most of us naturally would turn to <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> for the answer, but what can you do when your referral URL says only that it’s from Google? That’s a rather vague answer with a lot of different possibilities. How can we narrow it down to traffic referred only from <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span>?
+Most of us naturally would turn to <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> for the answer, but what can you do when your referral URL says only that it’s from Google? That’s a rather vague answer with a lot of different possibilities. How can we narrow it down to traffic referred only from <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span>?
 
-我们中的大部分会很自然地求诸Google Analytics寻找答案，但是当引荐网站只是表明它们来自Google之时，你可以做什么呢？我们怎样才能把其限制到引荐流量仅来自<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span>？
+我们中的大部分会很自然地求诸Google Analytics寻找答案，但是当引荐网站只是表明它们来自Google之时，你可以做什么呢？我们怎样才能把其限制到引荐流量仅来自<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span>？
 
-To better justify the time and money spent on <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span> for our clients, I set out to find an answer.
+To better justify the time and money spent on <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-places/" title="查看Google Places中的全部文章" target="_blank">Google Places</a></span> for our clients, I set out to find an answer.
 
 为了更好地节约我们客户花费在Google Places的时间和金钱，我们开始寻找一个答案。
 
@@ -72,7 +72,7 @@ Ultimately, we didn’t test this method. The risks were simply too great.
 
 So I tested manual tagging instead. The [Google URL Builder][1] is a terrific tool:
 
-于是我还是测试了手动标记。谷歌<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e5%9d%80%e6%9e%84%e5%bb%ba%e5%99%a8/" title="查看网址构建器中的全部文章" target="_blank">网址构建器</a></span>是一个很棒的工具：
+于是我还是测试了手动标记。谷歌<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e5%9d%80%e6%9e%84%e5%bb%ba%e5%99%a8/" title="查看网址构建器中的全部文章" target="_blank">网址构建器</a></span>是一个很棒的工具：
 
  <img src="http://i587.photobucket.com/albums/ss315/RebeccaSEO/12-15-10%20google%20places%20tracking/1-url-builder.jpg" border="1" alt="" width="620" height="312" />
 
@@ -104,13 +104,13 @@ A second con is that tagging can only be used to track listings which you contro
 
 另外一个缺点是标记仅能用在你控制这的列表跟踪。我们通常管理的Google Places账户或者是被我们的上任认证了并且无法联系他们，或者是客户在之前某个时候认证了但是无法找到其登录信息，再或者是这些账户被第三方控制着，他们还仍然在与我们客户合作并处理客户其他的网站…你知道的。在一个完美世界，这本应该不是一个问题。但是，在这些其他人魔力般地放手交给我们之前，我们无法跟踪它们。
 
-A third con is that it’s impossible to tell the difference between traffic which came from the Places profile versus traffic that came from the <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span> search results. Google sometimes pulls the URL from its index, and other times pulls it from the Places profile. To see this in action for yourself, run a search for “Houston Breast Augmentation” and hover on the first result. It goes to a “naked” URL, with no tracking on it, exactly as you would expect. Now take a look at the <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/serps/" title="查看SERPs中的全部文章" target="_blank">SERPs</a></span> for “best plastic surgeons in Houston” where you find the the same business: 
+A third con is that it’s impossible to tell the difference between traffic which came from the Places profile versus traffic that came from the <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span> search results. Google sometimes pulls the URL from its index, and other times pulls it from the Places profile. To see this in action for yourself, run a search for “Houston Breast Augmentation” and hover on the first result. It goes to a “naked” URL, with no tracking on it, exactly as you would expect. Now take a look at the <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/serps/" title="查看SERPs中的全部文章" target="_blank">SERPs</a></span> for “best plastic surgeons in Houston” where you find the the same business: 
 
-第三个缺点是无法区分来自Google Places账户与<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span>搜索结果的流量。Google有时从索引中拉取网址，有时又从Google Places账户中拉取。亲眼目睹这种情况，请搜索“Houston Breast Augmentation”然后把鼠标放在第一个结果上。这是一个“裸露”的网址，并无标记在上面，正如你所期望的那样。现在看看“best plastic surgeons in Houston”的搜索结果页面，你会发现同样的情况。
+第三个缺点是无法区分来自Google Places账户与<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span>搜索结果的流量。Google有时从索引中拉取网址，有时又从Google Places账户中拉取。亲眼目睹这种情况，请搜索“Houston Breast Augmentation”然后把鼠标放在第一个结果上。这是一个“裸露”的网址，并无标记在上面，正如你所期望的那样。现在看看“best plastic surgeons in Houston”的搜索结果页面，你会发现同样的情况。
 
  ![][2]
 
-Aha. So this isn’t going to filter out all traffic from the <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/serps/" title="查看SERPs中的全部文章" target="_blank">SERPs</a></span>. And it’s kinda ugly, too.
+Aha. So this isn’t going to filter out all traffic from the <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/serps/" title="查看SERPs中的全部文章" target="_blank">SERPs</a></span>. And it’s kinda ugly, too.
 
 啊。因此，这并不会完全过滤掉来自搜索结果页面的流量。
 
@@ -118,11 +118,11 @@ Aha. So this isn’t going to filter out all traffic from the <span class='wp_ke
 
 **Method #3: Capturing The Full Referring URL + Advanced Segmentation Or On-Page Filtering**
 
-**方法三：捕捉完整的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%bc%95%e8%8d%90%e7%bd%91%e5%9d%80/" title="查看引荐网址中的全部文章" target="_blank">引荐网址</a></span>+<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>或者页面内过滤**
+**方法三：捕捉完整的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%bc%95%e8%8d%90%e7%bd%91%e5%9d%80/" title="查看引荐网址中的全部文章" target="_blank">引荐网址</a></span>+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>或者页面内过滤**
 
 Manual tagging wasn’t going to provide me with exactly what I was after, but I remembered seeing David Harry refer to [a method of capturing full referring URLs][3]. It occurred to me that Google Places listings probably have a unique element in their URL structure which I could segment out from the rest of the noise if I (a) had the full URL and (b) knew what that unique element was.
 
-手动标签并不会给我提供我所追求的东西，但是我记得看过David Harry提到过一种拉取完整<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%bc%95%e8%8d%90%e7%bd%91%e5%9d%80/" title="查看引荐网址中的全部文章" target="_blank">引荐网址</a></span>的方法。我突然想到Google Places列表可能有一个独特的元素在它们的网址结构中，我可以从其他干扰项中细分出来，如果我（1）有完整的网址（2）知道这个独特元素到底是什么。
+手动标签并不会给我提供我所追求的东西，但是我记得看过David Harry提到过一种拉取完整<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%bc%95%e8%8d%90%e7%bd%91%e5%9d%80/" title="查看引荐网址中的全部文章" target="_blank">引荐网址</a></span>的方法。我突然想到Google Places列表可能有一个独特的元素在它们的网址结构中，我可以从其他干扰项中细分出来，如果我（1）有完整的网址（2）知道这个独特元素到底是什么。
 
 I’m not going into how to set up the full referrer capture filter. Go to Reuben Yau’s post (linked in the paragraph above) to see how it’s done.
 
@@ -130,7 +130,7 @@ I’m not going into how to set up the full referrer capture filter. Go to Reube
 
 Once that has been set up, create an advanced segment or an on-page filter to pull out the Google Places referrals.
 
-一旦上述设置完成，创建一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>或者页面内过滤器来拉取Google Places的引荐。
+一旦上述设置完成，创建一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>或者页面内过滤器来拉取Google Places的引荐。
 
  <img src="http://i587.photobucket.com/albums/ss315/RebeccaSEO/12-15-10%20google%20places%20tracking/55-full-ref-example.jpg" alt="" width="620" height="257" />
 
@@ -144,7 +144,7 @@ It turns out that there are two ways a Google Places listing can render. One ver
 
 优点：由于过滤是基于网址结构，账号控制权限就不是必需的了。
 
-**Cons:** It took me awhile to figure out why the manual tagging method and full referrer methods were putting up different numbers, but finally I realized that the full referrer method does NOT include the <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span> results. If you want to include 7-pack clicks, the full referrer method won’t do it for you. The data isn’t presented in such a pretty, clean way, and there’s no simple way to segment out traffic coming through different office locations. It can be done, it’s just a bit of a headache since it involves filtering for specific “cid” numbers from the URLs and knowing which insanely long number belongs to which location. The setup is a little more intense, too.
+**Cons:** It took me awhile to figure out why the manual tagging method and full referrer methods were putting up different numbers, but finally I realized that the full referrer method does NOT include the <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/7-pack/" title="查看7-pack中的全部文章" target="_blank">7-pack</a></span> results. If you want to include 7-pack clicks, the full referrer method won’t do it for you. The data isn’t presented in such a pretty, clean way, and there’s no simple way to segment out traffic coming through different office locations. It can be done, it’s just a bit of a headache since it involves filtering for specific “cid” numbers from the URLs and knowing which insanely long number belongs to which location. The setup is a little more intense, too.
 
 缺点：明白为什么手动标记方法和完整引荐带来不同的数字花了我好一会功夫，但是最终我意识到完整引荐的方法统计的数据不包含来自7-pack的结果。如果你想包含7-pack的点击，完整引荐的方法不适合你。因为7-pack的数据并不是以一种精致、简洁的方式呈现的，而且没有细分出来自不同办公室地点流量的简单方法。可以办到，但是由于涉及到从网址中过滤特定的cid数值并且只是哪个疯狂的长数值属于哪个地点，有点头疼。设置也同样有些麻烦。
 

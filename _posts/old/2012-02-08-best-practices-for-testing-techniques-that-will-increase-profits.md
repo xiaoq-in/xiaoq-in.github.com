@@ -30,7 +30,7 @@ tags:
   - 着陆页面
 ---
 <p align="left">
-  测试<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e8%af%ad/" title="查看广告语中的全部文章" target="_blank">广告语</a></span>和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>对于最大化发挥AdWords账户的潜力是至关重要的。最重要的一件事情就是马上开始。测试并不难。搜索行为时刻在变。你的竞争对手将会改变它们的广告，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>和促销。如果你不测试<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e8%af%ad/" title="查看广告语中的全部文章" target="_blank">广告语</a></span>和着陆页面，你将无法意识到你的AdWords账户或网站的最大潜力。
+  测试<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e8%af%ad/" title="查看广告语中的全部文章" target="_blank">广告语</a></span>和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>对于最大化发挥AdWords账户的潜力是至关重要的。最重要的一件事情就是马上开始。测试并不难。搜索行为时刻在变。你的竞争对手将会改变它们的广告，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9d%80%e9%99%86%e9%a1%b5%e9%9d%a2/" title="查看着陆页面中的全部文章" target="_blank">着陆页面</a></span>和促销。如果你不测试<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e8%af%ad/" title="查看广告语中的全部文章" target="_blank">广告语</a></span>和着陆页面，你将无法意识到你的AdWords账户或网站的最大潜力。
 </p>
 
 <p align="left">

@@ -15,7 +15,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/5a
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/8/523-1.jpg;https://xiaoq.in/thumb/cache/2011/8/523-2.jpg;https://xiaoq.in/thumb/cache/2011/8/523-3.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2011/8/523-1.jpg;http://blog.xiaoq.in/thumb/cache/2011/8/523-2.jpg;http://blog.xiaoq.in/thumb/cache/2011/8/523-3.jpg;
 categories:
   - Google Analytics
 tags:
@@ -28,19 +28,19 @@ tags:
 ---
 <div>
   <p>
-    通常情况下，<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的跟踪代码是基于JavaScript的解决方案，它依赖于浏览器来生成并存储cookie。这种依赖性也正是为什么<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>报告中不会显示大多数蜘蛛访问你网站的数据。
+    通常情况下，<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的跟踪代码是基于JavaScript的解决方案，它依赖于浏览器来生成并存储cookie。这种依赖性也正是为什么<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>报告中不会显示大多数蜘蛛访问你网站的数据。
   </p>
   
   <p>
-    但是，如果你真想跟踪搜索蜘蛛的活动呢？这或许是为了做技术性的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>分析。我们已经制作了一个叫做“搜索蜘蛛专用GA代码”的PHP代码库，它使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af/" title="查看服务器端中的全部文章" target="_blank">服务器端</a></span>的进程来捕捉来自众多蜘蛛的页面浏览。
+    但是，如果你真想跟踪搜索蜘蛛的活动呢？这或许是为了做技术性的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>分析。我们已经制作了一个叫做“搜索蜘蛛专用GA代码”的PHP代码库，它使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af/" title="查看服务器端中的全部文章" target="_blank">服务器端</a></span>的进程来捕捉来自众多蜘蛛的页面浏览。
   </p>
   
   <p>
-    尽管<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>已经有专门的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af/" title="查看服务器端中的全部文章" target="_blank">服务器端</a></span>移动跟踪代码脚本，然而该脚本的设计宗旨仍然只是用来跟踪来自浏览器端的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>活动。我已经对脚本进行了解构并做了一些修改，使得所有对于_utm.gif文件请求的构建和发送均完全由服务器端处理，从而允许任何<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>均能被跟踪。
+    尽管<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>已经有专门的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af/" title="查看服务器端中的全部文章" target="_blank">服务器端</a></span>移动跟踪代码脚本，然而该脚本的设计宗旨仍然只是用来跟踪来自浏览器端的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>活动。我已经对脚本进行了解构并做了一些修改，使得所有对于_utm.gif文件请求的构建和发送均完全由服务器端处理，从而允许任何<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>均能被跟踪。
   </p>
   
   <p>
-    当然，我们只是希望用这个脚本跟踪蜘蛛（而非人），因此这个代码库还包括一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>被认定为蜘蛛的白名单。这将确保你有一个“仅含蜘蛛访问”的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>配置文件。
+    当然，我们只是希望用这个脚本跟踪蜘蛛（而非人），因此这个代码库还包括一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%a8%e6%88%b7%e4%bb%a3%e7%90%86/" title="查看用户代理中的全部文章" target="_blank">用户代理</a></span>被认定为蜘蛛的白名单。这将确保你有一个“仅含蜘蛛访问”的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>配置文件。
   </p>
   
   <h2>
@@ -77,7 +77,7 @@ tags:
   </p>
   
   <p>
-    另外一间需要明白的重要事情是，该代码仅在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了一个确实会使用此代码执行PHP脚本的URL时才会运行。如果一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了一个无法返回已渲染页面的URL（比如，500内部错误），那么搜索蜘蛛专用GA代码将不会执行。因此，这并不会捕捉到所有的蜘蛛活动，特别是含有很多错误页面的网站。明白蜘蛛在错误URL中的活动是非常重要的，我们也正在努力开发第二个版本来解决这个问题。
+    另外一间需要明白的重要事情是，该代码仅在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了一个确实会使用此代码执行PHP脚本的URL时才会运行。如果一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了一个无法返回已渲染页面的URL（比如，500内部错误），那么搜索蜘蛛专用GA代码将不会执行。因此，这并不会捕捉到所有的蜘蛛活动，特别是含有很多错误页面的网站。明白蜘蛛在错误URL中的活动是非常重要的，我们也正在努力开发第二个版本来解决这个问题。
   </p>
   
   <h2>
@@ -93,7 +93,7 @@ tags:
   </p>
   
   <p>
-    在这个报告中看到的第一件事情就是一系列的不同<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了我们的网站。
+    在这个报告中看到的第一件事情就是一系列的不同<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>了我们的网站。
   </p>
   
   <p>
@@ -129,6 +129,6 @@ tags:
   </p>
   
   <p>
-    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.cardinalpath.com/blog/tracking-search-bots-in-google-analytics" target="_blank">http://www.cardinalpath.com/blog/tracking-search-bots-in-google-analytics</a> 翻译不易，转载请注明出处，谢谢。
+    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.cardinalpath.com/blog/tracking-search-bots-in-google-analytics" target="_blank">http://www.cardinalpath.com/blog/tracking-search-bots-in-google-analytics</a> 翻译不易，转载请注明出处，谢谢。
   </p>
 </div>

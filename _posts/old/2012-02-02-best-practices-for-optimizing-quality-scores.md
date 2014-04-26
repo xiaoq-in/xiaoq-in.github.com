@@ -26,9 +26,9 @@ tags:
   - 最佳实践
   - 质量得分
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>是你在AdWords账户中可以理解并优化的最重要的数字。虽然这个数字看起来捉摸不定，不过一旦你理解这些原则，你会发现这是一个可以被量化并提高的数字。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>是你在AdWords账户中可以理解并优化的最重要的数字。虽然这个数字看起来捉摸不定，不过一旦你理解这些原则，你会发现这是一个可以被量化并提高的数字。
 
-**为了提升广告排名，你需要或者提高出价或者提高<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>。**
+**为了提升广告排名，你需要或者提高出价或者提高<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>。**
 
 *   如果你有较低的质量得分，你应该优化质量得分而不是提高出价。
 *   如果你的质量得分较高，你需要提高最高每次点击费用（CPC）。当提高最高每次点击费用时，务必确保你的出价不会让你的关键词无利可图。

@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/3w
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/1/583-1.jpg;https://xiaoq.in/thumb/cache/2012/1/583-2.jpg;https://xiaoq.in/thumb/cache/2012/1/583-3.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/1/583-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/1/583-2.jpg;http://blog.xiaoq.in/thumb/cache/2012/1/583-3.jpg;
 categories:
   - Google Analytics
 tags:
@@ -29,11 +29,11 @@ tags:
   <a title="Copyright © TechPad.co.uk" href="http://techpad.co.uk/custom/images/large/4ddba1d946f41.jpg"><img src="http://techpad.co.uk/custom/images/medium/4ddba1d946f41.jpg" alt="16 interesting ways to use Google Analytics custom variables" width="426" height="228" /></a>
 </center>Copyright © TechPad.co.uk
 
-早期迹象表明<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>(<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>)用户可能将能够存储多达50个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。下面是填充这些数值的一些主意！
+早期迹象表明<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>(<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>)用户可能将能够存储多达50个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。下面是填充这些数值的一些主意！
 
-设置<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>相对于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>中的其他事情来说稍微更复杂些，因为你需要懂一点服务器端的编程和SQL查询。
+设置<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>相对于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>中的其他事情来说稍微更复杂些，因为你需要懂一点服务器端的编程和SQL查询。
 
-然而，这是非常有用并且值得的。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>会给GA的配置文件中增加大量额外的数据，因为设置这些是值得的。
+然而，这是非常有用并且值得的。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>会给GA的配置文件中增加大量额外的数据，因为设置这些是值得的。
 
 如果把高级细分和自定义变量配合使用，你会发现GA的作用增强上百倍。
 
@@ -200,7 +200,7 @@ If you combine that with a [_trackEvent][2] (for ease of tracking) you&#8217;l
 
 是否某个年龄的女性喜欢你的某个产品，或者博客话题？把那个数据和其他自定义变量组合，你可以或者一些真正的买家数据透视。
 
-**<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a title="GA自定义变量的16个有趣用法" href="http://techpad.co.uk/content.php?sid=166" target="_blank">http://techpad.co.uk/content.php?sid=166</a>**
+**<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a title="GA自定义变量的16个有趣用法" href="http://techpad.co.uk/content.php?sid=166" target="_blank">http://techpad.co.uk/content.php?sid=166</a>**
 
  [1]: http://techpad.co.uk/content.php?sid=100
  [2]: http://techpad.co.uk/content.php?sid=102

@@ -22,7 +22,7 @@ tags:
 
 &nbsp;
 
-1.  ## What are the four main components of the <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> platform? (select all that apply)
+1.  ## What are the four main components of the <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> platform? (select all that apply)
     
     &nbsp;
     
@@ -61,7 +61,7 @@ tags:
                     
                     <label><input type="checkbox" checked="checked" name="q-4" value="0" /> transforms your raw data from collection according to your configuration settings</label>  
                     <label><input type="checkbox" checked="checked" name="q-4" value="1" /> aggregates your data into database tables</label>  
-                    <label><input type="checkbox" checked="checked" name="q-4" value="2" /> imports data from other sources you&#8217;ve defined, like <span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> or Webmaster Tools</label>  
+                    <label><input type="checkbox" checked="checked" name="q-4" value="2" /> imports data from other sources you&#8217;ve defined, like <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> or Webmaster Tools</label>  
                     <label><input type="checkbox" checked="checked" name="q-4" value="3" /> organizes hits into sessions</label></li> 
                     *   ## A session in Google Analytics consists of:
                         

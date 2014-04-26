@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/2k
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/732-1.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/732-1.jpg;
 categories:
   - 转化优化
 tags:
@@ -29,7 +29,7 @@ tags:
 
 <img title="SEO ecommerce SEJ" src="http://www.searchenginejournal.com/wp-content/uploads/2012/03/SEO-ecommerce-SEJ.jpg" alt="" width="280" height="192" />
 
-你在优化你的网站吗？我不是说搜索引擎优化，而是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e4%bc%98%e5%8c%96/" title="查看转化优化中的全部文章" target="_blank">转化优化</a></span>&#8212;确保访客购买的一门艺术。
+你在优化你的网站吗？我不是说搜索引擎优化，而是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e4%bc%98%e5%8c%96/" title="查看转化优化中的全部文章" target="_blank">转化优化</a></span>&#8212;确保访客购买的一门艺术。
 
 无论你是通过按点击付费还是更宽泛的营销渠道来获取客户，所有的访客都需要花钱。
 
@@ -37,7 +37,7 @@ tags:
 
 ## 提升销量的最便宜方式
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e7%8e%87%e4%bc%98%e5%8c%96/" title="查看转化率优化中的全部文章" target="_blank">转化率优化</a></span>是提升网站收益的最便宜方式，因为你不需要花钱吸引更多访客&#8212;你只是从已有的流量中挖掘更多。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e7%8e%87%e4%bc%98%e5%8c%96/" title="查看转化率优化中的全部文章" target="_blank">转化率优化</a></span>是提升网站收益的最便宜方式，因为你不需要花钱吸引更多访客&#8212;你只是从已有的流量中挖掘更多。
 
 取决于你公司的内部技能，你可能需要在测试和重新设计页面上进行一些初始投资。
 
@@ -49,7 +49,7 @@ tags:
 
 如果你认为你可以提升网站转化率，你将不得不接受网站中的一部分表现很差。
 
-在开始进行网站<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e4%bc%98%e5%8c%96/" title="查看转化优化中的全部文章" target="_blank">转化优化</a></span>之前，你需要接受网站需要改变的事实。你可能喜欢特定的设计、样式、流程和客户浏览轨迹，然而你需要把个人偏好放在一边。
+在开始进行网站<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bd%ac%e5%8c%96%e4%bc%98%e5%8c%96/" title="查看转化优化中的全部文章" target="_blank">转化优化</a></span>之前，你需要接受网站需要改变的事实。你可能喜欢特定的设计、样式、流程和客户浏览轨迹，然而你需要把个人偏好放在一边。
 
 你的网站设计需要基于咨询的客户测试而非你的个人偏好。
 
@@ -77,7 +77,7 @@ tags:
 
 提供一个激励让用户完表单，比如赢取高价值礼品的机会。“完成调查，有机会赢取Ipad”远比仅仅让用户花时间更有诱惑力。
 
-## 评估<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e5%ae%a2%e8%a1%8c%e4%b8%ba/" title="查看访客行为中的全部文章" target="_blank">访客行为</a></span>
+## 评估<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e5%ae%a2%e8%a1%8c%e4%b8%ba/" title="查看访客行为中的全部文章" target="_blank">访客行为</a></span>
 
 如果你无法让用户花时间进行反馈，或者你没有该项预算，你仍然可以从哪个他们的行为中了解很多。
 
@@ -101,9 +101,9 @@ tags:
 
 你需要确保客户可以在各个网页之间轻松导航，否则你将失去他们。以下是一些需要考虑的事情：
 
-#### *<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e5%8f%b7%e5%8f%ac/" title="查看行为号召中的全部文章" target="_blank">行为号召</a></span>*
+#### *<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e5%8f%b7%e5%8f%ac/" title="查看行为号召中的全部文章" target="_blank">行为号召</a></span>*
 
-确保在任何时候，如果你的客户对于浏览感到厌倦时，仍然可以完成交易。将<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e5%8f%b7%e5%8f%ac/" title="查看行为号召中的全部文章" target="_blank">行为号召</a></span>放在每个页面&#8212;你绝不会想让其成为给你付款的一个挑战吧）
+确保在任何时候，如果你的客户对于浏览感到厌倦时，仍然可以完成交易。将<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e5%8f%b7%e5%8f%ac/" title="查看行为号召中的全部文章" target="_blank">行为号召</a></span>放在每个页面&#8212;你绝不会想让其成为给你付款的一个挑战吧）
 
 #### *把他们留在网站上*
 
@@ -139,4 +139,4 @@ tags:
 
 除非你可以测量成功，期望和愿景，否则你将无法知道你的工作成功状况如何，对于任何网络营销领域来说，了解成功意味着什么是至关重要的。
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.searchenginejournal.com/how-to-make-sure-your-visitors-buy/40948/" target="_blank">http://www.searchenginejournal.com/how-to-make-sure-your-visitors-buy/40948/</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.searchenginejournal.com/how-to-make-sure-your-visitors-buy/40948/" target="_blank">http://www.searchenginejournal.com/how-to-make-sure-your-visitors-buy/40948/</a>

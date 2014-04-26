@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/3a
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/648-1.jpg;https://xiaoq.in/thumb/cache/2012/2/648-2.jpg;https://xiaoq.in/thumb/cache/2012/2/648-3.png;https://xiaoq.in/thumb/cache/2012/2/648-4.jpg;https://xiaoq.in/thumb/cache/2012/2/648-5.jpg;https://xiaoq.in/thumb/cache/2012/2/648-6.png;https://xiaoq.in/thumb/cache/2012/2/648-7.jpg;https://xiaoq.in/thumb/cache/2012/2/648-8.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/648-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/648-2.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/648-3.png;http://blog.xiaoq.in/thumb/cache/2012/2/648-4.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/648-5.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/648-6.png;http://blog.xiaoq.in/thumb/cache/2012/2/648-7.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/648-8.jpg;
 categories:
   - 搜索引擎优化
 tags:
@@ -29,7 +29,7 @@ tags:
 ---
 ## 前言
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>，即SEO（Search Engine Optimization），指为了提升网站/网页在搜索引擎搜索结果中的收录数量和排序位置，为了从搜索引擎中获取更多免费流量、高质量用户，针对搜索引擎的检索特点、排序规律，合理调整优化网站设计和建设方法，使其符合搜索引擎的检索规则的网站建设、网站运营行为。除此之外，SEO工作还有利于搜索引擎快速收录新页面，提高收录覆盖率的效果。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>，即SEO（Search Engine Optimization），指为了提升网站/网页在搜索引擎搜索结果中的收录数量和排序位置，为了从搜索引擎中获取更多免费流量、高质量用户，针对搜索引擎的检索特点、排序规律，合理调整优化网站设计和建设方法，使其符合搜索引擎的检索规则的网站建设、网站运营行为。除此之外，SEO工作还有利于搜索引擎快速收录新页面，提高收录覆盖率的效果。
 
 &nbsp;
 
@@ -55,9 +55,9 @@ SEO是网络营销的重要手段，通过了解搜索引擎工作原理和用�
 
 **白帽SEO****和黑帽SEO**
 
-白帽SEO，指通过合理优化网站，提升用户体验，与搜索引擎良好交互，真实反映网站质量和权威性的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>方法。
+白帽SEO，指通过合理优化网站，提升用户体验，与搜索引擎良好交互，真实反映网站质量和权威性的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>方法。
 
-黑帽SEO，以搜索引擎禁止的方法影响搜索引擎排序(作弊)，与用户价值和搜索体验相背离，以短期利益为主要目标的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>方法。搜索引擎会维护互联网网站的公正排序，给用户提供正确合理的搜索结果，而黑帽SEO的做法与此相违背。
+黑帽SEO，以搜索引擎禁止的方法影响搜索引擎排序(作弊)，与用户价值和搜索体验相背离，以短期利益为主要目标的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>方法。搜索引擎会维护互联网网站的公正排序，给用户提供正确合理的搜索结果，而黑帽SEO的做法与此相违背。
 
 搜索引擎在不断通过技术革新、策略优化来识别作弊行为。任何利用搜索引擎的策略缺陷漏洞，利用恶意手段获取与网页质量不符的排名，引起用搜索结果质量和用户搜索体验下降的行为都可能被搜索引擎识别为作弊行为。对待作弊行为，轻则被搜索引擎剥夺作弊权重，重则可能整个网站被搜索引擎拒绝收录。
 

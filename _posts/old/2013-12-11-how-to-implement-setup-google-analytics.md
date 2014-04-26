@@ -6,7 +6,7 @@ permalink: /google-analytics/how-to-implement-setup-google-analytics/
 yourls_shorturl:
   - http://t.xiaoq.in/89
 ta-thumbnail:
-  - https://xiaoq.in/cdn/2013/12/Features_Header.png;
+  - http://blog.xiaoq.in/cdn/2013/12/Features_Header.png;
 views:
   - 442
 ratings_users:
@@ -22,15 +22,15 @@ tags:
   - 账户设置
 ---
 <p align="left">
-  虽然<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>是一款免费的数据分析工具，但它却有着非常强大的功能和比较复杂的配置方式，大多数人可能认为所谓的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bb%a3%e7%a0%81%e9%83%a8%e7%bd%b2/" title="查看代码部署中的全部文章" target="_blank">代码部署</a></span>和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae/" title="查看账户设置中的全部文章" target="_blank">账户设置</a></span>，不就是把流量跟踪代码添加到网站模板就完事了么。事实上，大多数公司也是这么做的！
+  虽然<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>是一款免费的数据分析工具，但它却有着非常强大的功能和比较复杂的配置方式，大多数人可能认为所谓的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bb%a3%e7%a0%81%e9%83%a8%e7%bd%b2/" title="查看代码部署中的全部文章" target="_blank">代码部署</a></span>和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae/" title="查看账户设置中的全部文章" target="_blank">账户设置</a></span>，不就是把流量跟踪代码添加到网站模板就完事了么。事实上，大多数公司也是这么做的！
 </p>
 
 <p align="left">
-  然而，这样就已经够了么？如果你只关注流量的变化趋势，那么或许没有什么问题。但是，一旦你们有更深层次的需求，这是远远不够的。本文将对GA的网站分析<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bb%a3%e7%a0%81%e9%83%a8%e7%bd%b2/" title="查看代码部署中的全部文章" target="_blank">代码部署</a></span>和基本设置进行一个简单的概括性总结和指引，希望对大家有所帮助，同时也充分利用这个工具的强大功能，获取更深层次的数据透视。
+  然而，这样就已经够了么？如果你只关注流量的变化趋势，那么或许没有什么问题。但是，一旦你们有更深层次的需求，这是远远不够的。本文将对GA的网站分析<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bb%a3%e7%a0%81%e9%83%a8%e7%bd%b2/" title="查看代码部署中的全部文章" target="_blank">代码部署</a></span>和基本设置进行一个简单的概括性总结和指引，希望对大家有所帮助，同时也充分利用这个工具的强大功能，获取更深层次的数据透视。
 </p>
 
 <p align="left">
-   <img class="alignnone size-full wp-image-1481" alt="Features_Header" src="https://xiaoq.in/cdn/2013/12/Features_Header.png" width="640" height="260" />
+   <img class="alignnone size-full wp-image-1481" alt="Features_Header" src="http://blog.xiaoq.in/cdn/2013/12/Features_Header.png" width="640" height="260" />
 </p>
 
 <p align="left">
@@ -53,7 +53,7 @@ tags:
   另外，如果公司业务较复杂，同时技术沟通时间成本较高的话，推荐使用Google Tag Manager这个免费的标签管理工具。简单来说，可以把它当成一个容器，可以自己将所有的各种代码（如GA、AdWords转化代码、再营销代码等）装进去，基本使用也比较浅显易懂，最主要的是再也不用去找技术了，再也不怕搞错代码了，再也不用通过程序设置判断条件了，而且使用多套分析工具还可以共用数据！当然，深入了解下其中的规则和宏，也是很有必要的，并能够简化很多工作。
 </p>
 
-*   <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae/" title="查看账户设置中的全部文章" target="_blank">账户设置</a></span>：主要是权限分配（根据不同用户层级或者需求设置不同的用户权限，并分配对应的视图）、视图新建（主要用到过滤器，注意保留一个原始数据的视图，常见的会建立一个排除内部流量的视图，根据子域名等建立视图等）。另外，如果使用了<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>、Google Webmaster、Google AdSense的话，建议最好都去关联下账户，对于账户优化很有帮助，同时也可以结合多方面地数据进行一站式查看。
+*   <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae/" title="查看账户设置中的全部文章" target="_blank">账户设置</a></span>：主要是权限分配（根据不同用户层级或者需求设置不同的用户权限，并分配对应的视图）、视图新建（主要用到过滤器，注意保留一个原始数据的视图，常见的会建立一个排除内部流量的视图，根据子域名等建立视图等）。另外，如果使用了<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>、Google Webmaster、Google AdSense的话，建议最好都去关联下账户，对于账户优化很有帮助，同时也可以结合多方面地数据进行一站式查看。
 *   自定义报告设置：根据不同业务部门的具体关注对象设置对应的数据报告，主要会用到数据交叉组合和过滤器。对于类似的自定义报告，还可以通过简单的复制后修改进行细微调整来生成一个新的报表。
 *   高级细分设置：一般来说，高度定制的自定义报告基本可以很好的满足一般的日常性报告需求。但是如果遇到需要单独分析的时候，或者发现问题想进行深入了解的情况下，那么就很有必要建立高级细分了。与高级细分类似的一个是高级筛选，但它不能重复使用，而且筛选的维度仅限当前维度和一些基本的指标，并且只是页面层级的筛选，功能也远不及高级细分，一般用来做一些简单的数据筛选，有点类似于Excel的筛选功能。当然，还有过滤器，它是只能处理之后的数据，且不可逆的，其他与高级筛选有点类似。
 

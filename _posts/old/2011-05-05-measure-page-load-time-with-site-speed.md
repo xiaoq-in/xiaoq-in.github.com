@@ -29,11 +29,11 @@ tags:
   - 页面速度
 ---
 <div>
-  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=sitespeed">series of posts</a> highlighting <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=sitespeed">the new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter for the latest updates</a>. This week we’re sharing a new feature, the Site Speed report.</em>
+  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=sitespeed">series of posts</a> highlighting <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=sitespeed">the new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter for the latest updates</a>. This week we’re sharing a new feature, the Site Speed report.</em>
 </div>
 
 <div>
-  <em>这是我们新版<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户都开放测试版本了。你可以追随我们的twitter获取最新更新。本周我们分析一个新功能：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告。</em>
+  <em>这是我们新版<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在对所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户都开放测试版本了。你可以追随我们的twitter获取最新更新。本周我们分析一个新功能：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告。</em>
 </div>
 
 <div>
@@ -49,7 +49,7 @@ tags:
 </div>
 
 <div>
-  为了提升你网页的表现，你首先需要测量及诊断一个页面的速度，这会是一个很艰难的任务。而且，测量<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%a1%b5%e9%9d%a2%e9%80%9f%e5%ba%a6/" title="查看页面速度中的全部文章" target="_blank">页面速度</a></span>，在其他分析数据的环境中查看是非常重要的。
+  为了提升你网页的表现，你首先需要测量及诊断一个页面的速度，这会是一个很艰难的任务。而且，测量<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%a1%b5%e9%9d%a2%e9%80%9f%e5%ba%a6/" title="查看页面速度中的全部文章" target="_blank">页面速度</a></span>，在其他分析数据的环境中查看是非常重要的。
 </div>
 
 <div>
@@ -57,7 +57,7 @@ tags:
 </div>
 
 <div>
-  因此，我们激动第宣布<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>平台中已经可用了。通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告，你可用测量网站所有页面的加载时间。
+  因此，我们激动第宣布<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>平台中已经可用了。通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e9%80%9f%e5%ba%a6/" title="查看网站速度中的全部文章" target="_blank">网站速度</a></span>报告，你可用测量网站所有页面的加载时间。
 </div>
 
 <div>
@@ -80,7 +80,7 @@ tags:
       Visitor: How does page load time vary across geographies?访客：页面加载时间在不同地区有何差异？
     </li>
     <li>
-      Technology: Does your site load faster or slower for different browsers?技术：你的网站是否在不同浏览器中<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a0%e8%bd%bd%e9%80%9f%e5%ba%a6/" title="查看加载速度中的全部文章" target="_blank">加载速度</a></span>有快有慢？
+      Technology: Does your site load faster or slower for different browsers?技术：你的网站是否在不同浏览器中<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a0%e8%bd%bd%e9%80%9f%e5%ba%a6/" title="查看加载速度中的全部文章" target="_blank">加载速度</a></span>有快有慢？
     </li>
   </ul>
 </div>
@@ -94,7 +94,7 @@ tags:
 </div>
 
 <div>
-  网站速度报告的一个高效应用是测量你最重要页面的速度。比如，你可能知道你网站目标客户来自某个经历着网站页面加载缓慢的地理位置。或者你可能知道你网站上面的某些页面在某些浏览器中运行缓慢。除了网站速度报告，我们还创建了一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>，你可以用它来帮助回答这些问题：查看网站速度<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>。
+  网站速度报告的一个高效应用是测量你最重要页面的速度。比如，你可能知道你网站目标客户来自某个经历着网站页面加载缓慢的地理位置。或者你可能知道你网站上面的某些页面在某些浏览器中运行缓慢。除了网站速度报告，我们还创建了一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>，你可以用它来帮助回答这些问题：查看网站速度<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>。
 </div>
 
 <div>
@@ -102,7 +102,7 @@ tags:
 </div>
 
 <div>
-  <strong><img class="alignnone size-full wp-image-404" title="galt_blog" src="http://cdn.54jack.com/images/2011/05/galt_blog.png" alt="" width="400" height="246" /></strong>
+  <strong><img class="alignnone size-full wp-image-404" title="galt_blog" src="http://blog.xiaoq.in/cdn/images/2011/05/galt_blog.png" alt="" width="400" height="246" /></strong>
 </div>
 
 <div>
@@ -118,7 +118,7 @@ tags:
 </div>
 
 <div>
-  默认情况下，网页速度报告测量是关闭的，因此在开启它之前，你将只能在网站速度报告中看到“0”。为了开赛测量网站速度，你需要对分析<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bb%a3%e7%a0%81/" title="查看跟踪代码中的全部文章" target="_blank">跟踪代码</a></span>做一个小的更改。我们在分析帮助中心中有关于网站速度的详细指南。
+  默认情况下，网页速度报告测量是关闭的，因此在开启它之前，你将只能在网站速度报告中看到“0”。为了开赛测量网站速度，你需要对分析<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%9f%e8%b8%aa%e4%bb%a3%e7%a0%81/" title="查看跟踪代码中的全部文章" target="_blank">跟踪代码</a></span>做一个小的更改。我们在分析帮助中心中有关于网站速度的详细指南。
 </div>
 
 <div>
@@ -126,7 +126,7 @@ tags:
 </div>
 
 <div>
-  我们非常兴奋带来了这个重要的指标到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>中，使之成为新版<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>平台的一部分。情继续给我们发送关于网站速度及谷歌分析新版其他问题的反馈。
+  我们非常兴奋带来了这个重要的指标到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>中，使之成为新版<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>平台的一部分。情继续给我们发送关于网站速度及谷歌分析新版其他问题的反馈。
 </div>
 
 <div>
@@ -138,7 +138,7 @@ tags:
 </div>
 
 <div>
-  <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>：<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>。
+  <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>：<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>。
 </div>
 
 <div>

@@ -18,18 +18,18 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/5k
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/11/40-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2011/11/40-1.gif;
 categories:
   - Google AdWords
 tags:
   - Google AdWords
   - 广告附加链接
 ---
-接触过<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的人都知道其中有一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>可以在一定程度上提升点击率，从而对于质量得分及账户历史有很好的帮助，但是它的好处绝不止于此。下面将简要介绍一些这个功能有什么好处，怎么应用，能带来什么效果，以及如何评估效果并改善效果。
+接触过<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的人都知道其中有一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>可以在一定程度上提升点击率，从而对于质量得分及账户历史有很好的帮助，但是它的好处绝不止于此。下面将简要介绍一些这个功能有什么好处，怎么应用，能带来什么效果，以及如何评估效果并改善效果。
 
 <a target="_blank" href="http://xiaoq.in/g/pics/2011/11/taobao-sitelink.gif"><img class="alignnone size-full wp-image-42" title="taobao-sitelink" src="http://xiaoq.in/g/pics/2011/11/taobao-sitelink.gif" alt="" width="670" height="480" /></a>
 
-Google Adwords帮助中心里提供了详细的关于<a title="广告附加链接" href="http://adwords.google.com/support/aw/bin/topic.py?hl=zh-Hans&topic=25441" target="_blank">广告附加链接</a>的相关信息，你可以最多添加10个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，但是最多一次性只能显示6个，因此，如果你想更突出某个子链接标题，可以尝试只添加6个或更少。有三种显示形式，分为三行两列，两行两列；一行四列，一行三列，一行两列；以及嵌入模式。因此，如果想要获得较好效果，除非品牌词广告系列，请尽量使标题简短，为了美观，请尽量保持长度相当。
+Google Adwords帮助中心里提供了详细的关于<a title="广告附加链接" href="http://adwords.google.com/support/aw/bin/topic.py?hl=zh-Hans&topic=25441" target="_blank">广告附加链接</a>的相关信息，你可以最多添加10个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，但是最多一次性只能显示6个，因此，如果你想更突出某个子链接标题，可以尝试只添加6个或更少。有三种显示形式，分为三行两列，两行两列；一行四列，一行三列，一行两列；以及嵌入模式。因此，如果想要获得较好效果，除非品牌词广告系列，请尽量使标题简短，为了美观，请尽量保持长度相当。
 
 广告附加链接一般主要应用于以下几个方面：
 

@@ -19,7 +19,7 @@ ta-thumbnail:
 categories:
   - 生活札记
 ---
-<img class="alignnone size-full wp-image-3" src="http://cdn.54jack.com/img/54jack.gif" alt="" />  
+<img class="alignnone size-full wp-image-3" src="http://blog.xiaoq.in/cdn/img/54jack.gif" alt="" />  
 首先，我的这个国际域名现在转到了全球最大域名服务商Godaddy了，避免了国内的政策风险。  
 同时，我的域名其实早在07年就备案了，大家可以查询，不过隐私其实也就没有了。  
 备案修改了几次，备案是越来越烦了。从今以后，我将不再使用各种CN域名（07年开始建站使用就是CN域名，但真别用）。  

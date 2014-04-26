@@ -15,7 +15,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/6f
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/5/427-1.png;https://xiaoq.in/thumb/cache/2011/5/427-2.png;https://xiaoq.in/thumb/cache/2011/5/427-3.png;https://xiaoq.in/thumb/cache/2011/5/427-4.png;https://xiaoq.in/thumb/cache/2011/5/427-5.png;https://xiaoq.in/thumb/cache/2011/5/427-6.png;
+  - http://blog.xiaoq.in/thumb/cache/2011/5/427-1.png;http://blog.xiaoq.in/thumb/cache/2011/5/427-2.png;http://blog.xiaoq.in/thumb/cache/2011/5/427-3.png;http://blog.xiaoq.in/thumb/cache/2011/5/427-4.png;http://blog.xiaoq.in/thumb/cache/2011/5/427-5.png;http://blog.xiaoq.in/thumb/cache/2011/5/427-6.png;
 categories:
   - Google Analytics
 tags:
@@ -31,29 +31,29 @@ tags:
 ---
 Internal campaigns are marketing efforts that are run on your site and promote your products and services. Here’s an example from the Boton Red Sox site. They’re using ads on the homepage to promote ticket sales.
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看内部广告系列中的全部文章" target="_blank">内部广告系列</a></span>是运行在你网站上促销产品或服务的营销策略。下面是来自Boton Red Sox（<http://boston.redsox.mlb.com/>）这个网站的一个例子。他们在首页使用广告来促销门票。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看内部广告系列中的全部文章" target="_blank">内部广告系列</a></span>是运行在你网站上促销产品或服务的营销策略。下面是来自Boton Red Sox（<http://boston.redsox.mlb.com/>）这个网站的一个例子。他们在首页使用广告来促销门票。
 
 [<img title="Internal ticket sale campaign on RedSox.com" src="http://cutroni.com/blog/wp-content/uploads/2010/03/Picture-1.png" alt="" width="738" height="488" />][1]
 
-Companies should track how people react to these campaigns and which ones are most successful. But what’s the best way to do this with <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>?
+Companies should track how people react to these campaigns and which ones are most successful. But what’s the best way to do this with <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>?
 
-公司应该跟踪人们是如何对这些<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>做出反应，了解哪些是最成功的。但是，使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>来实现这个目标的最好方法是什么呢？
+公司应该跟踪人们是如何对这些<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>做出反应，了解哪些是最成功的。但是，使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>来实现这个目标的最好方法是什么呢？
 
 Some people use the standard campaign tracking to track internal campaigns. THIS IS INCORRECT AND SHOULD NEVER BE DONE. Using the standard campaign tracking for internal campaigns will cause problems with your source data. So don’t do it!
 
-有些人使用标准的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>跟踪来跟踪这些<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看内部广告系列中的全部文章" target="_blank">内部广告系列</a></span>。**这是不正确的，切勿如此。**因为那样会造成原始数据的一些问题。因此，别那样做！
+有些人使用标准的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>跟踪来跟踪这些<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看内部广告系列中的全部文章" target="_blank">内部广告系列</a></span>。**这是不正确的，切勿如此。**因为那样会造成原始数据的一些问题。因此，别那样做！
 
 There are a few correct ways to track internal campaigns. You could use [Event Tracking][2], [Custom Variables][3] or Virtual Pageviews. But I like to use GA’s internal campaign tracking tool.
 
-有些正确的方法可以尝试。你可以使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>或者虚拟页面浏览。但是我喜欢使用GA的内部<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>跟踪工具。
+有些正确的方法可以尝试。你可以使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>或者虚拟页面浏览。但是我喜欢使用GA的内部<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看广告系列中的全部文章" target="_blank">广告系列</a></span>跟踪工具。
 
 What? You’ve never seen or used the GA’s internal campaign tracker? It’s in the profile settings and it’s called Site Search tracking! Did I fool you <img src="http://xiaoq.in/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
 
-什么？你从未见过或者使用GA的内部广告系列跟踪工具？它在配置文件设置里面，叫做<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>跟踪！被骗到没有:)
+什么？你从未见过或者使用GA的内部广告系列跟踪工具？它在配置文件设置里面，叫做<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>跟踪！被骗到没有:)
 
 Site Search can easily be configured to track internal campaigns. Let’s walk through the steps to set it up and then the data and analysis.
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>可以很轻易地配置用来跟踪站内广告系列。让我们一步步来，先设置，然后查看数据，再分析。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>可以很轻易地配置用来跟踪站内广告系列。让我们一步步来，先设置，然后查看数据，再分析。
 
 ## Step 1: Create a New Profile
 
@@ -61,7 +61,7 @@ Site Search can easily be configured to track internal campaigns. Let’s walk t
 
 Because we’re using Site Search for an unintended purpose it’s best to configure these settings on a new profile. It’s not possible to use Site Search for both tracking internal campaigns and internal site search within the same profile. You need to have a separate profile to track internal campaigns.
 
-因为我们将使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>来做其他用途，最好创建一个新的配置文件来设置。在同一个配置文件中使用网站搜索来同时跟踪站内广告系列和内部网站搜索是不可能的。你需要有一个单独的配置文件来跟踪内部广告系列。
+因为我们将使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e6%90%9c%e7%b4%a2/" title="查看网站搜索中的全部文章" target="_blank">网站搜索</a></span>来做其他用途，最好创建一个新的配置文件来设置。在同一个配置文件中使用网站搜索来同时跟踪站内广告系列和内部网站搜索是不可能的。你需要有一个单独的配置文件来跟踪内部广告系列。
 
 [<img title="New Google Analytics Profile for Internal Campaigns" src="http://cutroni.com/blog/wp-content/uploads/2010/03/Picture-2.png" alt="" width="392" height="69" />][4]
 
@@ -71,15 +71,15 @@ Because we’re using Site Search for an unintended purpose it’s best to confi
 
 Once you’ve created your new profile it’s time to tag your internal campaigns. Internal campaigns need to be tagged in a similar manner to external campaigns: you need to add query string parameterrs to your internal ad.
 
-一旦创建完新的配置文件，接下来就是配置内部广告系列了。内部广告系列的标记方式与<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a4%96%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看外部广告系列中的全部文章" target="_blank">外部广告系列</a></span>的基本类似：你需要添加查询参数字符串到内部广告链接中。
+一旦创建完新的配置文件，接下来就是配置内部广告系列了。内部广告系列的标记方式与<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a4%96%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看外部广告系列中的全部文章" target="_blank">外部广告系列</a></span>的基本类似：你需要添加查询参数字符串到内部广告链接中。
 
 However, unlike external campaigns you do not use the standard link tagging parameters (`utm_campaign`, `utm_medium`, etc.). You get to make up your own parameters!
 
-然而，同<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a4%96%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看外部广告系列中的全部文章" target="_blank">外部广告系列</a></span>不同的是，你不需要使用标准的链接标记参数（`utm_campaign`, `utm_medium`, 等）。你可以使用自己的参数！
+然而，同<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a4%96%e9%83%a8%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看外部广告系列中的全部文章" target="_blank">外部广告系列</a></span>不同的是，你不需要使用标准的链接标记参数（`utm_campaign`, `utm_medium`, 等）。你可以使用自己的参数！
 
 You can use one or two parameters for internal campaign tracking and you can name then anything you want. The reason you can use one or two parameters is that GA’s site search configuration uses two parameters, one for the search phrase and one for the search category.
 
-你可以使用一个或者两个参数来跟踪内部广告系列，而且你可以任意命名它们。你可以使用一个或者两个的原因是，在GA的网站搜索设置中，它使用两个参数：一个是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%ad%97%e8%af%8d/" title="查看搜索字词中的全部文章" target="_blank">搜索字词</a></span>，一个是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%b1%bb%e5%88%ab/" title="查看搜索类别中的全部文章" target="_blank">搜索类别</a></span>。
+你可以使用一个或者两个参数来跟踪内部广告系列，而且你可以任意命名它们。你可以使用一个或者两个的原因是，在GA的网站搜索设置中，它使用两个参数：一个是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%ad%97%e8%af%8d/" title="查看搜索字词中的全部文章" target="_blank">搜索字词</a></span>，一个是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%b1%bb%e5%88%ab/" title="查看搜索类别中的全部文章" target="_blank">搜索类别</a></span>。
 
 Whatever you choose, make sure the parameters are not used for anything else.
 
@@ -97,7 +97,7 @@ For the sake of this post I’ll use the parameter `icn` (shor for internal camp
 
 I mentioned that you can use two paramters. You don’t need to use two, but GA’s site search can be confiugured to track the internal site search phrase and a site search category. We’ll use the category paramter to track the internal campaign name.
 
-上面提到你可以使用两个参数。你不需要使用两个，但是GA的网站搜索可以配置成跟踪网站<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%ad%97%e8%af%8d/" title="查看搜索字词中的全部文章" target="_blank">搜索字词</a></span>和类别。我们将使用类别参数跟踪内部广告系列的名称。
+上面提到你可以使用两个参数。你不需要使用两个，但是GA的网站搜索可以配置成跟踪网站<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%ad%97%e8%af%8d/" title="查看搜索字词中的全部文章" target="_blank">搜索字词</a></span>和类别。我们将使用类别参数跟踪内部广告系列的名称。
 
 I’m going to name the second paraeter `ici` (short for internal campaign info). Again make sure the parameter you’re using does not already exist. This second parameter let’s me collect details about the ad the visitor clicked on and the location of the ad.
 
@@ -233,7 +233,7 @@ But wait, there’s more! What about using a secondary dimension to view the ext
 
 And finally, the ultimate in analysis, internal campaign attribution. We can use the Search Term Refinement feature if visitors click on multiple internal campaigns. Google Analytics will track all subsequent site searches, but in our case follow up site searches are actually additional internal campaigns that the visitor responded to. Honestly, I have never found any insights from this type of analysis, but you can do it if you want!
 
-最后，分析中的极致，内部广告系列分布。如果访问者点击了多个内部广告系列，我们可以使用搜索字词重定义功能。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>将跟踪所有次级网站搜索，但是在我们这个例子中随后的网站搜索事实上是访问者对额外的内部广告系列做出的反应。老实说，我从未从这类分析中领悟到任何东西，但是如果你想的话你可以做到的。
+最后，分析中的极致，内部广告系列分布。如果访问者点击了多个内部广告系列，我们可以使用搜索字词重定义功能。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>将跟踪所有次级网站搜索，但是在我们这个例子中随后的网站搜索事实上是访问者对额外的内部广告系列做出的反应。老实说，我从未从这类分析中领悟到任何东西，但是如果你想的话你可以做到的。
 
 Ok, I’ve officially entered nerdville.
 
@@ -245,9 +245,9 @@ I think you get the idea. By adding all this data you can do many different kind
 
 Last but not least, I’ll mention that you can track internal campaigns using events and custom variables. But both of those solutions require coding. And that requires working with IT. Using Site Search, in most cases, will not require any code changes to your site.
 
-最后，我提下你可以使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>或者<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来跟踪内部广告系列。但是这两个解决方案需要编写代码。需要计算机基础。使用网站搜索在大部分情况下，不需要对网站的代码做任何改变。
+最后，我提下你可以使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>或者<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来跟踪内部广告系列。但是这两个解决方案需要编写代码。需要计算机基础。使用网站搜索在大部分情况下，不需要对网站的代码做任何改变。
 
-译者：<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span> <span style="color: #ff6600;">原创翻译，转载请注明出处</span>
+译者：<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span> <span style="color: #ff6600;">原创翻译，转载请注明出处</span>
 
 原文：<a title="使用谷歌分析跟踪内部广告系列" href="http://cutroni.com/blog/2010/03/30/tracking-internal-campaigns-with-google-analytics/" target="_blank">http://cutroni.com/blog/2010/03/30/tracking-internal-campaigns-with-google-analytics/</a>
 

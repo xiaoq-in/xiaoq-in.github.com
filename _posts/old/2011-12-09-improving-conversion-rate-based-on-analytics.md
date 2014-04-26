@@ -42,13 +42,13 @@ tags:
 5.  渠道可视化：这是对购物流程进行优化的数据基础，从而对其中流失明显的步骤进行优化并测试。
 6.  搜索字词：这需要首先在配置文件中进行配置，查看搜索字词和类别可以找到用户的站内搜索习惯，检查搜索匹配度，以及了解网站的导航是否清晰明了。
 7.  网页内分析：这是一个相当于热力图的工具，可以看到页面内各个链接的点击情况，但是如果需要得到更详尽、准确、实时的热力图，可以安装Click Heat这个免费的开源程序或者使用其他付费服务。
-8.  广告系列：一般做站内专题，发送EDM,，投放PPC广告或者其他付费广告都会使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>的网址构建器（无论是网上提交单个生成还是通过Excel表格批量生成），这个标记后的数据会显示在广告系列中，如果你使用了<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>中的动态变量值，那么还可以跟踪到非<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>平台的关键词及广告来源等情况。
+8.  广告系列：一般做站内专题，发送EDM,，投放PPC广告或者其他付费广告都会使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>的网址构建器（无论是网上提交单个生成还是通过Excel表格批量生成），这个标记后的数据会显示在广告系列中，如果你使用了<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>中的动态变量值，那么还可以跟踪到非<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>平台的关键词及广告来源等情况。
 
 <p align="left">
   另外，以下两个是两个值得关注的，一个是广告管理工具，一个是新兴的营销渠道CSE。
 </p>
 
-1.  Google <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dfp%e5%b9%bf%e5%91%8a%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f/" title="查看DFP广告管理系统中的全部文章" target="_blank">DFP广告管理系统</a></span>：这个工具不仅可以用来管理广告（赚钱Google Adsense广告费），其同样可以用来管理网站的内部专题。
+1.  Google <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dfp%e5%b9%bf%e5%91%8a%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f/" title="查看DFP广告管理系统中的全部文章" target="_blank">DFP广告管理系统</a></span>：这个工具不仅可以用来管理广告（赚钱Google Adsense广告费），其同样可以用来管理网站的内部专题。
 2.  Google Product  Shopping：比价网站的流行，不仅仅只是国内看到的etao.com，国外还要很多类似的。比价之外，还要评论类网站，google和bing等搜索引擎均会抓取一些大型的评论类网站，国内的如大众点评网的星级会直接显示在搜索结果，广告，地图以及购物中，国外的一样。
 
 <p align="left">
@@ -56,7 +56,7 @@ tags:
 </p>
 
 <p align="left">
-  数据分析之后需要采取的一个行为便是A/B测试，可以对广告进行测试（主要是对广告语进行测试），也可以对网站内部进行测试。这其中的一个重要的免费工具便是Google Website Optimizer（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/gwo/" title="查看GWO中的全部文章" target="_blank">GWO</a></span>）。
+  数据分析之后需要采取的一个行为便是A/B测试，可以对广告进行测试（主要是对广告语进行测试），也可以对网站内部进行测试。这其中的一个重要的免费工具便是Google Website Optimizer（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/gwo/" title="查看GWO中的全部文章" target="_blank">GWO</a></span>）。
 </p>
 
 <p align="left">

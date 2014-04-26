@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/2x
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/734-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/734-1.png;
 categories:
   - Google AdWords
 tags:
@@ -28,9 +28,9 @@ tags:
   - 相关性
   - 质量得分
 ---
-从根本上来说，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%85%b3%e9%94%ae%e5%ad%97%e6%8f%92%e5%85%a5/" title="查看动态关键字插入中的全部文章" target="_blank">动态关键字插入</a></span>，<a href="http://www.wordstream.com/dynamic-keyword-insertion" target="_blank">基本知识</a>）是一个很有效的工具。与花费一整天功夫手工插入关键字到广告中相比，这个小工具将会帮你自动实现！另外，这是是流行语的一个重要来源，比如，“我们使用关键字插入代码极大地提升了广告的相关度，从而提升了我们的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>”。
+从根本上来说，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%85%b3%e9%94%ae%e5%ad%97%e6%8f%92%e5%85%a5/" title="查看动态关键字插入中的全部文章" target="_blank">动态关键字插入</a></span>，<a href="http://www.wordstream.com/dynamic-keyword-insertion" target="_blank">基本知识</a>）是一个很有效的工具。与花费一整天功夫手工插入关键字到广告中相比，这个小工具将会帮你自动实现！另外，这是是流行语的一个重要来源，比如，“我们使用关键字插入代码极大地提升了广告的相关度，从而提升了我们的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>”。
 
-由于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ppc/" title="查看PPC中的全部文章" target="_blank">PPC</a></span>中很大的一个部分，我认为挖掘其鲜为人知的细节是非常重要的。希望通过阅读本文，你可以发现之前所不知道的的关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>的一些事情。
+由于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ppc/" title="查看PPC中的全部文章" target="_blank">PPC</a></span>中很大的一个部分，我认为挖掘其鲜为人知的细节是非常重要的。希望通过阅读本文，你可以发现之前所不知道的的关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dki/" title="查看DKI中的全部文章" target="_blank">DKI</a></span>的一些事情。
 
 ### **1. 它可用户广告的任何位置**
 
@@ -82,7 +82,7 @@ Google是如此的智能，当你使用带修饰符的广泛匹配时，它不�
 
 ### **5. 这是一个特权而不是权力**
 
-如果你的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>太低，Google将不会给予你使用DKI的好处，特别是在Google.com中。
+如果你的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>太低，Google将不会给予你使用DKI的好处，特别是在Google.com中。
 
 <img title="image018" src="http://www.searchenginejournal.com/wp-content/uploads/2012/02/image018.png" alt="" width="429" height="66" />
 
@@ -102,14 +102,14 @@ Google不允许重复单词，除非你要求一个特定的例外。然而，�
 
 DKI也能在内容广告（GDN）中使用。显示方式有些不同；在内容广告中，Google基于展示位置的内容来决定使用广告组中的哪个关键词作为插入关键词。Google还可能会决定使用默认的关键词。
 
-### **9. DKI对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>没有帮助**
+### **9. DKI对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>没有帮助**
 
-我读到过很多DKI相关的文章，他们说声称DKI对提升质量得分有帮助。那个断言是，使用DKI会提高CTR（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>），因此逻辑性的总结是DKI提升了质量得分。我的回应是，这是一个不公平的断言，因为如果你使用DKI，你的广告组中可能会有多个彼此毫不相关的关键词。因此，那就意味着你的静态文本可能会跟广告组中给定的关键词更不相关。然而，如果你推广一个包含关键词的静态广告而不是使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%85%b3%e9%94%ae%e8%af%8d%e6%8f%92%e5%85%a5/" title="查看动态关键词插入中的全部文章" target="_blank">动态关键词插入</a></span>的广告，那么DKI将失去优势。因此，如果如果要说对质量得分有帮助的话，上述断言应该是：“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看相关性中的全部文章" target="_blank">相关性</a></span>提高<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>，而点击率会提高质量得分”，而非“DKI提高质量得分”。
+我读到过很多DKI相关的文章，他们说声称DKI对提升质量得分有帮助。那个断言是，使用DKI会提高CTR（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>），因此逻辑性的总结是DKI提升了质量得分。我的回应是，这是一个不公平的断言，因为如果你使用DKI，你的广告组中可能会有多个彼此毫不相关的关键词。因此，那就意味着你的静态文本可能会跟广告组中给定的关键词更不相关。然而，如果你推广一个包含关键词的静态广告而不是使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8a%a8%e6%80%81%e5%85%b3%e9%94%ae%e8%af%8d%e6%8f%92%e5%85%a5/" title="查看动态关键词插入中的全部文章" target="_blank">动态关键词插入</a></span>的广告，那么DKI将失去优势。因此，如果如果要说对质量得分有帮助的话，上述断言应该是：“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%b8%e5%85%b3%e6%80%a7/" title="查看相关性中的全部文章" target="_blank">相关性</a></span>提高<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>，而点击率会提高质量得分”，而非“DKI提高质量得分”。
 
 另外，Google可能事实上在警告你不要使用DKI！跟Google通过排名常态化点击率的方式一样，Google可能期望使用DKI的广告同不使用DKI的广告相比会获得更高点击率。当前，我在测试该假设，两个广告在互相竞争；他们其他地方完全相同，只是有一个使用DKI，一个不使用（在该广告组中，其中有一个完全匹配关键词，该关键词与默认关键词相同）。因此，如果一段时间之后，使用DKI的广告平均排名更差和/或每次点击费用更高，那么它将表明关键词和DKI之间的关系会造成更低的质量得分。敬请期待。
 
 ### 总结
 
-回到我的原始陈述，DKI是一个非常有效的工具。如果你时间紧迫，要处理大量长尾关键词，或者只是因为有更重要的事情要做，DKI是一个很好的选项。如果你真正想拥有最好的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ppc/" title="查看PPC中的全部文章" target="_blank">PPC</a></span>账户结构（即，短小精悍，高度相关的广告组），那么相对静态广告，DKI将不会给你提供任何好处。如果你考虑到DKI让你对广告的控制权减弱（在GDN中，或者如果你的质量得分太低，或者如果你有独特的关键词外壳），我想说，相对于老式的静态广告，DKI不会帮助提升你的AdWords效果。因此，如果你已经阅读了很多关于DKI的文章，我将以一些你当然已经知道的智慧来结束本文：三思而后行！
+回到我的原始陈述，DKI是一个非常有效的工具。如果你时间紧迫，要处理大量长尾关键词，或者只是因为有更重要的事情要做，DKI是一个很好的选项。如果你真正想拥有最好的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ppc/" title="查看PPC中的全部文章" target="_blank">PPC</a></span>账户结构（即，短小精悍，高度相关的广告组），那么相对静态广告，DKI将不会给你提供任何好处。如果你考虑到DKI让你对广告的控制权减弱（在GDN中，或者如果你的质量得分太低，或者如果你有独特的关键词外壳），我想说，相对于老式的静态广告，DKI不会帮助提升你的AdWords效果。因此，如果你已经阅读了很多关于DKI的文章，我将以一些你当然已经知道的智慧来结束本文：三思而后行！
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.searchenginejournal.com/9-things-you-might-not-know-about-dki/40738/" target="_blank">http://www.searchenginejournal.com/9-things-you-might-not-know-about-dki/40738/</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.searchenginejournal.com/9-things-you-might-not-know-about-dki/40738/" target="_blank">http://www.searchenginejournal.com/9-things-you-might-not-know-about-dki/40738/</a>

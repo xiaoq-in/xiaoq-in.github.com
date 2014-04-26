@@ -32,19 +32,19 @@ tags:
   - 多种方式
   - 操作技巧培训
 ---
-刚从<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0%e7%bd%91/" title="查看中国制造网中的全部文章" target="_blank">中国制造网</a></span>深圳分公司回来，这是头一次参加<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0%e7%bd%91/" title="查看中国制造网中的全部文章" target="_blank">中国制造网</a></span>的线下培训，感觉还不错，就是远了点，还有就是没零食吃，呵呵。
+刚从<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0%e7%bd%91/" title="查看中国制造网中的全部文章" target="_blank">中国制造网</a></span>深圳分公司回来，这是头一次参加<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0%e7%bd%91/" title="查看中国制造网中的全部文章" target="_blank">中国制造网</a></span>的线下培训，感觉还不错，就是远了点，还有就是没零食吃，呵呵。
 
-<img class="alignnone size-full wp-image-145" title="mic-training" src="http://cdn.54jack.com/images/2011/02/mic-training.gif" alt="" width="760" height="200" />
+<img class="alignnone size-full wp-image-145" title="mic-training" src="http://blog.xiaoq.in/cdn/images/2011/02/mic-training.gif" alt="" width="760" height="200" />
 
-跟阿里XX相比，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网有一个不同就是可以批量更新，首页可以展示10个多图产品并带有hot图标，顶部banner（行业图片）可以使用自定义的3个轮显（后台可上传6个）。另外，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网的公司图片只能放一张，而阿里巴巴可以放3张flash播放。（有个解决方案就是上传动态的gif图片，可利用<http://gif.55.la/>这个在线GIF动画制作工具）
+跟阿里XX相比，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网有一个不同就是可以批量更新，首页可以展示10个多图产品并带有hot图标，顶部banner（行业图片）可以使用自定义的3个轮显（后台可上传6个）。另外，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网的公司图片只能放一张，而阿里巴巴可以放3张flash播放。（有个解决方案就是上传动态的gif图片，可利用<http://gif.55.la/>这个在线GIF动画制作工具）
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网推广操作技巧主要有三点：
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网推广操作技巧主要有三点：
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%9b%e8%a6%81%e7%b4%a0/" title="查看四要素中的全部文章" target="_blank">四要素</a></span>：发布高品质信息
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%9b%e8%a6%81%e7%b4%a0/" title="查看四要素中的全部文章" target="_blank">四要素</a></span>：发布高品质信息
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%89%e7%a7%8d%e9%80%94%e5%be%84/" title="查看三种途径中的全部文章" target="_blank">三种途径</a></span>：提供信息排名
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%89%e7%a7%8d%e9%80%94%e5%be%84/" title="查看三种途径中的全部文章" target="_blank">三种途径</a></span>：提供信息排名
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a4%9a%e7%a7%8d%e6%96%b9%e5%bc%8f/" title="查看多种方式中的全部文章" target="_blank">多种方式</a></span>：全面展示公司信息
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a4%9a%e7%a7%8d%e6%96%b9%e5%bc%8f/" title="查看多种方式中的全部文章" target="_blank">多种方式</a></span>：全面展示公司信息
 
 具体内容可以参见中国制造网客户培训课程之操作技巧同步教材，综合来讲主要是关键词选择要符合买家搜索习惯，体现专业性，避免过于宽泛深圳错误的名称，为了更吸引买家眼球在产品标题和名称中最好体现个性和卖点，让买家一目了然就可以知道你的与众不同。
 

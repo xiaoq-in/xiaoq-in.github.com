@@ -29,7 +29,7 @@ tags:
 ---
 在创建和管理你的AdWords账户时，首先查看本章的步骤。尽管每一步都看似简单，实际上每一步都有很多选项。当你对其中任何涉及到决策的步骤感到疑惑时，翻到该步骤背后的选项被全面解释的那个章节。
 
-通过使用本章中的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5/" title="查看最佳实践中的全部文章" target="_blank">最佳实践</a></span>，你应该能够成功创建、组织以及优化你的AdWords账户：
+通过使用本章中的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5/" title="查看最佳实践中的全部文章" target="_blank">最佳实践</a></span>，你应该能够成功创建、组织以及优化你的AdWords账户：
 
 *   在广告中成功的最重要步骤是首先确定你的广告系列目标。
 *   一旦了解了目标，你需要找出跟踪目标的方法。
@@ -45,7 +45,7 @@ tags:
 
 AdWords允许你在进入目标市场时发挥创意。这个系统十分灵活，一旦你理解了广告是如何展现的，你可以测试在本书中提到过的众多变量以验证哪种组合为你等账户带来最大利润。
 
-学习本书中的建议将会帮助你创建广告系列，选择关键词，撰写广告语，设计着陆页面，把你的广告展示到你的潜在客户眼前，而这将帮助你在使用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>时获得成功。
+学习本书中的建议将会帮助你创建广告系列，选择关键词，撰写广告语，设计着陆页面，把你的广告展示到你的潜在客户眼前，而这将帮助你在使用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>时获得成功。
 
 第一个广告是几千年前的壁画。古埃及最先将广告写到纸上。报纸上的第一个广告出现在1836年。第一个网络可点击的广告出现在1983年。Google AdWords在2002年启动了他们的第一个点击付费产品。
 

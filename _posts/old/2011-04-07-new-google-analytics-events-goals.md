@@ -33,21 +33,21 @@ tags:
   </p>
   
   <div>
-    <em>This is part of our series of posts highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to a number of Analytics users. We’ll be giving access to even more users soon. <a href="https://services.google.com/fb/forms/newanalyticssignup/?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals-header">Sign up for early access</a>. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates.</em>
+    <em>This is part of our series of posts highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to a number of Analytics users. We’ll be giving access to even more users soon. <a href="https://services.google.com/fb/forms/newanalyticssignup/?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals-header">Sign up for early access</a>. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates.</em>
   </div>
   
   <p>
-    这是我们新版<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>目前正在对小部分<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试。我们将给更多用户开放权限。立即注册抢先测试。并且，你可以追随我们的twitter获取最新更新。
+    这是我们新版<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列的一部分。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>目前正在对小部分<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试。我们将给更多用户开放权限。立即注册抢先测试。并且，你可以追随我们的twitter获取最新更新。
   </p>
 </div>
 
 <div>
   <div>
-    Real Analytics ninjas use goals. Google Analytics has always had URL Goals (when a visitor reaches a specific page). In 2009, we added <a href="http://analytics.blogspot.com/2009/10/new-feature-spotlight-engagement-goals.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals">Engagement Goals</a> to track success metrics around visit depth and time on site. With the new version of Google Analytics, we’ve added one more: Event Goals. This was one of our most requested features, and it gives you even more reason to use <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span>.
+    Real Analytics ninjas use goals. Google Analytics has always had URL Goals (when a visitor reaches a specific page). In 2009, we added <a href="http://analytics.blogspot.com/2009/10/new-feature-spotlight-engagement-goals.html?utm_source=gablog&utm_medium=blog&utm_campaign=newga-blog&utm_content=eventgoals">Engagement Goals</a> to track success metrics around visit depth and time on site. With the new version of Google Analytics, we’ve added one more: Event Goals. This was one of our most requested features, and it gives you even more reason to use <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span>.
   </div>
   
   <div>
-    真正的分析专家使用目标。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>一直就有网址目标（访问者到达一个特定页面）。在2009年，我们增加了参与度目标来跟踪涉及访问深度和网站停留时间的成功策略。在新版的谷歌分析中，我们再增加了一项：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>。
+    真正的分析专家使用目标。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>一直就有网址目标（访问者到达一个特定页面）。在2009年，我们增加了参与度目标来跟踪涉及访问深度和网站停留时间的成功策略。在新版的谷歌分析中，我们再增加了一项：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>。
   </div>
   
   <div>
@@ -102,7 +102,7 @@ tags:
   </div>
   
   <div>
-    Events are defined using a set of Categories, Actions, Labels, and Values. Here’s how you might set up <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span> for tracking downloads of whitepapers and presentations.
+    Events are defined using a set of Categories, Actions, Labels, and Values. Here’s how you might set up <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span> for tracking downloads of whitepapers and presentations.
   </div>
   
   <div>
@@ -114,7 +114,7 @@ tags:
   </div>
   
   <div>
-    <img class="alignnone size-full wp-image-239" title="eventgoals-map" src="http://cdn.54jack.com/images/2011/04/eventgoals-map.png" alt="" width="400" height="184" />
+    <img class="alignnone size-full wp-image-239" title="eventgoals-map" src="http://blog.xiaoq.in/cdn/images/2011/04/eventgoals-map.png" alt="" width="400" height="184" />
   </div>
   
   <div>
@@ -122,7 +122,7 @@ tags:
   </div>
   
   <div>
-    这些互动都有潜在的商业影响，但是在这之前，你无法在谷歌分析中把它们作为目标来跟踪。让我们来看看你可能会在你网站上使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>的三种方式。
+    这些互动都有潜在的商业影响，但是在这之前，你无法在谷歌分析中把它们作为目标来跟踪。让我们来看看你可能会在你网站上使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>的三种方式。
   </div>
   
   <div>
@@ -134,7 +134,7 @@ tags:
   </div>
   
   <div>
-    Suppose you run a business to business (B2B) website and offer whitepapers (as a PDF download) in order to attract leads. You drive traffic to this page through advertising. You can track the number of downloads using <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span>. For example, we can use the category to designate the click was of type “download”. We can use the action to designate the download was a “whitepaper” and we can use the label to identify the actual whitepaper that was downloaded.
+    Suppose you run a business to business (B2B) website and offer whitepapers (as a PDF download) in order to attract leads. You drive traffic to this page through advertising. You can track the number of downloads using <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/event-tracking/" title="查看event tracking中的全部文章" target="_blank">event tracking</a></span>. For example, we can use the category to designate the click was of type “download”. We can use the action to designate the download was a “whitepaper” and we can use the label to identify the actual whitepaper that was downloaded.
   </div>
   
   <div>
@@ -146,7 +146,7 @@ tags:
   </div>
   
   <div>
-    在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>中，配置其为目标是非常简单的。我们只需匹配任何“download”分类及“whitepaper”操作的事件。最后，我们设置目标值为20。
+    在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>中，配置其为目标是非常简单的。我们只需匹配任何“download”分类及“whitepaper”操作的事件。最后，我们设置目标值为20。
   </div>
   
   <div>
@@ -154,7 +154,7 @@ tags:
   </div>
   
   <div>
-    <strong><img class="alignnone size-full wp-image-240" title="eventgoals-whitepaper" src="http://cdn.54jack.com/images/2011/04/eventgoals-whitepaper.png" alt="" width="400" height="320" /></strong>
+    <strong><img class="alignnone size-full wp-image-240" title="eventgoals-whitepaper" src="http://blog.xiaoq.in/cdn/images/2011/04/eventgoals-whitepaper.png" alt="" width="400" height="320" /></strong>
   </div>
   
   <div>
@@ -182,7 +182,7 @@ tags:
   </div>
   
   <div>
-    通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>，你现在可以基于该值设定一个目标。在这个例子中，我们已经为用户观看产品视频超过180秒这个事件配置好了一个目标。
+    通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e7%9b%ae%e6%a0%87/" title="查看事件目标中的全部文章" target="_blank">事件目标</a></span>，你现在可以基于该值设定一个目标。在这个例子中，我们已经为用户观看产品视频超过180秒这个事件配置好了一个目标。
   </div>
   
   <div>
@@ -194,7 +194,7 @@ tags:
   </div>
   
   <div>
-    <strong><img class="alignnone size-full wp-image-241" title="eventgoals-timespent" src="http://cdn.54jack.com/images/2011/04/eventgoals-timespent.png" alt="" width="400" height="110" /></strong>
+    <strong><img class="alignnone size-full wp-image-241" title="eventgoals-timespent" src="http://blog.xiaoq.in/cdn/images/2011/04/eventgoals-timespent.png" alt="" width="400" height="110" /></strong>
   </div>
   
   <div>
@@ -226,7 +226,7 @@ tags:
   </div>
   
   <div>
-    <img class="alignnone size-full wp-image-242" title="eventgoals-eventvalue" src="http://cdn.54jack.com/images/2011/04/eventgoals-eventvalue.png" alt="" width="400" height="67" />
+    <img class="alignnone size-full wp-image-242" title="eventgoals-eventvalue" src="http://blog.xiaoq.in/cdn/images/2011/04/eventgoals-eventvalue.png" alt="" width="400" height="67" />
   </div>
   
   <div>

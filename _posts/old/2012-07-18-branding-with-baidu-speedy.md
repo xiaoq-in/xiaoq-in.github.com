@@ -24,11 +24,11 @@ tags:
   - 快速制胜
   - 百度推广
 ---
-很久没有写博客了，其实是因为最近经历了一个比较重要的转型，从<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>转向了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%99%be%e5%ba%a6%e6%8e%a8%e5%b9%bf/" title="查看百度推广中的全部文章" target="_blank">百度推广</a></span>，从电子商务转向了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%93%81%e7%89%8c%e6%8e%a8%e5%b9%bf/" title="查看品牌推广中的全部文章" target="_blank">品牌推广</a></span>。两者相加，这绝对是一个很大的跳跃！那么，在接下来的一段时间里，我也就主要写写对于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%99%be%e5%ba%a6%e6%8e%a8%e5%b9%bf/" title="查看百度推广中的全部文章" target="_blank">百度推广</a></span>的一些经验与心得体会。
+很久没有写博客了，其实是因为最近经历了一个比较重要的转型，从<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>转向了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%99%be%e5%ba%a6%e6%8e%a8%e5%b9%bf/" title="查看百度推广中的全部文章" target="_blank">百度推广</a></span>，从电子商务转向了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%93%81%e7%89%8c%e6%8e%a8%e5%b9%bf/" title="查看品牌推广中的全部文章" target="_blank">品牌推广</a></span>。两者相加，这绝对是一个很大的跳跃！那么，在接下来的一段时间里，我也就主要写写对于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%99%be%e5%ba%a6%e6%8e%a8%e5%b9%bf/" title="查看百度推广中的全部文章" target="_blank">百度推广</a></span>的一些经验与心得体会。
 
-其实，我的<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>从业经验是始于百度推广的，时隔一年多，发现百度确实很多改进，但是玩过谷歌的童鞋再去玩百度，一定会愤愤不平，各种不合理的设置，各种陷阱，各种的机械死板，各种的不智能。当然，我已经不再想再说它的不足了，说多了也成抱怨了，心态一定要放好。
+其实，我的<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>从业经验是始于百度推广的，时隔一年多，发现百度确实很多改进，但是玩过谷歌的童鞋再去玩百度，一定会愤愤不平，各种不合理的设置，各种陷阱，各种的机械死板，各种的不智能。当然，我已经不再想再说它的不足了，说多了也成抱怨了，心态一定要放好。
 
-<img class="alignnone size-full wp-image-827" title="ico_01" src="http://cdn.xiaoq.in//2012/07/ico_01.gif" alt="" width="110" height="110" />
+<img class="alignnone size-full wp-image-827" title="ico_01" src="http://blog.xiaoq.in/cdn//2012/07/ico_01.gif" alt="" width="110" height="110" />
 
 刚接手一个新账户，点击率很低，CPC很高，钱花不够，没空扩词，没空改广告语，需要马上立刻改善！你会怎么做？
 

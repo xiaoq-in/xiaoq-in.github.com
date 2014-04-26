@@ -28,11 +28,11 @@ tags:
   - 谷歌分析第五版
 ---
 <div>
-  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=54jack.com&utm_medium=54jack.com&utm_campaign=54jack.com&utm_content=54jack.com">series of posts</a> highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=54jack.com&utm_medium=54jack.com&utm_campaign=54jack.com&utm_content=54jack.com">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates. This week we’ll be discussing how to use updated custom reports.</em>
+  <em>This is part of our <a href="http://analytics.blogspot.com/search/label/New%20Google%20Analytics?utm_source=54jack.com&utm_medium=54jack.com&utm_campaign=54jack.com&utm_content=54jack.com">series of posts</a> highlighting the <a href="http://analytics.blogspot.com/2011/03/looking-towards-future-of-google.html?utm_source=54jack.com&utm_medium=54jack.com&utm_campaign=54jack.com&utm_content=54jack.com">new Google Analytics</a>. The new version of <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And <a href="http://twitter.com/#!/googleanalytics">follow Google Analytics on Twitter</a> for the latest updates. This week we’ll be discussing how to use updated custom reports.</em>
 </div>
 
 <div>
-  <em>这是我们新版<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列文章之一。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>目前对所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试。在twitter上关注我们吧吧。本周我们将继续讨论如何使用已经更新的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>。</em>
+  <em>这是我们新版<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列文章之一。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>目前对所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户开放测试。在twitter上关注我们吧吧。本周我们将继续讨论如何使用已经更新的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>。</em>
 </div>
 
 <div>
@@ -40,7 +40,7 @@ tags:
 </div>
 
 <div>
-  每个网站都彼此不同，然而我们在网站分析工具上花费大量时间去关注标准报告。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>在2008年就开始整合到了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>。在新平台，我们仔细看看如何改进自定义报告，使之更好用、更强大。
+  每个网站都彼此不同，然而我们在网站分析工具上花费大量时间去关注标准报告。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>在2008年就开始整合到了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>。在新平台，我们仔细看看如何改进自定义报告，使之更好用、更强大。
 </div>
 
 <div>
@@ -60,7 +60,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/Custom-Report-Icon-Screenshot.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600400500482438370" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/Custom-Report-Icon-Screenshot.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/Custom-Report-Icon-Screenshot.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600400500482438370" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/Custom-Report-Icon-Screenshot.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -104,7 +104,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/customreports-referralfilter.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600402704555096610" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/customreports-referralfilter.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/customreports-referralfilter.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600402704555096610" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/customreports-referralfilter.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -128,7 +128,7 @@ tags:
 </div>
 
 <div>
-  如当前版（指旧版），你可以在自定义报告中建立多个报告标签。这对于组织报告或为组织内部不同人建立不同视角，是大有帮助的。在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>中，你不再局限于为每个报告标签使用相同的维度，这允许你可以真正在一个自定义报告中获得你所关注的所有数据。有两种类型的报告可用：平面表格和探索标签。
+  如当前版（指旧版），你可以在自定义报告中建立多个报告标签。这对于组织报告或为组织内部不同人建立不同视角，是大有帮助的。在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>中，你不再局限于为每个报告标签使用相同的维度，这允许你可以真正在一个自定义报告中获得你所关注的所有数据。有两种类型的报告可用：平面表格和探索标签。
 </div>
 
 <div>
@@ -140,7 +140,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/customreports-explorer.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408005143110818" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/customreports-explorer.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/customreports-explorer.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408005143110818" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/customreports-explorer.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -152,7 +152,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/customreports-flattable.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408002478079234" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/customreports-flattable.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/customreports-flattable.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408002478079234" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/customreports-flattable.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -164,7 +164,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/customreports-blogreport-finished.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408008536196722" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/customreports-blogreport-finished.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/customreports-blogreport-finished.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600408008536196722" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/customreports-blogreport-finished.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -188,7 +188,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://cdn.54jack.com/images/2011/04/customreports-share.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600400478439654482" style="border: 0px;" src="http://cdn.54jack.com/images/2011/04/customreports-share.png" border="0" alt="" /></a>
+  <a href="http://blog.xiaoq.in/cdn/images/2011/04/customreports-share.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5600400478439654482" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/04/customreports-share.png" border="0" alt="" /></a>
 </div>
 
 <div>
@@ -220,7 +220,7 @@ tags:
 </div>
 
 <div>
-  使用标准报告来分析你的网站有局限性，因此我们在GA 第五版中做出大量努力以使自定义报告更强大、更易用。 请继续给予我们你对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>的反馈意见。分析快乐！
+  使用标准报告来分析你的网站有局限性，因此我们在GA 第五版中做出大量努力以使自定义报告更强大、更易用。 请继续给予我们你对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>的反馈意见。分析快乐！
 </div>
 
 <div>

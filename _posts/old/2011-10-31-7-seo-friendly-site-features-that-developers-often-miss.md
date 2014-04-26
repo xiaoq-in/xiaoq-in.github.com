@@ -18,7 +18,7 @@ tags:
 ---
 网站开发人员非常伟大：没有他们，我们将不会有网站！但不幸的是许多开发人员在SEO方面有一些盲点。尽管一些SEO功能在当今几乎成为标准的网站配置（编辑tags标签，alt属性，等等），但是还是有些被经常遗忘。让我们看看&#8230;&#8230;
 
-**分析工具（<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>或其他的分析工具）**
+**分析工具（<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>或其他的分析工具）**
 
 一个不错的分析工具对于任何网络营销活动都是至关重要的，既可以测量结果又可以获得网站上如何被发现及时用的数据。另外，所有营销人员都知道，拿到网站的历史数据对于开启一个新的广告计划几乎是无价的。然而，很惊奇地发现有很多网站不装分析工具就上线的，大小网站都有这种情况。即可申请一个并配置好吧！
 
@@ -106,4 +106,4 @@ If all that sounds pretty technical… well, it is. Luckily, you don&#8217;t nee
 
 确保你的网站开发员从开始就实现这些基本功能会使你的站内SEO顺其自然地运行，让你可以集中精力进行链接建设及内容维护。上述所有功能都是必须的！
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，原文：<a href="http://searchenginewatch.com/article/2120878/7-SEO-Friendly-Site-Features-that-Developers-Often-Miss" target="_blank">http://searchenginewatch.com/article/2120878/7-SEO-Friendly-Site-Features-that-Developers-Often-Miss</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译，原文：<a href="http://searchenginewatch.com/article/2120878/7-SEO-Friendly-Site-Features-that-Developers-Often-Miss" target="_blank">http://searchenginewatch.com/article/2120878/7-SEO-Friendly-Site-Features-that-Developers-Often-Miss</a>

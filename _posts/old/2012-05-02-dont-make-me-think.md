@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://g.xiaoq.in/7
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/5/773-1.jpg;https://xiaoq.in/thumb/cache/2012/5/773-2.gif;https://xiaoq.in/thumb/cache/2012/5/773-3.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/5/773-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/5/773-2.gif;http://blog.xiaoq.in/thumb/cache/2012/5/773-3.gif;
 categories:
   - 用户体验
 tags:
@@ -25,7 +25,7 @@ tags:
   - 别让我思考
   - 用户体验
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ued/" title="查看用户体验中的全部文章" target="_blank">用户体验</a></span>是当今被广为关注的一个话题，很多互联网公司都建立了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ued/" title="查看用户体验中的全部文章" target="_blank">用户体验</a></span>分享博客，比如淘宝，阿里巴巴，百度，网易，腾讯，等等。《<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%ab%e8%ae%a9%e6%88%91%e6%80%9d%e8%80%83/" title="查看别让我思考中的全部文章" target="_blank">别让我思考</a></span>》是关于用户体验的一本入门教材，五一期间在火车上读完了这本书，虽然并没有突破其中说到的两小时的记录，不过也算简短易读。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ued/" title="查看用户体验中的全部文章" target="_blank">用户体验</a></span>是当今被广为关注的一个话题，很多互联网公司都建立了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ued/" title="查看用户体验中的全部文章" target="_blank">用户体验</a></span>分享博客，比如淘宝，阿里巴巴，百度，网易，腾讯，等等。《<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%ab%e8%ae%a9%e6%88%91%e6%80%9d%e8%80%83/" title="查看别让我思考中的全部文章" target="_blank">别让我思考</a></span>》是关于用户体验的一本入门教材，五一期间在火车上读完了这本书，虽然并没有突破其中说到的两小时的记录，不过也算简短易读。
 
 <img class="alignnone" title="Don't Make Me Think" src="http://img3.douban.com/lpic/s4357645.jpg" alt="" width="321" height="414" />
 

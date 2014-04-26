@@ -14,14 +14,14 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/10
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/2/1079-1.jpg;https://xiaoq.in/thumb/cache/2013/2/1079-2.jpg;https://xiaoq.in/thumb/cache/2013/2/1079-3.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2013/2/1079-1.jpg;http://blog.xiaoq.in/thumb/cache/2013/2/1079-2.jpg;http://blog.xiaoq.in/thumb/cache/2013/2/1079-3.jpg;
 categories:
   - Google AdWords
 tags:
   - 增强型广告系列
   - 跨屏时代
 ---
-本文主要编译SearchEngineWatch最早介绍增强型广告的一篇<a href="http://searchenginewatch.com/article/2242048/Google-AdWords-New-Enhanced-Campaigns-Connect-Ads-With-Multi-Device-Consumers" target="_blank">文章</a>，首先讲述了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a2%9e%e5%bc%ba%e5%9e%8b%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看增强型广告系列中的全部文章" target="_blank">增强型广告系列</a></span>的主要更新内容，其次从<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%a8%e5%b1%8f%e6%97%b6%e4%bb%a3/" title="查看跨屏时代中的全部文章" target="_blank">跨屏时代</a></span>的用户行为分析去看AdWords<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a2%9e%e5%bc%ba%e5%9e%8b%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看增强型广告系列中的全部文章" target="_blank">增强型广告系列</a></span>给广告主带来的一些便捷。
+本文主要编译SearchEngineWatch最早介绍增强型广告的一篇<a href="http://searchenginewatch.com/article/2242048/Google-AdWords-New-Enhanced-Campaigns-Connect-Ads-With-Multi-Device-Consumers" target="_blank">文章</a>，首先讲述了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a2%9e%e5%bc%ba%e5%9e%8b%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看增强型广告系列中的全部文章" target="_blank">增强型广告系列</a></span>的主要更新内容，其次从<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%a8%e5%b1%8f%e6%97%b6%e4%bb%a3/" title="查看跨屏时代中的全部文章" target="_blank">跨屏时代</a></span>的用户行为分析去看AdWords<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a2%9e%e5%bc%ba%e5%9e%8b%e5%b9%bf%e5%91%8a%e7%b3%bb%e5%88%97/" title="查看增强型广告系列中的全部文章" target="_blank">增强型广告系列</a></span>给广告主带来的一些便捷。
 
 增强型广告系列主要的3个更新为：
 
@@ -31,17 +31,17 @@ tags:
 
 以下为部分功能截屏：
 
-<img class="alignnone size-full wp-image-1081" alt="adwords-bid-adjustment-location-enhanced" src="http://cdn.xiaoq.in/2013/02/adwords-bid-adjustment-location-enhanced.jpg" width="600" height="261" />
+<img class="alignnone size-full wp-image-1081" alt="adwords-bid-adjustment-location-enhanced" src="http://blog.xiaoq.in/cdn/2013/02/adwords-bid-adjustment-location-enhanced.jpg" width="600" height="261" />
 
-<img class="alignnone size-full wp-image-1082" alt="adwords-enhanced-bid-adjustment-location-popup" src="http://cdn.xiaoq.in/2013/02/adwords-enhanced-bid-adjustment-location-popup.jpg" width="600" height="260" />
+<img class="alignnone size-full wp-image-1082" alt="adwords-enhanced-bid-adjustment-location-popup" src="http://blog.xiaoq.in/cdn/2013/02/adwords-enhanced-bid-adjustment-location-popup.jpg" width="600" height="260" />
 
-新型<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%a8%e5%b1%8f%e6%97%b6%e4%bb%a3/" title="查看跨屏时代中的全部文章" target="_blank">跨屏时代</a></span>的用户行为分析：
+新型<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%a8%e5%b1%8f%e6%97%b6%e4%bb%a3/" title="查看跨屏时代中的全部文章" target="_blank">跨屏时代</a></span>的用户行为分析：
 
 1.  用户使用多种设备来完成一项任务：90%的用户在不同设备之间进行切换。
 2.  消费者希望在恰当的位置、正确的时间，在多个屏幕中看到更相关的结果。
 3.  基于不同情境，消费者的行为会不太一样，比如一个在路上的人对一个广告的反应，相对于使用台式电脑的人来说，会不太一样。
 
-<img class="alignnone size-full wp-image-1083" alt="google-new-multi-screen-world-graphic" src="http://cdn.xiaoq.in/2013/02/google-new-multi-screen-world-graphic.jpg" width="600" height="776" />
+<img class="alignnone size-full wp-image-1083" alt="google-new-multi-screen-world-graphic" src="http://blog.xiaoq.in/cdn/2013/02/google-new-multi-screen-world-graphic.jpg" width="600" height="776" />
 
 &nbsp;
 

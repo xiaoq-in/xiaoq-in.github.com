@@ -6,7 +6,7 @@ permalink: /analytics/google-analytics-solution-yellow-page-website/
 yourls_shorturl:
   - http://t.xiaoq.in/86
 ta-thumbnail:
-  - https://xiaoq.in/cdn/2013/11/分类网站.gif;
+  - http://blog.xiaoq.in/cdn/2013/11/分类网站.gif;
 views:
   - 398
 ratings_users:
@@ -27,15 +27,15 @@ tags:
   - 数据分析解决方案
   - 百姓网
 ---
-今天不经意间发现国内<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/gaiq/" title="查看GAIQ中的全部文章" target="_blank">GAIQ</a></span>认证通过人数最多的公司是某<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%86%e7%b1%bb%e7%bd%91%e7%ab%99/" title="查看分类网站中的全部文章" target="_blank">分类网站</a></span>（总共112其占了19个），感到很惊讶。早上看资讯时候也刚好看到国外一家<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Partner一篇关于他们帮助黄页网站（Yellow Pages NZ）提供数据分析服务的简单说明，Yellow Pages NZ（以下简称YP）之前用的是**Adobe SiteCatalyst Analytics**，经过专家的迁移和部署，虽然用的是Google Analytics，但他们却能够获得更多的有价值数据（<a title="Yellow Pages Group New Zealand Upgrades to Universal Analytics" href="http://www.blastam.com/blog/index.php/2013/05/universal-analytics-yellowpages/" target="_blank">详情点击</a>）。
+今天不经意间发现国内<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/gaiq/" title="查看GAIQ中的全部文章" target="_blank">GAIQ</a></span>认证通过人数最多的公司是某<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%86%e7%b1%bb%e7%bd%91%e7%ab%99/" title="查看分类网站中的全部文章" target="_blank">分类网站</a></span>（总共112其占了19个），感到很惊讶。早上看资讯时候也刚好看到国外一家<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Partner一篇关于他们帮助黄页网站（Yellow Pages NZ）提供数据分析服务的简单说明，Yellow Pages NZ（以下简称YP）之前用的是**Adobe SiteCatalyst Analytics**，经过专家的迁移和部署，虽然用的是Google Analytics，但他们却能够获得更多的有价值数据（<a title="Yellow Pages Group New Zealand Upgrades to Universal Analytics" href="http://www.blastam.com/blog/index.php/2013/05/universal-analytics-yellowpages/" target="_blank">详情点击</a>）。
 
-<img class="alignnone size-full wp-image-1436" alt="分类网站" src="https://xiaoq.in/cdn/2013/11/分类网站.gif" width="290" height="170" />
+<img class="alignnone size-full wp-image-1436" alt="分类网站" src="http://blog.xiaoq.in/cdn/2013/11/分类网站.gif" width="290" height="170" />
 
 &nbsp;
 
 下面，就这个案例简单编译一下。
 
-我们看到YP使用了Google Tag Manager并且采用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>版本并行的方案。这是一个值得推荐的方式，因为<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>在目前来说还无法进行再营销投放，内容实验等，而<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>的自定义维度和指标，简短的cookie值和后端的数据控制，也非常强大而便利。同时使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>和UA版本并不会产生冲突。
+我们看到YP使用了Google Tag Manager并且采用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>版本并行的方案。这是一个值得推荐的方式，因为<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>在目前来说还无法进行再营销投放，内容实验等，而<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>的自定义维度和指标，简短的cookie值和后端的数据控制，也非常强大而便利。同时使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>和UA版本并不会产生冲突。
 
 以下是一个搜索页面的跟踪代码，前半部分是通用的，定义的跟踪ID，域名，会员ID。
 
@@ -93,15 +93,15 @@ dataLayer.categoryID = &#8217;1403&#8242;;
 
 &nbsp;
 
-另外客户希望了解每个搜索结果的点击情况，这个时候我们如果我们单纯地使用目标跟踪，可能会出现问题。因为用户在一次访问中，只能记录同一个类型的一次转化。比如用户打开了2个商家页面，然后分别点击了联系商家（完成了转化），在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>的标准报告中，只能识别为一个转化，而其实对于这种网站来说，应该算是两个转化。因此，使用了事件跟踪，并且给每个事件加入了独特的标记（其实就是动态加入商家ID到事件操作中），最终在事件报告中，我们可以看到每个事件的独立触发数，同时也能看到总共的事件触发数，从而实现了客户需求。代码如下：
+另外客户希望了解每个搜索结果的点击情况，这个时候我们如果我们单纯地使用目标跟踪，可能会出现问题。因为用户在一次访问中，只能记录同一个类型的一次转化。比如用户打开了2个商家页面，然后分别点击了联系商家（完成了转化），在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>的标准报告中，只能识别为一个转化，而其实对于这种网站来说，应该算是两个转化。因此，使用了事件跟踪，并且给每个事件加入了独特的标记（其实就是动态加入商家ID到事件操作中），最终在事件报告中，我们可以看到每个事件的独立触发数，同时也能看到总共的事件触发数，从而实现了客户需求。代码如下：
 
 *   Event Category: Listing Interaction
 *   Event Action: {Unique ID of listing}
 *   Event Label: {Interaction Type}
 
-当然，这里它这里是通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/gtm/" title="查看GTM中的全部文章" target="_blank">GTM</a></span>的宏定义来完成的。
+当然，这里它这里是通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/gtm/" title="查看GTM中的全部文章" target="_blank">GTM</a></span>的宏定义来完成的。
 
-我们再来看看<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%99%be%e5%a7%93%e7%bd%91/" title="查看百姓网中的全部文章" target="_blank">百姓网</a></span>的代码部署：
+我们再来看看<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%99%be%e5%a7%93%e7%bd%91/" title="查看百姓网中的全部文章" target="_blank">百姓网</a></span>的代码部署：
 
 \_gaq.push(['\_setCustomVar', 1, 'Category', tracker.category, 3]);  
 \_gaq.push(['\_setCustomVar', 2, 'City', tracker.city , 3]);
@@ -120,9 +120,9 @@ setVisitorId : function (visitorid) {this.visitorid = visitorid},
 setUserId : function (userid) {this.userid = userid}  
 };
 
-核心代码大抵如此，其实也无外乎是定义那些值，只是它这里通过js去拼接数据，可以一定程度减少在服务器端的查询。当然，它还做了些其他方面的跟踪，比如加载速度，广告位监测。同时，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%99%be%e5%a7%93%e7%bd%91/" title="查看百姓网中的全部文章" target="_blank">百姓网</a></span>应该也做了一个内部的数据分析系统：gary.baixing.com，数据通过URL参数的形式（类似GA的gif文件的数据存储方式）发送到服务器，然后再处理。
+核心代码大抵如此，其实也无外乎是定义那些值，只是它这里通过js去拼接数据，可以一定程度减少在服务器端的查询。当然，它还做了些其他方面的跟踪，比如加载速度，广告位监测。同时，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%99%be%e5%a7%93%e7%bd%91/" title="查看百姓网中的全部文章" target="_blank">百姓网</a></span>应该也做了一个内部的数据分析系统：gary.baixing.com，数据通过URL参数的形式（类似GA的gif文件的数据存储方式）发送到服务器，然后再处理。
 
-综上所述，对于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%86%e7%b1%bb%e7%bd%91%e7%ab%99/" title="查看分类网站中的全部文章" target="_blank">分类网站</a></span>来说，其实最主要的数据跟踪点如下：
+综上所述，对于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%86%e7%b1%bb%e7%bd%91%e7%ab%99/" title="查看分类网站中的全部文章" target="_blank">分类网站</a></span>来说，其实最主要的数据跟踪点如下：
 
 城市、频道、页面类型、子类别、访客、会员。
 

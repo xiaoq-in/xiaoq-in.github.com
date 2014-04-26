@@ -22,7 +22,7 @@ ta-thumbnail:
 categories:
   - 生活札记
 ---
-<img src="http://cdn.54jack.com/images/2010/07/1181.jpg" alt="" title="118" width="600" class="alignnone size-full wp-image-17" />
+<img src="http://blog.xiaoq.in/cdn/images/2010/07/1181.jpg" alt="" title="118" width="600" class="alignnone size-full wp-image-17" />
 
 今天早上九点到达了南方人才市场，花了十块钱进入了招聘现场。购买门票的时候附带有一本书，几乎都是招聘广告。进去后才发现不值得，没有什么相关职位，很多展位是空着的。估计总共也只是投了三份吧。  
 下午去了一个地方，后来才发现十分不值得。两块钱从火车站坐公交坐了整整一个小时才到达目的站。一个很偏远的地方。很偏很偏。在本路上我就想打道回府，但还是就当去看看风景吧。  

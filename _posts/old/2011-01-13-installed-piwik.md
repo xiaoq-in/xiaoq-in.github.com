@@ -22,4 +22,4 @@ tags:
   - piwik
   - 谷歌分析
 ---
-又一个统计工具，跟<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>十分类似，测试中。
+又一个统计工具，跟<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>十分类似，测试中。

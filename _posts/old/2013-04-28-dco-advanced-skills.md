@@ -14,17 +14,17 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/w
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/4/1135-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2013/4/1135-1.png;
 categories:
   - Google AdWords
 tags:
   - DCO
 ---
-前段时间比较忙，博客更新比较少，现在开始慢慢梳理这段时间尝试总结出来的一些广告优化技巧。刚好前几天有朋友问到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告怎么去优化，那么在此再说下，希望能对各位玩<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的朋友有些帮助。
+前段时间比较忙，博客更新比较少，现在开始慢慢梳理这段时间尝试总结出来的一些广告优化技巧。刚好前几天有朋友问到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告怎么去优化，那么在此再说下，希望能对各位玩<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的朋友有些帮助。
 
-<img class="alignnone size-full wp-image-1136" alt="Napoleon-dynamite" src="http://cdn.xiaoq.in/2013/04/Napoleon-dynamite.png" width="551" height="390" />
+<img class="alignnone size-full wp-image-1136" alt="Napoleon-dynamite" src="http://blog.xiaoq.in/cdn/2013/04/Napoleon-dynamite.png" width="551" height="390" />
 
-关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>，其实之前也写过一篇<a title="展示广告系列优化工具(DCO) 最佳实践" href="http://xiaoq.in/google-adwords/display-campaign-optimizer-dco/" target="_blank">展示广告系列优化工具(DCO) 最佳实践</a>，建议还未尝试的朋友先看下。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告成功的一个关键是需要设置比较靠谱的转化目标，因为我们后续的一切优化都是基于转化数据的，如果设置不当或者数据量太小或者数据量太大。一般建议电商企业以支付跳转页面作为转化目标，如果刚起步一天的订单量很少的话也可以设置为添加到购物车。而品牌客户来说，一般是会以GA的一些目标会比较具有参考价值，如事件目标，每次访问页面，停留时间等。要做DCO首先要满足的一个条件是需要在过去30天有至少15次转化，因此以上目标的设置请根据实际业务情况进行设置。
+关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>，其实之前也写过一篇<a title="展示广告系列优化工具(DCO) 最佳实践" href="http://xiaoq.in/google-adwords/display-campaign-optimizer-dco/" target="_blank">展示广告系列优化工具(DCO) 最佳实践</a>，建议还未尝试的朋友先看下。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/dco/" title="查看DCO中的全部文章" target="_blank">DCO</a></span>广告成功的一个关键是需要设置比较靠谱的转化目标，因为我们后续的一切优化都是基于转化数据的，如果设置不当或者数据量太小或者数据量太大。一般建议电商企业以支付跳转页面作为转化目标，如果刚起步一天的订单量很少的话也可以设置为添加到购物车。而品牌客户来说，一般是会以GA的一些目标会比较具有参考价值，如事件目标，每次访问页面，停留时间等。要做DCO首先要满足的一个条件是需要在过去30天有至少15次转化，因此以上目标的设置请根据实际业务情况进行设置。
 
 一般大多数人的操作方式应该是，在设置中更改2个基本设置，就算开启了DCO，然后就自动让其优化。更进阶的一个方式是在原有30天内转化次数超过15次的广告系列中新建单独的2个广告，分别是文字广告和图片广告，然后逐步去暂停原有的广告组。第二种方式的一个优点是，我们可以抛弃各种复杂的广告组设置，实现真正意义的DCO，同时也能够逐步优化创意，而不至于因为广告组过多而产生各种迷乱。DCO的本质在于广告的优化由Google AdWords广告系统自动实现，一般是根据该广告系列的历史数据表现，它会去拓展更相关的用户群或展示位置，或者去以更高的出价去竞争转化最好的展示位置，在恰当的时间地点和情境之下（当然具体我们是无法得知的，这只是基本的工作原理，具体表现好坏还得看Google的机器学习能力和优化算法了）。
 

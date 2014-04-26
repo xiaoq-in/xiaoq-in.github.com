@@ -12,7 +12,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/5r
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/12/564-1.jpg;https://xiaoq.in/thumb/cache/2011/12/564-2.png;
+  - http://blog.xiaoq.in/thumb/cache/2011/12/564-1.jpg;http://blog.xiaoq.in/thumb/cache/2011/12/564-2.png;
 categories:
   - 搜索引擎营销
 tags:
@@ -27,9 +27,9 @@ tags:
 
 <img title="Brand Keywords" src="http://www.lunametrics.com/wp-content/uploads/2011/12/brand-300x300.jpg" alt="" width="210" height="210" />当然，广告商希望他们的品牌词脱颖而出，这些一个假设的事实；但是在制定PPC广告系列时记住这种相同的方法是非常重要的（我说的不仅是撰写吸引眼球的广告）。
 
-举个例子：比如你为一家运动鞋公司服务。如果潜在的购买者搜索“（这是你的品牌词）女士网球鞋”，你不希望你的通用关键词“女士网球鞋”与其他的品牌通用关键词竞争来触发你的广告展现。当然，有可能你的通用关键词会在此次搜索中触发广告，但是更有可能的是，任何通过这种方式获取的点击会比因为<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>触发点击的费用更贵。你付出更多费用，并且与更多竞争者竞争，这本是不必要的；拥有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>本来可以让你的广告在更好的位置展现，同时保持点击价格相对较低。
+举个例子：比如你为一家运动鞋公司服务。如果潜在的购买者搜索“（这是你的品牌词）女士网球鞋”，你不希望你的通用关键词“女士网球鞋”与其他的品牌通用关键词竞争来触发你的广告展现。当然，有可能你的通用关键词会在此次搜索中触发广告，但是更有可能的是，任何通过这种方式获取的点击会比因为<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>触发点击的费用更贵。你付出更多费用，并且与更多竞争者竞争，这本是不必要的；拥有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>本来可以让你的广告在更好的位置展现，同时保持点击价格相对较低。
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ppc%e4%b8%93%e5%ae%b6/" title="查看PPC专家中的全部文章" target="_blank">PPC专家</a></span>知道，为了创建成功的付费搜索广告系列及整体的账户结构，产品和服务应该紧密分组，以确保潜在客户看到与他们搜索查询相关的广告并且进入他们需要（想要）进入的着陆页面。然而，很多广告商把他们的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>语通用的非品牌关键词放入同一个广告组，认为只要广告系列和广告具有足够的针对性，品牌关键词和非品牌关键词将会起到同样的作用；你会对此感到惊讶。而且，你会对此更感惊讶：很多广告商甚至根本不投放品牌关键词！总是确保你在广告账户中有品牌关键词&#8230;总是！我看到**很少**不投放品牌关键词对于广告商是一个更好选择的例子。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ppc%e4%b8%93%e5%ae%b6/" title="查看PPC专家中的全部文章" target="_blank">PPC专家</a></span>知道，为了创建成功的付费搜索广告系列及整体的账户结构，产品和服务应该紧密分组，以确保潜在客户看到与他们搜索查询相关的广告并且进入他们需要（想要）进入的着陆页面。然而，很多广告商把他们的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%93%81%e7%89%8c%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看品牌关键词中的全部文章" target="_blank">品牌关键词</a></span>语通用的非品牌关键词放入同一个广告组，认为只要广告系列和广告具有足够的针对性，品牌关键词和非品牌关键词将会起到同样的作用；你会对此感到惊讶。而且，你会对此更感惊讶：很多广告商甚至根本不投放品牌关键词！总是确保你在广告账户中有品牌关键词&#8230;总是！我看到**很少**不投放品牌关键词对于广告商是一个更好选择的例子。
 
 <div>
   <h2>
@@ -49,7 +49,7 @@ tags:
   </h2>
   
   <p>
-    正如我在之前的一篇博客文章中写道，点击率是决定<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>的最重要因素，而高<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>对于PPC账户而言是至关重要的。尽管你无法马上看到质量得分的直接效果，但是当Google决定CPC和广告排名的时候，品牌广告系列的高点击率会给你带来额外的奖励。在相同的广告系列中混合使用品牌关键词和非品牌关键词不会带来高点击率，而仅包含品牌关键词的广告系列会。在另外一篇博客文章中，我也解释了否定关键词的价值和重要性，而品牌与非品牌关键词分离是这种用法的绝好例子：通过在通用广告系列/广告组中添加品牌关键词作为否定关键词词，你可以确保品牌词搜索在任何情况下都不会被通用（记住，它们更贵！）关键词触发。这将会让你的花费更温东宁，同时确保最佳的广告针对恰当的搜索进行展示。
+    正如我在之前的一篇博客文章中写道，点击率是决定<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>的最重要因素，而高<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b4%a8%e9%87%8f%e5%be%97%e5%88%86/" title="查看质量得分中的全部文章" target="_blank">质量得分</a></span>对于PPC账户而言是至关重要的。尽管你无法马上看到质量得分的直接效果，但是当Google决定CPC和广告排名的时候，品牌广告系列的高点击率会给你带来额外的奖励。在相同的广告系列中混合使用品牌关键词和非品牌关键词不会带来高点击率，而仅包含品牌关键词的广告系列会。在另外一篇博客文章中，我也解释了否定关键词的价值和重要性，而品牌与非品牌关键词分离是这种用法的绝好例子：通过在通用广告系列/广告组中添加品牌关键词作为否定关键词词，你可以确保品牌词搜索在任何情况下都不会被通用（记住，它们更贵！）关键词触发。这将会让你的花费更温东宁，同时确保最佳的广告针对恰当的搜索进行展示。
   </p>
   
   <p>
@@ -57,7 +57,7 @@ tags:
   </p>
   
   <p>
-    有了Google的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%8a%a8%e8%a7%84%e5%88%99/" title="查看自动规则中的全部文章" target="_blank">自动规则</a></span>工具，你可以给这些广告系列设置一个规则以确保这些关键词保持在某个平均排名，这个排名因广告商而异。我推荐设置一个规则保持关键词的的平均排名介于1.5和1.3之间，但是这应该基于你所知道有效的关键词（这个可以在任何时候及时进行更改）。
+    有了Google的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%8a%a8%e8%a7%84%e5%88%99/" title="查看自动规则中的全部文章" target="_blank">自动规则</a></span>工具，你可以给这些广告系列设置一个规则以确保这些关键词保持在某个平均排名，这个排名因广告商而异。我推荐设置一个规则保持关键词的的平均排名介于1.5和1.3之间，但是这应该基于你所知道有效的关键词（这个可以在任何时候及时进行更改）。
   </p>
   
   <p>
@@ -69,6 +69,6 @@ tags:
   </p>
   
   <p>
-    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.lunametrics.com/blog/2011/12/27/brand-keywords-ppc/" target="_blank">http://www.lunametrics.com/blog/2011/12/27/brand-keywords-ppc/</a>
+    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.lunametrics.com/blog/2011/12/27/brand-keywords-ppc/" target="_blank">http://www.lunametrics.com/blog/2011/12/27/brand-keywords-ppc/</a>
   </p>
 </div>

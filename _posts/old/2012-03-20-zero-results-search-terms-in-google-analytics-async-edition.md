@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/5v
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/3/714-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/3/714-1.gif;
 categories:
   - Google Analytics
 tags:
@@ -28,7 +28,7 @@ tags:
   - 网站搜索
   - 自定义变量
 ---
-最近遇到的一个问题，在GA帮助中心找到<a href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&hlrm=en&answer=1645406" target="_blank">相关介绍</a>，却没有中文版的，于是翻译了一下（JUSTIN CUTRONI曾在09年写过<a href="http://cutroni.com/blog/2009/09/08/tracking-ero-result-searches-in-google-analytics/" target="_blank">一篇文章</a>，思路与下面的类似，但仅适用于旧版本的GA代码；<a href="http://www.fulcrumtech.net/blog/using-google-analytics-to-track-zero-results-found-for-site-searches/" target="_blank">这篇文章</a>采取的是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>方式）：
+最近遇到的一个问题，在GA帮助中心找到<a href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&hlrm=en&answer=1645406" target="_blank">相关介绍</a>，却没有中文版的，于是翻译了一下（JUSTIN CUTRONI曾在09年写过<a href="http://cutroni.com/blog/2009/09/08/tracking-ero-result-searches-in-google-analytics/" target="_blank">一篇文章</a>，思路与下面的类似，但仅适用于旧版本的GA代码；<a href="http://www.fulcrumtech.net/blog/using-google-analytics-to-track-zero-results-found-for-site-searches/" target="_blank">这篇文章</a>采取的是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>方式）：
 
 <img class="alignnone size-full wp-image-715" title="zero-result" src="http://xiaoq.in/g/pics/2012/03/zero-result.gif" alt="" width="360" height="300" />
 
@@ -83,7 +83,7 @@ GA默认情况下并不会提供这个报告。因此，我们将不得不做一
 
 如果你还没用如此好用的CMS，你仍然可以测量一些额外的数据，只需使用GA的以下两个功能：
 
-### <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>
+### <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>
 
 这种方法已经在Bob Scavilla的<a href="http://www.fulcrumtech.net/blog/using-google-analytics-to-track-zero-results-found-for-site-searches/" target="_blank">这篇文章</a>中介绍过。我只想说如果确切的搜索词能够由CMS生成的话，那么你就不必为使用正则表达式而烦恼了。使用CMS系统的话，结果页面的代码类似下面，较为简单：
 
@@ -98,9 +98,9 @@ GA默认情况下并不会提供这个报告。因此，我们将不得不做一
 &lt;/script&gt;
 &lt;? } ?&gt;</pre>
 
-### <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>
+### <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>
 
-The first thing you can do is to use a page-level custom variable. You can store the actual zero results search terms like this:你可要做的第一件事情便是使用页面级<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。你可要像这样存储确切的零结果搜索词：
+The first thing you can do is to use a page-level custom variable. You can store the actual zero results search terms like this:你可要做的第一件事情便是使用页面级<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。你可要像这样存储确切的零结果搜索词：
 
 <pre>&lt;? if (resultsCount == 0) { ?&gt;
 &lt;script type="text/javascript"&gt;

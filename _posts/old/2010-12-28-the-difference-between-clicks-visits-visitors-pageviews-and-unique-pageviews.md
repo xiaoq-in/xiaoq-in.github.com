@@ -25,15 +25,15 @@ tags:
   - 访问次数
   - 访问者人数
 ---
-本文转载自<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>帮助中心：<a title="点击次数、访问次数、访问者人数、浏览量和唯一身份浏览量有何区别？" href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&cbrank=3&hlrm=en&cbid=1cu4lnumvkl0y&ctx=cb&answer=1257084&src=cb" target="_blank">点击次数、访问次数、访问者人数、浏览量和唯一身份浏览量有何区别？</a>
+本文转载自<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>帮助中心：<a title="点击次数、访问次数、访问者人数、浏览量和唯一身份浏览量有何区别？" href="http://support.google.com/analytics/bin/answer.py?hl=zh-Hans&cbrank=3&hlrm=en&cbid=1cu4lnumvkl0y&ctx=cb&answer=1257084&src=cb" target="_blank">点击次数、访问次数、访问者人数、浏览量和唯一身份浏览量有何区别？</a>
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e6%ac%a1%e6%95%b0/" title="查看点击次数中的全部文章" target="_blank">点击次数</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%b5%8f%e8%a7%88%e9%87%8f%e5%92%8c%e5%94%af%e4%b8%80%e8%ba%ab%e4%bb%bd%e6%b5%8f%e8%a7%88%e9%87%8f/" title="查看浏览量和唯一身份浏览量中的全部文章" target="_blank">浏览量和唯一身份浏览量</a></span>有何区别？
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e6%ac%a1%e6%95%b0/" title="查看点击次数中的全部文章" target="_blank">点击次数</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%b5%8f%e8%a7%88%e9%87%8f%e5%92%8c%e5%94%af%e4%b8%80%e8%ba%ab%e4%bb%bd%e6%b5%8f%e8%a7%88%e9%87%8f/" title="查看浏览量和唯一身份浏览量中的全部文章" target="_blank">浏览量和唯一身份浏览量</a></span>有何区别？
 
 因为不同的报告中会使用许多类似术语，所以 Google Analytics（分析）帐户中的访问者数据可能很容易让人误解。我们将在下面对一些最容易混淆的术语进行更详细的说明。
 
-“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e6%ac%a1%e6%95%b0/" title="查看点击次数中的全部文章" target="_blank">点击次数</a></span>”与“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>”
+“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e6%ac%a1%e6%95%b0/" title="查看点击次数中的全部文章" target="_blank">点击次数</a></span>”与“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>”
 
-“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>”与“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>”
+“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e6%ac%a1%e6%95%b0/" title="查看访问次数中的全部文章" target="_blank">访问次数</a></span>”与“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>”
 
 “浏览量”与“唯一身份浏览量”
 
@@ -47,9 +47,9 @@ tags:
 
 访问者可能点击您的广告，但却没有让网页完全载入，而是转到了另一网页或按下了浏览器的“停止”按钮。在这种情况下，Google Analytics（分析）跟踪代码将无法执行，也无法将跟踪数据发送到 Google 服务器；但 AdWords 仍然会记录一次点击。
 
-为确保更准确的结算，<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> 会自动从报告中滤除无效点击。但是，Google Analytics（分析）会将这些点击报告为对您网站的访问，以显示全部流量数据。
+为确保更准确的结算，<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> 会自动从报告中滤除无效点击。但是，Google Analytics（分析）会将这些点击报告为对您网站的访问，以显示全部流量数据。
 
-“访问次数”与“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>”
+“访问次数”与“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85%e4%ba%ba%e6%95%b0/" title="查看访问者人数中的全部文章" target="_blank">访问者人数</a></span>”
 
 Google Analytics（分析）对帐户中的“访问次数”和“访问者人数”均进行统计。“访问次数”表示您网站的所有访问者发起的具体会话次数。如果某用户在您网站上处于非活动状态的时间达到或超过 30 分钟，那么任何进一步的活动都会被归入新会话。如果用户在离开您网站后 30 分钟内返回，则之后的活动仍将被计为初始会话的一部分。
 

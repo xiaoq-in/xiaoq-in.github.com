@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://g.xiaoq.in/b
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/757-1.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/757-1.jpg;
 categories:
   - Google Analytics
 tags:
@@ -25,9 +25,9 @@ tags:
   - 电子商务
   - 电子商务跟踪
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1/" title="查看电子商务中的全部文章" target="_blank">电子商务</a></span>网站的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90/" title="查看数据分析中的全部文章" target="_blank">数据分析</a></span>是一个非常严肃的问题，可以说任何一个缺乏<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90/" title="查看数据分析中的全部文章" target="_blank">数据分析</a></span>这个职位的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1/" title="查看电子商务中的全部文章" target="_blank">电子商务</a></span>公司，都是不完整的！数据分析的重要性已经是不言而喻的了，在此也不再累赘。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1/" title="查看电子商务中的全部文章" target="_blank">电子商务</a></span>网站的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90/" title="查看数据分析中的全部文章" target="_blank">数据分析</a></span>是一个非常严肃的问题，可以说任何一个缺乏<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90/" title="查看数据分析中的全部文章" target="_blank">数据分析</a></span>这个职位的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1/" title="查看电子商务中的全部文章" target="_blank">电子商务</a></span>公司，都是不完整的！数据分析的重要性已经是不言而喻的了，在此也不再累赘。
 
-电子商务算是一个新兴的行业，当B2B的发展遇到瓶颈之后，越来越多的企业开始布局在线销售平台，称之为B2C平台。然而，大部分企业都用不上高端的数据分析工具，<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>作为一个强大的免费工具，是大多数企业的首选。工具免费并不意味着它不好用，其实Google Analytics中蕴藏着很多强大的功能，本文就尝试对这些高级功能进行一个较深入的挖掘，偏技术些。另外一篇较为基础的：<a title="基于数据分析提升转化率" href="http://xiaoq.in/google-analytics/improving-conversion-rate-based-on-analytics/" target="_blank">基于数据分析提升转化率</a>。  
+电子商务算是一个新兴的行业，当B2B的发展遇到瓶颈之后，越来越多的企业开始布局在线销售平台，称之为B2C平台。然而，大部分企业都用不上高端的数据分析工具，<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>作为一个强大的免费工具，是大多数企业的首选。工具免费并不意味着它不好用，其实Google Analytics中蕴藏着很多强大的功能，本文就尝试对这些高级功能进行一个较深入的挖掘，偏技术些。另外一篇较为基础的：<a title="基于数据分析提升转化率" href="http://xiaoq.in/google-analytics/improving-conversion-rate-based-on-analytics/" target="_blank">基于数据分析提升转化率</a>。  
 [<img class="alignnone  wp-image-766" title="e-commerce-web-analytics" src="http://xiaoq.in/g/pics/2012/04/e-commerce-web-analytics3.jpg" alt="" width="500" height="796" />][1]
 
 1. 导航菜单跟踪：onclick=&#8221;\_gaq.push(['\_trackEvent','click','parent-category','sub-category',1,false])&#8221;
@@ -47,7 +47,7 @@ GA：网页内分析；
 
 3. 404页面跟踪：\_gaq.push(['\_trackPageview', '/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
 
-4. <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>：
+4. <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>：
 
 http://code.google.com/intl/zh-CN/apis/analytics/docs/tracking/gaTrackingEcommerce.html
 
@@ -60,7 +60,7 @@ http://www.cloga.info/archives/608.html
 \_gaq.push(['\_setCustomVar', 1, 'customer_id', '001', 1]);  
 \_gaq.push(['\_setCustomVar', 2, 'country', '中国', 1]);  
 \_gaq.push(['\_setCustomVar', 3, 'city', '广州', 1]);  
-\_gaq.push(['\_setCustomVar', 4, 'name', '<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>', 1]);  
+\_gaq.push(['\_setCustomVar', 4, 'name', '<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>', 1]);  
 \_gaq.push(['\_setCustomVar', 1, '蓝色T恤', 'sku-o1', 2]);  
 7. 转化跟踪：  
 方式一：AdWords代码

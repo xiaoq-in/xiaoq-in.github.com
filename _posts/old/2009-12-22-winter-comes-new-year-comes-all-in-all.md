@@ -33,7 +33,7 @@ tags:
 其实，很简单，二零零九年的目标实在是太简单了。
 
 上半年，课程依然紧张，只是参加了一个全国翻译考试，未果，但是这也让我看到了成功就在眼前；  
-<img class="alignnone size-full wp-image-19" src="http://cdn.54jack.com/img/catti2.gif" alt="" />
+<img class="alignnone size-full wp-image-19" src="http://blog.xiaoq.in/cdn/img/catti2.gif" alt="" />
 
 截图在此，告戒自己。
 

@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/8
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/727-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/727-1.png;
 categories:
   - Google AdWords
 ---
@@ -62,7 +62,7 @@ PPC新手通常无法意识到匹配方式的巨大力量。下面列出了四�
 
 分离这些广告系列可以让我们对预算分配进行最大化控制，从而让你在广告系列初期获得更高的ROI。在更高的ROI预算达到最大值时，再来优化展示网络才有道理。
 
-一个快速方法是在<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>编辑器中复制你的广告系列，根据搜索网络重命名广告系列，然后在设置选项中调整选定的广告网络。
+一个快速方法是在<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>编辑器中复制你的广告系列，根据搜索网络重命名广告系列，然后在设置选项中调整选定的广告网络。
 
 ### 5. 仅仅使用AdWords
 
@@ -98,6 +98,6 @@ Instead, use landing pages that specifically relate to the users search intent. 
 
 对于任何组织而言，这是收集有意义的PPC转化数据的<a href="http://searchenginewatch.com/article/2141776/Measuring-ROI-How-to-Collect-Meaningful-PPC-Conversion-Data" target="_blank">一些方法</a>。
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://searchenginewatch.com/article/2163090/Top-10-PPC-Campaign-Mistakes" target="_blank">http://searchenginewatch.com/article/2163090/Top-10-PPC-Campaign-Mistakes</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://searchenginewatch.com/article/2163090/Top-10-PPC-Campaign-Mistakes" target="_blank">http://searchenginewatch.com/article/2163090/Top-10-PPC-Campaign-Mistakes</a>
 
  [1]: http://searchenginewatch.com/article/2107126/The-5-Keys-to-Conversion-Rate-Optimization

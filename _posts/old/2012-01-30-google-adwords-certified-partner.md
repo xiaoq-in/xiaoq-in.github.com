@@ -24,13 +24,13 @@ categories:
 tags:
   - Google Adwords认证合作伙伴
 ---
-就在今天，我成为了<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>认证合作伙伴，在中国大陆只有少数的几家公司通过并仍然是谷歌Adwords的合作伙伴，其中大部分是代理商，当然大多数的代理商并不是合作伙伴。我在去年11月份和12月份分别通过了三项高级考试和一项基本考试，各科成绩还算不错，在考试网站查询了下，目前国内只有十几个人获得全部三项个人资质，主要是品众互动等代理商，敦煌网和米兰网等B2C平台，Google总部客服的人。
+就在今天，我成为了<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>认证合作伙伴，在中国大陆只有少数的几家公司通过并仍然是谷歌Adwords的合作伙伴，其中大部分是代理商，当然大多数的代理商并不是合作伙伴。我在去年11月份和12月份分别通过了三项高级考试和一项基本考试，各科成绩还算不错，在考试网站查询了下，目前国内只有十几个人获得全部三项个人资质，主要是品众互动等代理商，敦煌网和米兰网等B2C平台，Google总部客服的人。
 
 要成为Google Adwords的认证合作伙伴，首先需要获得至少一项个人资质认证（即至少通过一门基础考试和一门高级考试），这个账户必须关联到MCC账户，然后这个经理账户管理的子账户需要在90天期限内消费达到10,000美金，当然还需要同意Google相应的条款。
 
-成为<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-adwords%e8%ae%a4%e8%af%81%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看Google Adwords认证合作伙伴中的全部文章" target="_blank">Google Adwords认证合作伙伴</a></span>之后，会获得总共20张价值100美金（或等值本地货币）的优惠券，这个优惠券可以且只能用于开设新账号，在一年时间内每隔3个月分4次发放。具体的一些好处在祝贺邮件中也有说明，邮件原文如下：
+成为<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-adwords%e8%ae%a4%e8%af%81%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看Google Adwords认证合作伙伴中的全部文章" target="_blank">Google Adwords认证合作伙伴</a></span>之后，会获得总共20张价值100美金（或等值本地货币）的优惠券，这个优惠券可以且只能用于开设新账号，在一年时间内每隔3个月分4次发放。具体的一些好处在祝贺邮件中也有说明，邮件原文如下：
 
-Congratulations <span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>!
+Congratulations <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>!
 
 Your Company is now a Google AdWords Certified Partner!
 

@@ -24,9 +24,9 @@ tags:
   - 新版谷歌分析
   - 访问者
 ---
-这是我们新版<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列文章的一部分。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在已经对所有用户开放测试。请追随我们的twitter以获得最新的更新。本周，一些来自我们团队的工程师将分享一些他们对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>分布报告做的一些改进。
+这是我们新版<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>专题系列文章的一部分。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看新版谷歌分析中的全部文章" target="_blank">新版谷歌分析</a></span>现在已经对所有用户开放测试。请追随我们的twitter以获得最新的更新。本周，一些来自我们团队的工程师将分享一些他们对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>分布报告做的一些改进。
 
-*This is part of our [series of posts][1] highlighting the [new Google Analytics][2]. The new version of <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And [follow Google Analytics on Twitter][3] for the latest updates. This week, a few engineers from our team are sharing improvements they’ve made to Map Overlay reports.*
+*This is part of our [series of posts][1] highlighting the [new Google Analytics][2]. The new version of <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> is currently available in beta to all Analytics users. And [follow Google Analytics on Twitter][3] for the latest updates. This week, a few engineers from our team are sharing improvements they’ve made to Map Overlay reports.*
 
 <div>
   <div>
@@ -46,7 +46,7 @@ tags:
   </div>
   
   <div>
-    为了尝试它，只需访问<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae%e6%8a%a5%e5%91%8a/" title="查看地理位置报告中的全部文章" target="_blank">地理位置报告</a></span>（位于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>），然后点击一个国家。我们下面以法国为例：
+    为了尝试它，只需访问<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae%e6%8a%a5%e5%91%8a/" title="查看地理位置报告中的全部文章" target="_blank">地理位置报告</a></span>（位于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>），然后点击一个国家。我们下面以法国为例：
   </div>
   
   <div>
@@ -54,7 +54,7 @@ tags:
   </div>
   
   <div>
-    <a href="http://cdn.54jack.com/images/2011/06/mapoverlay-france1.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5618280847134610834" style="border: 0px;" src="http://cdn.54jack.com/images/2011/06/mapoverlay-france1.png" alt="" width="400" height="388" border="0" /></a>
+    <a href="http://blog.xiaoq.in/cdn/images/2011/06/mapoverlay-france1.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5618280847134610834" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/06/mapoverlay-france1.png" alt="" width="400" height="388" border="0" /></a>
   </div>
   
   <div>
@@ -66,7 +66,7 @@ tags:
   </div>
   
   <div>
-    <a href="http://cdn.54jack.com/images/2011/06/mapoverlay-france2.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5618280848082811666" style="border: 0px;" src="http://cdn.54jack.com/images/2011/06/mapoverlay-france2.png" alt="" width="400" height="246" border="0" /></a>
+    <a href="http://blog.xiaoq.in/cdn/images/2011/06/mapoverlay-france2.png" target="_blank"><img id="BLOGGER_PHOTO_ID_5618280848082811666" style="border: 0px;" src="http://blog.xiaoq.in/cdn/images/2011/06/mapoverlay-france2.png" alt="" width="400" height="246" border="0" /></a>
   </div>
   
   <div>
@@ -74,7 +74,7 @@ tags:
   </div>
   
   <div>
-    附注：你知道吗？除了在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>>受众人口统计特点><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>这个报告中查看地理分布报告，你还可以在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>>技术>移动设备中查看。
+    附注：你知道吗？除了在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>>受众人口统计特点><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9c%b0%e7%90%86%e4%bd%8d%e7%bd%ae/" title="查看地理位置中的全部文章" target="_blank">地理位置</a></span>这个报告中查看地理分布报告，你还可以在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%bf%e9%97%ae%e8%80%85/" title="查看访问者中的全部文章" target="_blank">访问者</a></span>>技术>移动设备中查看。
   </div>
   
   <div>
@@ -98,7 +98,7 @@ tags:
   </div>
   
   <div>
-    本文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自谷歌分析官方博客，原文：<a title="New Google Analytics: Improvements in Map Overlay reports " href="http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in.html" target="_blank">http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in.html</a>
+    本文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自谷歌分析官方博客，原文：<a title="New Google Analytics: Improvements in Map Overlay reports " href="http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in.html" target="_blank">http://analytics.blogspot.com/2011/06/new-google-analytics-improvements-in.html</a>
   </div>
 </div>
 

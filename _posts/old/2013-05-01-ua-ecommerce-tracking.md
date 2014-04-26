@@ -23,15 +23,15 @@ tags:
   - 支付宝
   - 电子商务跟踪
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>的代码部署是个技术活，不过并没有想象中的困难，作为一个没有学过代码的人，这几天接二连三地大概花了3小时，总算是给我的博客加上了一个新功能：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%94%af%e4%bb%98%e5%ae%9d/" title="查看支付宝中的全部文章" target="_blank">支付宝</a></span>捐赠按钮+<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>。这个主要是借鉴“雷锋网”的。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>的代码部署是个技术活，不过并没有想象中的困难，作为一个没有学过代码的人，这几天接二连三地大概花了3小时，总算是给我的博客加上了一个新功能：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%94%af%e4%bb%98%e5%ae%9d/" title="查看支付宝中的全部文章" target="_blank">支付宝</a></span>捐赠按钮+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e8%b7%9f%e8%b8%aa/" title="查看电子商务跟踪中的全部文章" target="_blank">电子商务跟踪</a></span>。这个主要是借鉴“雷锋网”的。
 
-这是完整的index.php代码（自行修改<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%94%af%e4%bb%98%e5%ae%9d/" title="查看支付宝中的全部文章" target="_blank">支付宝</a></span>即时到帐接口的文件，另外需要配置alipay.config.php这个文件）：
+这是完整的index.php代码（自行修改<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%94%af%e4%bb%98%e5%ae%9d/" title="查看支付宝中的全部文章" target="_blank">支付宝</a></span>即时到帐接口的文件，另外需要配置alipay.config.php这个文件）：
 
 <!DOCTYPE html PUBLIC &#8220;-//W3C//DTD XHTML 1.0 Transitional//EN&#8221; &#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#8221;>  
 <html>  
 <head>  
 <meta http-equiv=&#8221;Content-Type&#8221; content=&#8221;text/html; charset=utf-8&#8243;>  
-<title>支付宝即时到账捐赠-<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span></title>  
+<title>支付宝即时到账捐赠-<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span></title>  
 <?php  
 /\* \*  
 * 功能：即时到账交易接口接入页  
@@ -123,10 +123,10 @@ echo &#8220;</head><body>&#8221;.$html_text;
 </body>  
 </html>
 
-这是完整的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>+<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>代码：
+这是完整的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ga/" title="查看GA中的全部文章" target="_blank">GA</a></span>+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>代码：
 
 <?php  
-echo &#8220;<!&#8211; <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> &#8211;>  
+echo &#8220;<!&#8211; <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> &#8211;>  
 <script>  
 var \_gaq = \_gaq || [];  
 \_gaq.push(['\_setAccount', 'UA-28069997-1']);  

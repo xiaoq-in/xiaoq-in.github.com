@@ -27,7 +27,7 @@ tags:
   - Google AdWords 新手指南
   - google adwords技巧
 ---
-每周10个关于**<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>技巧**的优化贴士，这是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-adwords-%e6%93%8d%e4%bd%9c%e6%8a%80%e5%b7%a7/" title="查看Google Adwords 操作技巧中的全部文章" target="_blank">Google Adwords 操作技巧</a></span>系列的第三篇，希望对Google Adwords新手有些帮助，欢迎与各位互动交流。
+每周10个关于**<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>技巧**的优化贴士，这是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-adwords-%e6%93%8d%e4%bd%9c%e6%8a%80%e5%b7%a7/" title="查看Google Adwords 操作技巧中的全部文章" target="_blank">Google Adwords 操作技巧</a></span>系列的第三篇，希望对Google Adwords新手有些帮助，欢迎与各位互动交流。
 
 1.  关键词诊断工具：查找关键词无法展现的原因并修正。
 2.  展示次数份额：对份额较低的广告系列适当增加预算。

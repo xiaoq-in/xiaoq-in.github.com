@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/4r
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/3/709-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/3/709-1.png;
 categories:
   - Google AdWords
 tags:
@@ -30,7 +30,7 @@ tags:
 
 <img class="alignnone size-full wp-image-712" title="google-adwords-logo-320x198" src="http://xiaoq.in/g/pics/2012/03/google-adwords-logo-320x198.png" alt="" width="320" height="198" />
 
-## <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords-%e5%b8%90%e6%88%b7%e9%99%90%e5%88%b6/" title="查看AdWords 帐户限制中的全部文章" target="_blank">AdWords 帐户限制</a></span>
+## <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords-%e5%b8%90%e6%88%b7%e9%99%90%e5%88%b6/" title="查看AdWords 帐户限制中的全部文章" target="_blank">AdWords 帐户限制</a></span>
 
 <div id="article-content-div">
   <p>
@@ -92,13 +92,13 @@ tags:
   <div>
     <div id="article-heading-div">
       <h2>
-        有关“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>”功能和相关报告的变化
+        有关“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>”功能和相关报告的变化
       </h2>
     </div>
     
     <div id="article-content-div">
       <p>
-        在 Google 展示广告网络中，<a href="https://support.google.com/adwords/bin/answer.py?answer=88168">有些网站</a>可以提供访问者的相关人口统计特点信息。过去，我们允许广告客户在这些网站上根据性别或年龄段来应用不同的出价。很快我们将会停止提供此功能，以配合我们进一步简化 AdWords 的举措。我们正在寻求其他途径，以在今后继续支持<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>和定位。
+        在 Google 展示广告网络中，<a href="https://support.google.com/adwords/bin/answer.py?answer=88168">有些网站</a>可以提供访问者的相关人口统计特点信息。过去，我们允许广告客户在这些网站上根据性别或年龄段来应用不同的出价。很快我们将会停止提供此功能，以配合我们进一步简化 AdWords 的举措。我们正在寻求其他途径，以在今后继续支持<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>和定位。
       </p>
       
       <p>
@@ -107,7 +107,7 @@ tags:
       
       <ul>
         <li>
-          我们将从所有 AdWords 帐户中撤下<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>功能。此功能所涉及的出价调节系数将不再提供，并将停止应用于此前在使用该功能的广告系列。
+          我们将从所有 AdWords 帐户中撤下<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%a0%b9%e6%8d%ae%e5%8f%97%e4%bc%97%e4%ba%ba%e5%8f%a3%e7%bb%9f%e8%ae%a1%e7%89%b9%e7%82%b9%e5%87%ba%e4%bb%b7/" title="查看根据受众人口统计特点出价中的全部文章" target="_blank">根据受众人口统计特点出价</a></span>功能。此功能所涉及的出价调节系数将不再提供，并将停止应用于此前在使用该功能的广告系列。
         </li>
         <li>
           <strong>维度</strong>标签上的<a href="https://support.google.com/adwords/bin/topic.py?topic=16369">受众人口统计特点报告</a>将不再提供。了解如何在 3 月 21 日之前为您的广告系列<a href="https://support.google.com/adwords/bin/answer.py?answer=73884">保存受众人口统计特点报告</a>。

@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://g.xiaoq.in/9
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/6/795-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/6/795-1.gif;
 categories:
   - Google Analytics
 tags:
@@ -25,11 +25,11 @@ tags:
   - 归因模型
   - 自定义变量
 ---
-今天研究<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%a8%a1%e5%9e%8b/" title="查看归因模型中的全部文章" target="_blank">归因模型</a></span>，看了很多资料，综合对比发现，对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%a8%a1%e5%9e%8b/" title="查看归因模型中的全部文章" target="_blank">归因模型</a></span>的处理，有多种方法，最复杂莫过于LunaMetrics所介绍的使用Excel处理GA中导出来的数据，这个<a title="Multi-Channel Attribution Modeling – the Tool To Get You Started" href="http://www.lunametrics.com/blog/2012/05/17/multichannel-attribution-modeling-tool/" target="_blank">归因模型处理工具</a>使用了大量的高级函数，通过实际使用来看，发现这个表格还是存在一些问题，只能查看first touch（暂且译作“首次来源”）带来的转化。LunaMetrics在此之前还介绍了一个<a title="Attribution Modeling Without Google Analytics Premium" href="http://www.lunametrics.com/blog/2012/05/10/attribution-modeling-google-analytics/" target="_blank">相对简单的方法</a>，同样是使用Excel处理GA导出来的数据，但是同样非常麻烦。
+今天研究<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%a8%a1%e5%9e%8b/" title="查看归因模型中的全部文章" target="_blank">归因模型</a></span>，看了很多资料，综合对比发现，对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%a8%a1%e5%9e%8b/" title="查看归因模型中的全部文章" target="_blank">归因模型</a></span>的处理，有多种方法，最复杂莫过于LunaMetrics所介绍的使用Excel处理GA中导出来的数据，这个<a title="Multi-Channel Attribution Modeling – the Tool To Get You Started" href="http://www.lunametrics.com/blog/2012/05/17/multichannel-attribution-modeling-tool/" target="_blank">归因模型处理工具</a>使用了大量的高级函数，通过实际使用来看，发现这个表格还是存在一些问题，只能查看first touch（暂且译作“首次来源”）带来的转化。LunaMetrics在此之前还介绍了一个<a title="Attribution Modeling Without Google Analytics Premium" href="http://www.lunametrics.com/blog/2012/05/10/attribution-modeling-google-analytics/" target="_blank">相对简单的方法</a>，同样是使用Excel处理GA导出来的数据，但是同样非常麻烦。
 
 <img class="alignnone size-full wp-image-796" title="attribution-model" src="http://xiaoq.in/g/pics/2012/06/attribution-model.gif" alt="" width="470" height="170" />
 
-之后看到有一个方法，是通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来实现，觉得非常不错的一个解决方案。大概思路就是使用访客级的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>记录用户的来源信息，存入到相应的字段中，然后再对应转化数据。
+之后看到有一个方法，是通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>来实现，觉得非常不错的一个解决方案。大概思路就是使用访客级的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>记录用户的来源信息，存入到相应的字段中，然后再对应转化数据。
 
 其实，这个方法个人曾经用过，呈现出来的数据很清晰，每个会员的来源/媒介/关键词/广告系列等信息都有了，其他的基本数据，如跳出率，停留时间，访问页数等也有了，然后转化数据和电子商务数据也都有。这样的话，你需要做的只是把这些数据加上时间维度导出来（因为用户的来源很多），加上时间维度，就基本可以区分每个用户在什么时间完成了转化，转化前后的相关数据。如果你希望获得更准确的数据，再通过会员ID与你的订单进行对接，这样，一个完美的会员来源及其对应转化的报表就出来了！
 

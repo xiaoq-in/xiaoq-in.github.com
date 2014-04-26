@@ -25,7 +25,7 @@ tags:
 
 好吧，那个项目中断很长时间了，但是因为我有2006年的荣誉证书，我收到了尝试Yahoo与MSN合并之后产物之一的AdExcellence考试的优惠码。
 
-好吧，我喜欢挑战。下面是我在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adcenter-adexcellence/" title="查看AdCenter AdExcellence中的全部文章" target="_blank">AdCenter AdExcellence</a></span>这个有些刺激的考试中学到的！
+好吧，我喜欢挑战。下面是我在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adcenter-adexcellence/" title="查看AdCenter AdExcellence中的全部文章" target="_blank">AdCenter AdExcellence</a></span>这个有些刺激的考试中学到的！
 
 <img class="alignnone size-full wp-image-71" title="Accredited-Professional-Badge" src="http://xiaoq.in/g/pics/2011/11/Accredited-Professional-Badge.png" alt="" width="184" height="51" />
 

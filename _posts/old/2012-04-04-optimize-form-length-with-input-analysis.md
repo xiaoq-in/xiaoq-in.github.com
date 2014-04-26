@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/51
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/723-1.jpg;https://xiaoq.in/thumb/cache/2012/4/723-2.jpg;https://xiaoq.in/thumb/cache/2012/4/723-3.jpg;https://xiaoq.in/thumb/cache/2012/4/723-4.jpg;https://xiaoq.in/thumb/cache/2012/4/723-5.jpg;https://xiaoq.in/thumb/cache/2012/4/723-6.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/723-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/723-2.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/723-3.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/723-4.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/723-5.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/723-6.jpg;
 categories:
   - Google Analytics
 tags:
@@ -34,7 +34,7 @@ tags:
         </td></tr> </tbody> </table> 
         
         <p>
-          在本文中，我将分享 E-Nor（<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>认证合作伙伴之一）在决定人们最不可能填写哪些字段时使用的技巧。我将告诉你如何将这些数据呈现给决策者和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e4%bc%98%e5%8c%96/" title="查看网站优化中的全部文章" target="_blank">网站优化</a></span>人员以便他们作出必要的更改。
+          在本文中，我将分享 E-Nor（<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>认证合作伙伴之一）在决定人们最不可能填写哪些字段时使用的技巧。我将告诉你如何将这些数据呈现给决策者和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e4%bc%98%e5%8c%96/" title="查看网站优化中的全部文章" target="_blank">网站优化</a></span>人员以便他们作出必要的更改。
         </p>
         
         <p>
@@ -165,5 +165,5 @@ function isEntered(el, field_name)
 }</pre>
         
         <p>
-          <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.e-nor.com/blog/index.php/web-analytics/code-update-optimize-form-length-with-input-analysis/" target="_blank">http://www.e-nor.com/blog/index.php/web-analytics/code-update-optimize-form-length-with-input-analysis/</a>
+          <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a href="http://www.e-nor.com/blog/index.php/web-analytics/code-update-optimize-form-length-with-input-analysis/" target="_blank">http://www.e-nor.com/blog/index.php/web-analytics/code-update-optimize-form-length-with-input-analysis/</a>
         </p>

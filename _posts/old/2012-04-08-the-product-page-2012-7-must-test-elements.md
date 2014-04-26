@@ -8,7 +8,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/3b
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/735-1.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/735-1.jpg;
 categories:
   - 转化优化
 tags:
@@ -53,7 +53,7 @@ tags:
   </p>
   
   <p>
-    针对产品页面的这五个部分，你可以进行很多<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%b5%8b%e8%af%95/" title="查看测试中的全部文章" target="_blank">测试</a></span>。然而，要在今年获得成功，以下是7个必须<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%b5%8b%e8%af%95/" title="查看测试中的全部文章" target="_blank">测试</a></span>的元素。我们已经看到很多公司在实行这些理念：
+    针对产品页面的这五个部分，你可以进行很多<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%b5%8b%e8%af%95/" title="查看测试中的全部文章" target="_blank">测试</a></span>。然而，要在今年获得成功，以下是7个必须<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%b5%8b%e8%af%95/" title="查看测试中的全部文章" target="_blank">测试</a></span>的元素。我们已经看到很多公司在实行这些理念：
   </p>
   
   <ol>
@@ -85,6 +85,6 @@ tags:
   </p>
   
   <p>
-    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.clickz.com/clickz/column/2154419/product-page-2012-test-elements" target="_blank">http://www.clickz.com/clickz/column/2154419/product-page-2012-test-elements</a>
+    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://www.clickz.com/clickz/column/2154419/product-page-2012-test-elements" target="_blank">http://www.clickz.com/clickz/column/2154419/product-page-2012-test-elements</a>
   </p>
 </div>

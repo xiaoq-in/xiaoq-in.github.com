@@ -31,13 +31,13 @@ tags:
   - 阿里巴巴产品排名
   - 阿里巴巴国际站关键词排名查询工具
 ---
-今天上午10点26分收到谷歌的一封双语邮件，全文如下。然后再试着去访问了下<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%91%a8%e4%b9%83%e6%98%8e/" title="查看周乃明中的全部文章" target="_blank">周乃明</a></span>的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%9b%bd%e9%99%85%e7%ab%99%e5%85%b3%e9%94%ae%e8%af%8d%e6%8e%92%e5%90%8d%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7/" title="查看阿里巴巴国际站关键词排名查询工具中的全部文章" target="_blank">阿里巴巴国际站关键词排名查询工具</a></span>，发现其免费寄居于Google的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%9b%bd%e9%99%85%e7%ab%99%e5%85%b3%e9%94%ae%e8%af%8d%e6%8e%92%e5%90%8d%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7/" title="查看阿里巴巴国际站关键词排名查询工具中的全部文章" target="_blank">阿里巴巴国际站关键词排名查询工具</a></span>被屏蔽了，原来<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/appspot/" title="查看appspot中的全部文章" target="_blank">appspot</a></span>被封了。后来发现，原来这个工具最后还是放到了他WordPress搭建的博客之下。
+今天上午10点26分收到谷歌的一封双语邮件，全文如下。然后再试着去访问了下<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%91%a8%e4%b9%83%e6%98%8e/" title="查看周乃明中的全部文章" target="_blank">周乃明</a></span>的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%9b%bd%e9%99%85%e7%ab%99%e5%85%b3%e9%94%ae%e8%af%8d%e6%8e%92%e5%90%8d%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7/" title="查看阿里巴巴国际站关键词排名查询工具中的全部文章" target="_blank">阿里巴巴国际站关键词排名查询工具</a></span>，发现其免费寄居于Google的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e5%9b%bd%e9%99%85%e7%ab%99%e5%85%b3%e9%94%ae%e8%af%8d%e6%8e%92%e5%90%8d%e6%9f%a5%e8%af%a2%e5%b7%a5%e5%85%b7/" title="查看阿里巴巴国际站关键词排名查询工具中的全部文章" target="_blank">阿里巴巴国际站关键词排名查询工具</a></span>被屏蔽了，原来<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/appspot/" title="查看appspot中的全部文章" target="_blank">appspot</a></span>被封了。后来发现，原来这个工具最后还是放到了他WordPress搭建的博客之下。
 
 免费的不好用啊。谷歌也靠不住了。
 
 我们可是美国VPS主机，有独立IP的，保证7*24小时随时免费查询。
 
-Google Apps service change notification/关于<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google%e4%bc%81%e4%b8%9a%e5%ba%94%e7%94%a8%e5%a5%97%e4%bb%b6/" title="查看Google企业应用套件中的全部文章" target="_blank">Google企业应用套件</a></span>服务的变更通知
+Google Apps service change notification/关于<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google%e4%bc%81%e4%b8%9a%e5%ba%94%e7%94%a8%e5%a5%97%e4%bb%b6/" title="查看Google企业应用套件中的全部文章" target="_blank">Google企业应用套件</a></span>服务的变更通知
 
 Dear Google Apps admin,
 
@@ -59,7 +59,7 @@ The following .cn domain aliases will be removed on 10 January 2011 at 18:00 GMT
 
 \****.cn
 
-尊敬的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google%e4%bc%81%e4%b8%9a%e5%ba%94%e7%94%a8%e5%a5%97%e4%bb%b6/" title="查看Google企业应用套件中的全部文章" target="_blank">Google企业应用套件</a></span>管理员：
+尊敬的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google%e4%bc%81%e4%b8%9a%e5%ba%94%e7%94%a8%e5%a5%97%e4%bb%b6/" title="查看Google企业应用套件中的全部文章" target="_blank">Google企业应用套件</a></span>管理员：
 
 您好！我们联系您是因为您正在使用下面所列的.cn域名作为您Google企业应用套件服务 主域名的别名（alias）。Google目前并不在.cn域名下提供Google企业应用套件服务，包括.cn域名作为域名别名（alias）的服务。遗憾的是由于我们注册流程上的疏漏，您的.cn域名被允许作为了Google企业应用套件服务的域名别名。
 

@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/77
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/623-1.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/623-1.jpg;
 categories:
   - 生活札记
 tags:
@@ -28,7 +28,7 @@ tags:
   - 孙陶然
   - 拉卡拉
 ---
-《<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%9b%e4%b8%9a/" title="查看创业中的全部文章" target="_blank">创业</a></span>36军规》的作者<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ad%99%e9%99%b6%e7%84%b6/" title="查看孙陶然中的全部文章" target="_blank">孙陶然</a></span>是一位数次成功<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%88%9b%e4%b8%9a/" title="查看创业中的全部文章" target="_blank">创业</a></span>的创业者，书中的内容有关创业的方方面面，从创业目的到股东选择，从经营到管理，从找方向到项目细节不一而足，写给每位心怀创业理想或正在创业路上的读者。
+《<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%9b%e4%b8%9a/" title="查看创业中的全部文章" target="_blank">创业</a></span>36军规》的作者<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ad%99%e9%99%b6%e7%84%b6/" title="查看孙陶然中的全部文章" target="_blank">孙陶然</a></span>是一位数次成功<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%88%9b%e4%b8%9a/" title="查看创业中的全部文章" target="_blank">创业</a></span>的创业者，书中的内容有关创业的方方面面，从创业目的到股东选择，从经营到管理，从找方向到项目细节不一而足，写给每位心怀创业理想或正在创业路上的读者。
 
 **我所在的公司是一家创业型的企业，作为一个创业型的公司我们或许会经历更多，但是正是这种磨难与考验，坚定了我们成功的信念，我们也从中获得更快成长，正如马云所说：今天很残酷，明天更残酷，后天很美好。可大部分人都死在了明天晚上，没能看到后天清晨的阳光。我时刻告诫自己我正处于明天晚上！不成功，就是死亡！**
 

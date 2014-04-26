@@ -28,12 +28,12 @@ tags:
   - 长途区号
   - 长途电话区号
 ---
-某些邮件中发信者不会申明来自哪个国家，但是一般会留下电话号码，于是就可以通过下面这个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%bd%e9%99%85%e9%95%bf%e9%80%94%e7%94%b5%e8%af%9d%e5%8c%ba%e5%8f%b7%e8%a1%a8/" title="查看国际长途电话区号表中的全部文章" target="_blank">国际长途电话区号表</a></span>确定发信者所在的国家。这是一个非常实用的表格，是搜索<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b9%b0%e5%ae%b6%e4%bf%a1%e6%81%af/" title="查看买家信息中的全部文章" target="_blank">买家信息</a></span>的一种方法。
+某些邮件中发信者不会申明来自哪个国家，但是一般会留下电话号码，于是就可以通过下面这个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%bd%e9%99%85%e9%95%bf%e9%80%94%e7%94%b5%e8%af%9d%e5%8c%ba%e5%8f%b7%e8%a1%a8/" title="查看国际长途电话区号表中的全部文章" target="_blank">国际长途电话区号表</a></span>确定发信者所在的国家。这是一个非常实用的表格，是搜索<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b9%b0%e5%ae%b6%e4%bf%a1%e6%81%af/" title="查看买家信息中的全部文章" target="_blank">买家信息</a></span>的一种方法。
 
 <table cellspacing="0" width="100%">
   <tr align="center">
     <th height="24">
-      <span style="color: #003366;"><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%bd%e9%99%85%e9%95%bf%e9%80%94%e7%94%b5%e8%af%9d%e5%8c%ba%e5%8f%b7%e8%a1%a8/" title="查看国际长途电话区号表中的全部文章" target="_blank">国际长途电话区号表</a></span></span>
+      <span style="color: #003366;"><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%bd%e9%99%85%e9%95%bf%e9%80%94%e7%94%b5%e8%af%9d%e5%8c%ba%e5%8f%b7%e8%a1%a8/" title="查看国际长途电话区号表中的全部文章" target="_blank">国际长途电话区号表</a></span></span>
     </th>
   </tr>
   
@@ -42,19 +42,19 @@ tags:
       <table border="0" cellspacing="1" cellpadding="3" width="100%" bgcolor="#6699cc">
         <tr>
           <td align="center" bgcolor="#ccffcc">
-            <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%bd%e5%ae%b6%e6%88%96%e5%9c%b0%e5%8c%ba%e5%90%8d%e7%a7%b0/" title="查看国家或地区名称中的全部文章" target="_blank">国家或地区名称</a></span>
+            <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%bd%e5%ae%b6%e6%88%96%e5%9c%b0%e5%8c%ba%e5%90%8d%e7%a7%b0/" title="查看国家或地区名称中的全部文章" target="_blank">国家或地区名称</a></span>
           </td>
           
           <td align="center" bgcolor="#ccffcc">
-            <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%95%bf%e9%80%94%e5%8c%ba%e5%8f%b7/" title="查看长途区号中的全部文章" target="_blank">长途区号</a></span>
+            <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%95%bf%e9%80%94%e5%8c%ba%e5%8f%b7/" title="查看长途区号中的全部文章" target="_blank">长途区号</a></span>
           </td>
           
           <td align="center" bgcolor="#ccffcc">
-            <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%bd%e5%ae%b6%e6%88%96%e5%9c%b0%e5%8c%ba%e5%90%8d%e7%a7%b0/" title="查看国家或地区名称中的全部文章" target="_blank">国家或地区名称</a></span>
+            <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%bd%e5%ae%b6%e6%88%96%e5%9c%b0%e5%8c%ba%e5%90%8d%e7%a7%b0/" title="查看国家或地区名称中的全部文章" target="_blank">国家或地区名称</a></span>
           </td>
           
           <td align="center" bgcolor="#ccffcc">
-            <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%95%bf%e9%80%94%e5%8c%ba%e5%8f%b7/" title="查看长途区号中的全部文章" target="_blank">长途区号</a></span>
+            <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%95%bf%e9%80%94%e5%8c%ba%e5%8f%b7/" title="查看长途区号中的全部文章" target="_blank">长途区号</a></span>
           </td>
         </tr>
         

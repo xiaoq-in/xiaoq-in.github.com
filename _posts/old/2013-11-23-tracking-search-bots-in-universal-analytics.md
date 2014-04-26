@@ -6,7 +6,7 @@ permalink: /seo/tracking-search-bots-in-universal-analytics/
 yourls_shorturl:
   - http://t.xiaoq.in/87
 ta-thumbnail:
-  - https://xiaoq.in/cdn/2013/11/crazy-spider.gif;https://xiaoq.in/cdn/2013/11/ec-ua-cookie.gif;
+  - http://blog.xiaoq.in/cdn/2013/11/crazy-spider.gif;http://blog.xiaoq.in/cdn/2013/11/ec-ua-cookie.gif;
 views:
   - 1540
 ratings_users:
@@ -26,26 +26,26 @@ tags:
   - 蜘蛛爬行
   - 蜘蛛跟踪
 ---
-数据分析的最终意义在于指导相关业务部门进行改进，大多数公司都会花费较多的人力物力在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>/自然搜索排名）方面。而作为一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>er，要做**科学的SEO**，最起码的就是需要了解各个搜索引擎（一般就只是看目标市场主流的几个）的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>情况。<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>虽然并不代表收录肯定会好、多、快，或者排名高。但是，从蜘蛛的爬行数据中，我们确实是可以及时发现问题，调整一些优化手法。
+数据分析的最终意义在于指导相关业务部门进行改进，大多数公司都会花费较多的人力物力在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e5%bc%95%e6%93%8e%e4%bc%98%e5%8c%96/" title="查看搜索引擎优化中的全部文章" target="_blank">搜索引擎优化</a></span>/自然搜索排名）方面。而作为一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/seo-2/" title="查看SEO中的全部文章" target="_blank">SEO</a></span>er，要做**科学的SEO**，最起码的就是需要了解各个搜索引擎（一般就只是看目标市场主流的几个）的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>情况。<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%9c%98%e8%9b%9b%e7%88%ac%e8%a1%8c/" title="查看蜘蛛爬行中的全部文章" target="_blank">蜘蛛爬行</a></span>虽然并不代表收录肯定会好、多、快，或者排名高。但是，从蜘蛛的爬行数据中，我们确实是可以及时发现问题，调整一些优化手法。
 
 网络上有人收集了百度的一些蜘蛛IP段的意义，比如某些IP段爬行是说明快照要更新了，某些IP段可能就会面临被K的风险，由于被转载次数太多，也不清楚哪个是原创就不提供链接了，具体相关文章大家可以<a title="百度蜘蛛ip段" href="https://www.google.com.hk/search?newwindow=1&safe=strict&q=%E7%99%BE%E5%BA%A6%E8%9C%98%E8%9B%9Bip%E6%AE%B5" target="_blank">Google一下</a>，Google好像也有类似的总结文章。
 
 下面，就说下这个如何具体来操作，这里是最终的实时报告效果预览，不出意外的话，安装好相关代码并进行配置后，可以马上看到：**疯狂的蜘蛛**。如下图。是的，对于大多数大型网站来说，蜘蛛爬行占用的服务器宽带可能比正常流量还多，因此有些公司会将部分无关的蜘蛛给屏蔽掉，或者给蜘蛛爬行设置延时，限制爬行频次和频率。
 
-，<img class="alignnone  wp-image-1444" alt="crazy spider" src="https://xiaoq.in/cdn/2013/11/crazy-spider.gif" width="600" />
+，<img class="alignnone  wp-image-1444" alt="crazy spider" src="http://blog.xiaoq.in/cdn/2013/11/crazy-spider.gif" width="600" />
 
-本文的核心代码来自<a title="Universal Analytics for Search Bots" href="http://www.adrianvender.com/universal-analytics-for-search-bots/" target="_blank">这里</a>，这位牛人之前在**Cardinal Path**干了4年，之前那个GA版本的代码就是它写的（我2011年翻译的文章在<a title="用Google Analytics（谷歌分析）跟踪搜索引擎蜘蛛" href="https://xiaoq.in/google-analytics/tracking-search-bots-in-google-analytics/" target="_blank">这里</a>）。
+本文的核心代码来自<a title="Universal Analytics for Search Bots" href="http://www.adrianvender.com/universal-analytics-for-search-bots/" target="_blank">这里</a>，这位牛人之前在**Cardinal Path**干了4年，之前那个GA版本的代码就是它写的（我2011年翻译的文章在<a title="用Google Analytics（谷歌分析）跟踪搜索引擎蜘蛛" href="http://blog.xiaoq.in/google-analytics/tracking-search-bots-in-google-analytics/" target="_blank">这里</a>）。
 
-首先，我们下载<a title="UA for Search Bots" href="https://xiaoq.in/y/public.php?service=files&t=c88e1e3eacd79481547218cbf715b712" target="_blank">这个文件包</a>，将文件解压到网站的某个目录。
+首先，我们下载<a title="UA for Search Bots" href="http://blog.xiaoq.in/y/public.php?service=files&t=c88e1e3eacd79481547218cbf715b712" target="_blank">这个文件包</a>，将文件解压到网站的某个目录。
 
 其次，建立一个新的媒体资源（账号也可以，不能用之前的配置文件/视图，跟踪代码必须不同，避免数据混淆影响正常的网站数据分析），记下媒体资源ID，下面会用到。鉴于蜘蛛爬行可能会是正常PV的好几倍，为了避免数据超限，建议大型网站使用账户（GA限制每个账户每月最多一百万的hit）。
 
 再次，拷贝其中sample.php的代码，复制其中的代码到通用模板的header.php（可能根据网站程序位置不太一样）中，按照提示修改其中的配置文件参数（标黄部分），示例如下：
 
 <?php  
-/\***\***\****<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span> For Search Bots\***\***\***\*****/  
+/\***\***\****<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span> For Search Bots\***\***\***\*****/  
 //Configuration  
-$<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>\_SB\_ACCOUNT_ID = &#8220;<span style="color: #ff6600;"><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>-12345678-2</span>&#8220;; //Replace with the UA Web Property ID.  
+$<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>\_SB\_ACCOUNT_ID = &#8220;<span style="color: #ff6600;"><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/ua/" title="查看UA中的全部文章" target="_blank">UA</a></span>-12345678-2</span>&#8220;; //Replace with the UA Web Property ID.  
 $UA\_SB\_PATH = &#8220;<span style="color: #ff6600;">api/ua-searchbots/ua-searchbots.php</span>&#8220;; //location of the UA for Search Bots script  
 //Do not edit below this line  
 //Execute the UA for Search Bots script  
@@ -59,7 +59,7 @@ include($UA\_SB\_PATH);
 
 **以下仅供技术人员参考，一般按照上文完成就OK了：**
 
-****如果你发现很多unknown的bot，那么可能需要把botconfig.php这个文件再完善下，比如加入360的搜索引擎蜘蛛、一些其他特定地区的搜索引擎蜘蛛，再或者可能是一些不安分的蜘蛛，具体可以查看服务器的访问日志，不想要的垃圾蜘蛛直接屏蔽吧，省得浪费资源。这里会用到一些正则表达式，其实很多其他地方也会用到，要想更好地应用<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>，正则表达式是一个必修课。
+****如果你发现很多unknown的bot，那么可能需要把botconfig.php这个文件再完善下，比如加入360的搜索引擎蜘蛛、一些其他特定地区的搜索引擎蜘蛛，再或者可能是一些不安分的蜘蛛，具体可以查看服务器的访问日志，不想要的垃圾蜘蛛直接屏蔽吧，省得浪费资源。这里会用到一些正则表达式，其实很多其他地方也会用到，要想更好地应用<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>，正则表达式是一个必修课。
 
 <?  
 // Search bot patterns and names  
@@ -395,7 +395,7 @@ $bots = array( &#8216;Mediapartners-Google\[ /\]([0-9.]{1,10})&#8217; => &#8216;
 &#8216;^ICC-Crawler&#8217; => &#8216;ICC-Crawler&#8217;,  
 &#8216;BlogzIce\[ /\]([0-9.]{1,10})&#8217; => &#8216;Icerocket&#8217;,  
 &#8216;BlogSearch\[ /\]([0-9.]{1,10})&#8217; => &#8216;Icerocket&#8217;,  
-&#8216;^ICRA_<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>antic_spider\[ /\]([0-9.]{1,10})&#8217; => &#8216;ICRA&#8217;,  
+&#8216;^ICRA_<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>antic_spider\[ /\]([0-9.]{1,10})&#8217; => &#8216;ICRA&#8217;,  
 &#8216;^Mozilla\[/ \]([0-9.]{1,10})[/ ]\(compatible[ ;]*ICS&#8217; => &#8216;Novell iChain Cool Solutions caching&#8217;,  
 &#8216;Comaneci_bot\[ /\]([0-9.]{1,10})&#8217; => &#8216;I know&#8217;,  
 &#8216;ilial\[ /]Nutch[ \-\]([0-9.]{1,10})&#8217; => &#8216;Ilial&#8217;,  
@@ -917,7 +917,7 @@ $bots = array( &#8216;Mediapartners-Google\[ /\]([0-9.]{1,10})&#8217; => &#8216;
 
 另外，这个文件包并未记录IP和具体时间，如果你想记录这些关键信息，那么修改ua-searchbots.php这个文件吧，这个有点技术含量，并且需要对如下这种参数进行分析，懂的童鞋就试试吧，不懂的话也无妨，默认的代码基本够用了。
 
-<img class="alignnone size-full wp-image-1445" alt="ec ua cookie" src="https://xiaoq.in/cdn/2013/11/ec-ua-cookie.gif" />
+<img class="alignnone size-full wp-image-1445" alt="ec ua cookie" src="http://blog.xiaoq.in/cdn/2013/11/ec-ua-cookie.gif" />
 
 <?php  
 /**  

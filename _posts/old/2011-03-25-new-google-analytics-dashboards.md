@@ -24,14 +24,14 @@ tags:
   - 谷歌分析
   - 谷歌分析新版
 ---
-This is the first in a series of posts highlighting the new <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>. The new version of Google Analytics is currently available in beta to a small number of Analytics users. We’ll be giving access to more users soon. Sign up for early access.
+This is the first in a series of posts highlighting the new <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>. The new version of Google Analytics is currently available in beta to a small number of Analytics users. We’ll be giving access to more users soon. Sign up for early access.
 
-这是<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>新版专题系列的第一篇文章。新版的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>目前正在小范围用户内测。我们将给更多用户开放。申请抢先试用。
+这是<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>新版专题系列的第一篇文章。新版的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>目前正在小范围用户内测。我们将给更多用户开放。申请抢先试用。
 
 Today, we would like to introduce you to the new dashboards that is available in the new version of Google Analytics announced last week.
 
-今天，我们想为各位介绍上周我们已经预告过的新版<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>。  
-<a href="http://cdn.54jack.com/images/2011/03/newdash-mednarrow.png" target="_blank"><img class="alignnone size-full wp-image-223" title="newdash-mednarrow" src="http://cdn.54jack.com/images/2011/03/newdash-mednarrow.png" alt="" width="400" height="243" /></a>
+今天，我们想为各位介绍上周我们已经预告过的新版<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>。  
+<a href="http://blog.xiaoq.in/cdn/images/2011/03/newdash-mednarrow.png" target="_blank"><img class="alignnone size-full wp-image-223" title="newdash-mednarrow" src="http://blog.xiaoq.in/cdn/images/2011/03/newdash-mednarrow.png" alt="" width="400" height="243" /></a>
 
 View the full-size
 
@@ -39,11 +39,11 @@ View the full-size
 
 Custom Dashboards
 
-自定义<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>  
+自定义<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>  
 For most Google Analytics users, the dashboard is the first thing you see when viewing your reports. Dashboards in the new version of Google Analytics have been redesigned to be completely widget-based and highly customizable. There are four types of widgets: Metric, Pie Chart, Timeline, and Table. This gives you the ability to choose the visualization that best suits the data you want in your dashboard. The Dashboard uses a three-column layout, and you can customize the layout by dragging and dropping the widgets as you’d like.  
-<a href="http://cdn.54jack.com/images/2011/03/addwidget.png" target="_blank"><img class="alignnone size-full wp-image-224" title="addwidget" src="http://cdn.54jack.com/images/2011/03/addwidget.png" alt="" width="371" height="270" /></a>
+<a href="http://blog.xiaoq.in/cdn/images/2011/03/addwidget.png" target="_blank"><img class="alignnone size-full wp-image-224" title="addwidget" src="http://blog.xiaoq.in/cdn/images/2011/03/addwidget.png" alt="" width="371" height="270" /></a>
 
-对大多数<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>是他们查看报告时候看到的第一个东西。新版<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>的信息中心现在已经经过重新设计，实现了完全的基于小窗口的高度订制化。有四种小窗口：指标、饼图、时间线、表格。这将允许你可视化地选择最符合你需求的数据放置到信息中心。信息中心采用三栏布局，你可以自由地通过拖动或删除小窗口来定制界面。
+对大多数<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>用户，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>是他们查看报告时候看到的第一个东西。新版<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>的信息中心现在已经经过重新设计，实现了完全的基于小窗口的高度订制化。有四种小窗口：指标、饼图、时间线、表格。这将允许你可视化地选择最符合你需求的数据放置到信息中心。信息中心采用三栏布局，你可以自由地通过拖动或删除小窗口来定制界面。
 
 •Metric: Shows the value of a metric and a sparkline of that metric over the selected time period
 

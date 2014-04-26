@@ -17,9 +17,9 @@ tags:
   - Analytics Academy
   - Google Analytics Platform Principles
 ---
-<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Platform Principles is the latest Web Analytics learning course presented by Google Analytics team, below is the exercises excerpted from the <a title="Google Analytics Platform Principles" href="https://analyticsacademy.withgoogle.com/course02" target="_blank">official website</a>. It&#8217;s just for note-taking, and it&#8217;s strongly suggested that you watch all the videos first and if there is anything unclear, check the help center or google it. If you would like to check the answers, the full documents with answers and videos is available via <a title="Google Analytics Platform Principles" href="http://ga.xiaoq.in/course02/" target="_blank">this link</a>.
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Platform Principles is the latest Web Analytics learning course presented by Google Analytics team, below is the exercises excerpted from the <a title="Google Analytics Platform Principles" href="https://analyticsacademy.withgoogle.com/course02" target="_blank">official website</a>. It&#8217;s just for note-taking, and it&#8217;s strongly suggested that you watch all the videos first and if there is anything unclear, check the help center or google it. If you would like to check the answers, the full documents with answers and videos is available via <a title="Google Analytics Platform Principles" href="http://ga.xiaoq.in/course02/" target="_blank">this link</a>.
 
-<img class="alignnone size-full wp-image-1643" alt="google analytics platform principals" src="https://xiaoq.in/cdn/2014/03/google-analytics-platform-principals.gif" width="345" height="220" />
+<img class="alignnone size-full wp-image-1643" alt="google analytics platform principals" src="http://blog.xiaoq.in/cdn/2014/03/google-analytics-platform-principals.gif" width="345" height="220" />
 
 Unit 1  
 Course overview  

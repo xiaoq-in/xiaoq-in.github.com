@@ -18,14 +18,14 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/2q
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/610-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/610-1.gif;
 categories:
   - 搜索引擎优化
 tags:
   - 富文本摘要
   - 点击率
 ---
-研究了一下google的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%af%8c%e6%96%87%e6%9c%ac%e6%91%98%e8%a6%81/" title="查看富文本摘要中的全部文章" target="_blank">富文本摘要</a></span>，看上去不错，刷新看下效果如何。  
+研究了一下google的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%af%8c%e6%96%87%e6%9c%ac%e6%91%98%e8%a6%81/" title="查看富文本摘要中的全部文章" target="_blank">富文本摘要</a></span>，看上去不错，刷新看下效果如何。  
 <img class="alignnone size-full wp-image-611" title="Rich Snippets" src="http://xiaoq.in/g/pics/2012/02/Rich-Snippets.gif" alt="" width="660" height="180" />  
 以下几个网站可以学习参考下：
 
@@ -35,4 +35,4 @@ tags:
 
 &nbsp;
 
-通过这个可以得出，谷歌的SERP中包括评论星级等都是可以作弊的，通过优化这些东西可以提高<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>，还甚至能提升转化率。因为这些东西看起来像是只有大站才有的，其实你也可以有~
+通过这个可以得出，谷歌的SERP中包括评论星级等都是可以作弊的，通过优化这些东西可以提高<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%82%b9%e5%87%bb%e7%8e%87/" title="查看点击率中的全部文章" target="_blank">点击率</a></span>，还甚至能提升转化率。因为这些东西看起来像是只有大站才有的，其实你也可以有~

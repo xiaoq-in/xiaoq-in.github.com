@@ -62,6 +62,6 @@ tags:
   </p>
   
   <p>
-    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bc%98%e5%8c%96%e4%b8%ad%e5%bf%83/" title="查看优化中心中的全部文章" target="_blank">优化中心</a></span>：<a title="Google Adwords优化中心" href="http://adwords.google.com/support/aw/bin/static.py?hl=en&topic=22526&guide=21804&page=guide.cs" target="_blank">http://adwords.google.com/support/aw/bin/static.py?hl=en&topic=22526&guide=21804&page=guide.cs</a>
+    <span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bc%98%e5%8c%96%e4%b8%ad%e5%bf%83/" title="查看优化中心中的全部文章" target="_blank">优化中心</a></span>：<a title="Google Adwords优化中心" href="http://adwords.google.com/support/aw/bin/static.py?hl=en&topic=22526&guide=21804&page=guide.cs" target="_blank">http://adwords.google.com/support/aw/bin/static.py?hl=en&topic=22526&guide=21804&page=guide.cs</a>
   </p>
 </div>

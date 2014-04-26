@@ -16,7 +16,7 @@ views:
 yourls_shorturl:
   - http://g.xiaoq.in/a
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/4/744-1.jpg;https://xiaoq.in/thumb/cache/2012/4/744-2.png;https://xiaoq.in/thumb/cache/2012/4/744-3.png;https://xiaoq.in/thumb/cache/2012/4/744-4.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/4/744-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/4/744-2.png;http://blog.xiaoq.in/thumb/cache/2012/4/744-3.png;http://blog.xiaoq.in/thumb/cache/2012/4/744-4.png;
 categories:
   - Google AdWords
 tags:
@@ -26,9 +26,9 @@ tags:
   - 自定义字段
   - 过滤器
 ---
-如果说展示广告的质量得分让你摸不着头脑，那么这是<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>中数据最不透明的地方，完全剥夺了用户的选择权！
+如果说展示广告的质量得分让你摸不着头脑，那么这是<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>中数据最不透明的地方，完全剥夺了用户的选择权！
 
-我们知道在Google AdWords的搜索广告中，你可以选择<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-%e6%90%9c%e7%b4%a2/" title="查看Google 搜索中的全部文章" target="_blank">Google 搜索</a></span>或者<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>（要求同时选中 <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-%e6%90%9c%e7%b4%a2/" title="查看Google 搜索中的全部文章" target="_blank">Google 搜索</a></span>），但是你无法单独选择<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>，更不用说单独选择其中的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>，比如www.ask.com。
+我们知道在Google AdWords的搜索广告中，你可以选择<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-%e6%90%9c%e7%b4%a2/" title="查看Google 搜索中的全部文章" target="_blank">Google 搜索</a></span>或者<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>（要求同时选中 <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-%e6%90%9c%e7%b4%a2/" title="查看Google 搜索中的全部文章" target="_blank">Google 搜索</a></span>），但是你无法单独选择<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>，更不用说单独选择其中的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%90%9c%e7%b4%a2%e7%bd%91%e7%bb%9c%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/" title="查看搜索网络合作伙伴中的全部文章" target="_blank">搜索网络合作伙伴</a></span>，比如www.ask.com。
 
 搜索网络合作伙伴的效果是大相径庭的，在某些国家针对某些产品的广告，虽然流量份额很小，但是可能搜索网络合作伙伴的点击率和转化率会高些，但是在某些国家针对某些产品的广告，这些流量简直可以称作为垃圾流量。不信？数据说话！
 
@@ -36,7 +36,7 @@ tags:
 
 [<img class="alignnone size-full wp-image-745" title="superweak" src="http://xiaoq.in/g/pics/2012/04/superweak.jpg" alt="" width="846" height="252" />][1]
 
-那么，既然我们知道搜索网络和合作伙伴中的数据和效果存在差异，首先需要解决的问题是这种差异性到底有多大，上面的方法是发现这种差异性的一种方法，另外一种是通过GA定制<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bf%87%e6%bb%a4%e5%99%a8/" title="查看过滤器中的全部文章" target="_blank">过滤器</a></span>实现，后面将会说到具体怎么做。
+那么，既然我们知道搜索网络和合作伙伴中的数据和效果存在差异，首先需要解决的问题是这种差异性到底有多大，上面的方法是发现这种差异性的一种方法，另外一种是通过GA定制<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bf%87%e6%bb%a4%e5%99%a8/" title="查看过滤器中的全部文章" target="_blank">过滤器</a></span>实现，后面将会说到具体怎么做。
 
 在此，我们先假设Google搜索的转化率和各项综合指标均好于合作伙伴的，并且我们希望获得更广泛的覆盖面，那么我们如何优化呢？国外有人称可以让google客服手动排除一些合作伙伴的网站，具体如何操作及能否操作还没尝试过。假设，我们不求助于Google客服，该怎么做呢？
 
@@ -46,7 +46,7 @@ tags:
 
 下面说说如何在GA中获取合作伙伴网络的数据。
 
-你需要创建一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%bf%87%e6%bb%a4%e5%99%a8/" title="查看过滤器中的全部文章" target="_blank">过滤器</a></span>，将来源字段直接整合到来源或写入到一个新的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%ad%97%e6%ae%b5/" title="查看自定义字段中的全部文章" target="_blank">自定义字段</a></span>中。
+你需要创建一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%bf%87%e6%bb%a4%e5%99%a8/" title="查看过滤器中的全部文章" target="_blank">过滤器</a></span>，将来源字段直接整合到来源或写入到一个新的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%ad%97%e6%ae%b5/" title="查看自定义字段中的全部文章" target="_blank">自定义字段</a></span>中。
 
 方法一（将来源字段直接整合到来源）：【按照先后顺序】可能有些看不清，第一个引荐中是：^http://([^/]*)
 

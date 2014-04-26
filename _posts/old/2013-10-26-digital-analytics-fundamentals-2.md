@@ -6,7 +6,7 @@ permalink: /google-analytics/digital-analytics-fundamentals-2/
 yourls_shorturl:
   - http://t.xiaoq.in/81
 ta-thumbnail:
-  - https://xiaoq.in/cdn/2013/10/digital-analytics-fundamentals.png;
+  - http://blog.xiaoq.in/cdn/2013/10/digital-analytics-fundamentals.png;
 views:
   - 1000
 ratings_users:
@@ -31,9 +31,9 @@ tags:
   - 自定义报告
   - 行为报告
 ---
-<a title="Analytics Academy" href="https://analyticsacademy.withgoogle.com/course" target="_blank">Analytics Academy</a>是一个由<a title="Justin Cutroni" href="http://cutroni.com/blog/" target="_blank">Justin Cutroni</a>主导的关于数字分析的基础课程，主要基于<a title="Google Analytics" href="http://xiaoq.in/google-analytics/" target="_blank">Google Analytics</a>讲述数据分析的基本理念和思路，前几天分享了第一部分前4个单元的测试内容，本文分享后半部分，以及终极测试部分，通过该测试即可拿到一个证书（免费的，与GAIQ不同，该证书有点像是结业证书），<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/analytics-academy/" title="查看Analytics Academy中的全部文章" target="_blank">Analytics Academy</a></span>考试通过的证书如下图所示：
+<a title="Analytics Academy" href="https://analyticsacademy.withgoogle.com/course" target="_blank">Analytics Academy</a>是一个由<a title="Justin Cutroni" href="http://cutroni.com/blog/" target="_blank">Justin Cutroni</a>主导的关于数字分析的基础课程，主要基于<a title="Google Analytics" href="http://xiaoq.in/google-analytics/" target="_blank">Google Analytics</a>讲述数据分析的基本理念和思路，前几天分享了第一部分前4个单元的测试内容，本文分享后半部分，以及终极测试部分，通过该测试即可拿到一个证书（免费的，与GAIQ不同，该证书有点像是结业证书），<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/analytics-academy/" title="查看Analytics Academy中的全部文章" target="_blank">Analytics Academy</a></span>考试通过的证书如下图所示：
 
-<img class="alignnone  wp-image-1395" alt="digital analytics fundamentals" src="https://xiaoq.in/cdn/2013/10/digital-analytics-fundamentals.png" width="600" />
+<img class="alignnone  wp-image-1395" alt="digital analytics fundamentals" src="http://blog.xiaoq.in/cdn/2013/10/digital-analytics-fundamentals.png" width="600" />
 
 第五单元主要讲述报告的使用及其内部的一些常用工具、功能和操作。
 
@@ -85,7 +85,7 @@ Pivot table
 
 在同一个图表中显示2个时间范围内的数据，使用时间范围对比，位于右上角。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8f%97%e4%bc%97%e6%8a%a5%e5%91%8a/" title="查看受众报告中的全部文章" target="_blank">受众报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8f%97%e4%bc%97%e6%8a%a5%e5%91%8a/" title="查看受众报告中的全部文章" target="_blank">受众报告</a></span>**
 
 Which of the following Audience reports would you use to determine whether first-time site visitors or repeat site visitors spend more time on your site on average?  
 Location reports  
@@ -120,7 +120,7 @@ Mobile reports
 
 要查看用户来网站的频率，查看频率和新近度报告，该报告可以了解到用户访问网站不同频次的访问次数和浏览量的数据，同时也能够了解到用户上次访问到该次访问之间的时间间隔（以天计算），同时也有对应的访问次数和浏览量的数据。频率的时间维度有：1、2、3、4、5、6、7、8、9-14、15-25、26-50、51-100、101-200、201+，访问时间间隔维度有：0、1、2、3、4、5、6、7、8-14、15-30、31-60、61-120、121-364、365+。对于大多数网站来说，这种分组方式还是比较合理和实用的。参与度报告侧重于用户在网站内的表现，比如停留时间、访问页数。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%b5%81%e9%87%8f%e8%8e%b7%e5%8f%96%e6%8a%a5%e5%91%8a/" title="查看流量获取报告中的全部文章" target="_blank">流量获取报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%b5%81%e9%87%8f%e8%8e%b7%e5%8f%96%e6%8a%a5%e5%91%8a/" title="查看流量获取报告中的全部文章" target="_blank">流量获取报告</a></span>**
 
 To see your goal conversion rate for all of your site traffic reported by just the dimension &#8220;Medium&#8221; in the Acquisition reports you can:  
 Check all that apply.  
@@ -133,7 +133,7 @@ None of these. You can only see the the goal conversion rate in the Conversions 
 
 Which of the following types of traffic will show in the &#8220;Campaigns&#8221; report?  
 Check all that apply  
-**Visits from <span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> campaigns that have autotagging enabled**  
+**Visits from <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span> campaigns that have autotagging enabled**  
 Visits from Google AdWords campaigns that have autotagging disabled and no manual campaign tagging  
 Visits from all links tagged with the parameter utm_medium=cpc  
 **Visits from all links tagged with the utm_campaign parameter**
@@ -146,9 +146,9 @@ False
 
 你当然可以在渠道报告中创建自定义的渠道。不过，你需要到“热门转化路径”或“辅助转化”报告中去创建。帮助中心：<a title="创建和使用渠道分组" href="https://support.google.com/analytics/answer/1250116" target="_blank">创建和使用渠道分组</a>。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/adwords%e6%8a%a5%e5%91%8a/" title="查看AdWords报告中的全部文章" target="_blank">AdWords报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/adwords%e6%8a%a5%e5%91%8a/" title="查看AdWords报告中的全部文章" target="_blank">AdWords报告</a></span>**
 
-Which of the following <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> dimensions are only available for AdWords traffic?  
+Which of the following <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> dimensions are only available for AdWords traffic?  
 Check all that apply.  
 Medium  
 **Matched Search Query**  
@@ -180,7 +180,7 @@ Switch the primary dimension in the AdWords Campaigns report to &#8220;Ad Conten
 
 在AdWords广告系列报告中，主维度只有广告组，并没有广告内容。在界面中多熟悉下就知道了。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e6%8a%a5%e5%91%8a/" title="查看行为报告中的全部文章" target="_blank">行为报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%a1%8c%e4%b8%ba%e6%8a%a5%e5%91%8a/" title="查看行为报告中的全部文章" target="_blank">行为报告</a></span>**
 
 Which of the following Behavior reports would you use to identify the pages of your site that have the highest bounce rate as the first page of a user&#8217;s visit?  
 All Pages  
@@ -220,7 +220,7 @@ traffic coming from Google paid search
 
 站内搜索报告告诉我们用户是如何使用站内搜索引擎的，是否使用过搜索，搜索过什么类别和关键词，以及搜索后是否再进行优化搜索，搜索后的一系列行为。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>**
 
 Which of the following are required to create a Custom Report?  
 Check all that apply.  
@@ -231,7 +231,7 @@ Multiple metric groups must be created
 ** At least one dimension must be added**  
 A report filter must be applied
 
-创建<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>时，我们至少需要输入报告名称（系统自动提供默认名称）、至少需要添加一个维度和指标。其他都是可选项。
+创建<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e6%8a%a5%e5%91%8a/" title="查看自定义报告中的全部文章" target="_blank">自定义报告</a></span>时，我们至少需要输入报告名称（系统自动提供默认名称）、至少需要添加一个维度和指标。其他都是可选项。
 
 True or False. Custom Reports will only display data for the date range selected at the time the report is created.  
 True  
@@ -243,9 +243,9 @@ True or False. The date range set for a Dashboard doesn&#8217;t apply to Real-Ti
 **True**  
 False
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ae%9e%e6%97%b6%e6%8a%a5%e5%91%8a/" title="查看实时报告中的全部文章" target="_blank">实时报告</a></span>是现实当前活跃用户的数据，并没有时间范围的选择。因此，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>的时间范围选择并不能应用到<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ae%9e%e6%97%b6%e6%8a%a5%e5%91%8a/" title="查看实时报告中的全部文章" target="_blank">实时报告</a></span>。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ae%9e%e6%97%b6%e6%8a%a5%e5%91%8a/" title="查看实时报告中的全部文章" target="_blank">实时报告</a></span>是现实当前活跃用户的数据，并没有时间范围的选择。因此，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bf%a1%e6%81%af%e4%b8%ad%e5%bf%83/" title="查看信息中心中的全部文章" target="_blank">信息中心</a></span>的时间范围选择并不能应用到<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ae%9e%e6%97%b6%e6%8a%a5%e5%91%8a/" title="查看实时报告中的全部文章" target="_blank">实时报告</a></span>。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e6%b5%81%e6%8a%a5%e5%91%8a/" title="查看目标流报告中的全部文章" target="_blank">目标流报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e6%b5%81%e6%8a%a5%e5%91%8a/" title="查看目标流报告中的全部文章" target="_blank">目标流报告</a></span>**
 
 Which of the following are required in order to see data for each page of a three-page conversion process in the Goal Flow report?  
 Check all that apply.  
@@ -254,7 +254,7 @@ You must have Ecommerce reporting implemented.
 ** You must set up each of the three pages as a funnel step in the Goal settings.**  
 None of the above. Goal Flow reports are automatically populated with data about your conversion processes.
 
-要查看一个含有3个步骤的转化的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e6%b5%81%e6%8a%a5%e5%91%8a/" title="查看目标流报告中的全部文章" target="_blank">目标流报告</a></span>，你需要设置目标以及将这3个步骤定义为目标渠道中的步骤。
+要查看一个含有3个步骤的转化的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%9b%ae%e6%a0%87%e6%b5%81%e6%8a%a5%e5%91%8a/" title="查看目标流报告中的全部文章" target="_blank">目标流报告</a></span>，你需要设置目标以及将这3个步骤定义为目标渠道中的步骤。
 
 Which of the following questions can be answered using the Goal Flow report?  
 Check all that apply.  
@@ -267,7 +267,7 @@ Check all that apply.
 
 目标流报告是比渠道可视化更好用的工具，渠道可视化在某种程度会产生一些数据错觉。比如无法知悉用户的访问路径，细分数据等。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e6%8a%a5%e5%91%8a/" title="查看电子商务报告中的全部文章" target="_blank">电子商务报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%94%b5%e5%ad%90%e5%95%86%e5%8a%a1%e6%8a%a5%e5%91%8a/" title="查看电子商务报告中的全部文章" target="_blank">电子商务报告</a></span>**
 
 Which of the following steps must be completed in order to collect ecommerce data in Google Analytics?  
 Check all that apply.  
@@ -287,13 +287,13 @@ Check all that apply.
 
 电子商务跟踪报告可以回答这些问题：哪些类别的产品带来最多的收入、畅销产品top10、用户在同一个交易中购买的产品、笔单价（每笔交易的订单价值）。这些基本都是直接在标准报告中可以看到的。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a4%9a%e6%b8%a0%e9%81%93%e8%b7%af%e5%be%84%e6%8a%a5%e5%91%8a/" title="查看多渠道路径报告中的全部文章" target="_blank">多渠道路径报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a4%9a%e6%b8%a0%e9%81%93%e8%b7%af%e5%be%84%e6%8a%a5%e5%91%8a/" title="查看多渠道路径报告中的全部文章" target="_blank">多渠道路径报告</a></span>**
 
 True or False. In order to see data in the Multi-Channel Funnels reports you must first implement Goals or Ecommerce.  
 **True**  
 False
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%a4%9a%e6%b8%a0%e9%81%93%e8%b7%af%e5%be%84%e6%8a%a5%e5%91%8a/" title="查看多渠道路径报告中的全部文章" target="_blank">多渠道路径报告</a></span>依赖于转化数据，因此你必须先设置转化目标或者电子商务转化。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%a4%9a%e6%b8%a0%e9%81%93%e8%b7%af%e5%be%84%e6%8a%a5%e5%91%8a/" title="查看多渠道路径报告中的全部文章" target="_blank">多渠道路径报告</a></span>依赖于转化数据，因此你必须先设置转化目标或者电子商务转化。
 
 Which of the following Multi-Channel Funnels reports would you use to see the most common sequences of marketing touch points that lead to conversions on your site or app?  
 Assisted Conversions  
@@ -303,7 +303,7 @@ Path Length
 
 多渠道路径中体现最常见的营销接触点序列的报告是：热门转化路径。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%8a%a5%e5%91%8a/" title="查看归因报告中的全部文章" target="_blank">归因报告</a></span>**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%bd%92%e5%9b%a0%e6%8a%a5%e5%91%8a/" title="查看归因报告中的全部文章" target="_blank">归因报告</a></span>**
 
 In the Linear attribution model:  
 the last touchpoint would receive 100% of the credit for the conversion  

@@ -22,4 +22,4 @@ tags:
   - 谷歌分析个人考试
   - 谷歌分析个人考试优惠码
 ---
-<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>个人考试优惠码，原价50美金，输入这个优惠码：PerformanceMarketing（或者BrianCliftonBook2010），可以打五折，只需25美金。
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>个人考试优惠码，原价50美金，输入这个优惠码：PerformanceMarketing（或者BrianCliftonBook2010），可以打五折，只需25美金。

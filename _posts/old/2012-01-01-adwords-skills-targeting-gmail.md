@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/2a
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/1/568-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/1/568-1.gif;
 categories:
   - Google AdWords
 tags:
@@ -28,7 +28,7 @@ tags:
   - 内容网络广告
   - 展示位置广告
 ---
-作为一个铁杆Google粉丝，Gmail是我主要在用的邮箱，而且包括<a href="https://mail.google.com/a/douban.com/" rel="nofollow" target="_blank">豆瓣网</a>，<a href="https://mail.google.com/a/focalprice.com/" rel="nofollow" target="_blank">focalprice</a>，<a href="https://mail.google.com/a/lightinthebox.com/" rel="nofollow" target="_blank">lightinthebox</a>等大型网站都在使用它们的免费企业邮箱，Gmail在国外更是拥有庞大的用户群。然而，我们却很容易忽视一个细节，那就是你可以将<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e7%bd%91%e7%bb%9c%e5%b9%bf%e5%91%8a/" title="查看内容网络广告中的全部文章" target="_blank">内容网络广告</a></span>定位至Gmail。
+作为一个铁杆Google粉丝，Gmail是我主要在用的邮箱，而且包括<a href="https://mail.google.com/a/douban.com/" rel="nofollow" target="_blank">豆瓣网</a>，<a href="https://mail.google.com/a/focalprice.com/" rel="nofollow" target="_blank">focalprice</a>，<a href="https://mail.google.com/a/lightinthebox.com/" rel="nofollow" target="_blank">lightinthebox</a>等大型网站都在使用它们的免费企业邮箱，Gmail在国外更是拥有庞大的用户群。然而，我们却很容易忽视一个细节，那就是你可以将<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e7%bd%91%e7%bb%9c%e5%b9%bf%e5%91%8a/" title="查看内容网络广告中的全部文章" target="_blank">内容网络广告</a></span>定位至Gmail。
 
 #### 广告在 Gmail 上的个性化方式
 

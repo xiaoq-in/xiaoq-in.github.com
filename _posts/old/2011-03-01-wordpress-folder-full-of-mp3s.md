@@ -26,7 +26,7 @@ tags:
 ---
 其实来说，我最早是写音乐博客的，自从2008年那会从一家倒闭的音像店淘回来几十张英文CD之后，就开始真正的爱上了音乐了，几乎是每天晚上都要写上一篇。坚持了大概两年。PR那会也上升到了4，登上了易付宝的公益链接。  
 当初使用的是一款叫做podpress的插件，但是后来发现，IE浏览器无法正常使用，那个插件一起用就会使博客强制关闭。并且会在底部产生难看的广告链接，很难清除。  
-其实，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>播放的插件有很多，但是我的偏好是尽量少用，用最精简的。今天发现了一款比较好的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>播放插件，可以直接读取文件夹中的所有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>文件，然后在边栏生成链接。点击播放。  
+其实，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>播放的插件有很多，但是我的偏好是尽量少用，用最精简的。今天发现了一款比较好的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>播放插件，可以直接读取文件夹中的所有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/mp3/" title="查看MP3中的全部文章" target="_blank">MP3</a></span>文件，然后在边栏生成链接。点击播放。  
 后来，经过我的一番改进，可以直接用flash player播放了，效果见我的博客右栏。  
 编辑插件文件，把 
 *   
@@ -45,5 +45,5 @@ RewriteCond %{HTTP_REFERER} !54jack.com [NC]
 RewriteCond %{HTTP_REFERER} !www.54jack.com [NC]  
 RewriteRule .*.(mp3|jpg|gif|png|ico)$ http://g.xiaoq.in/[L,NC]
 
-其中有首歌就是那位嘻哈歌手通过邮件发送给我的，怎么样？**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/life-is-still-a-struggle/" title="查看Life Is Still A Struggle中的全部文章" target="_blank">Life Is Still A Struggle</a></span>**  
-另一首歌是，**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%8a%b1%e5%bc%80%e7%9a%84%e5%a3%b0%e9%9f%b3/" title="查看花开的声音中的全部文章" target="_blank">花开的声音</a></span>**，这也是我们公司的期刊名，不错。
+其中有首歌就是那位嘻哈歌手通过邮件发送给我的，怎么样？**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/life-is-still-a-struggle/" title="查看Life Is Still A Struggle中的全部文章" target="_blank">Life Is Still A Struggle</a></span>**  
+另一首歌是，**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%8a%b1%e5%bc%80%e7%9a%84%e5%a3%b0%e9%9f%b3/" title="查看花开的声音中的全部文章" target="_blank">花开的声音</a></span>**，这也是我们公司的期刊名，不错。

@@ -25,7 +25,7 @@ tags:
   - 翻译
   - 译言
 ---
-<span style="color: #888888;">很久没有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>了，下面发布一篇在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%af%91%e8%a8%80/" title="查看译言中的全部文章" target="_blank">译言</a></span>发布的文章，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%af%91%e8%a8%80/" title="查看译言中的全部文章" target="_blank">译言</a></span>的链接在</span><a href="http://article.yeeyan.org/view/54jack/166417?utm_source=54jack.com&utm_medium=yeeyan&utm_campaign=yeezhe" target="_blank"><span style="color: #888888;">这里</span></a><span style="color: #888888;">。</span>
+<span style="color: #888888;">很久没有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bf%bb%e8%af%91/" title="查看翻译中的全部文章" target="_blank">翻译</a></span>了，下面发布一篇在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%af%91%e8%a8%80/" title="查看译言中的全部文章" target="_blank">译言</a></span>发布的文章，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%af%91%e8%a8%80/" title="查看译言中的全部文章" target="_blank">译言</a></span>的链接在</span><a href="http://article.yeeyan.org/view/54jack/166417?utm_source=54jack.com&utm_medium=yeeyan&utm_campaign=yeezhe" target="_blank"><span style="color: #888888;">这里</span></a><span style="color: #888888;">。</span>
 
 随着全球经济的逐渐回暖，社会媒体营销变得更为重要，小型企业将会在今年获得令人兴奋的机会在新方向扩张。****
 

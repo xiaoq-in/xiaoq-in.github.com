@@ -27,11 +27,11 @@ tags:
   - 网站优化
   - 长尾关键词
 ---
-做外贸的一般都会有几个外贸<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/b2b/" title="查看B2B中的全部文章" target="_blank">B2B</a></span>平台，比如阿里巴巴、环球市场、环球资源、<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>等，今天我们就来讲讲如何完善外贸公司的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网，提升其中的产品排名，优化网站结构及内容，进而获取更多有效询盘。
+做外贸的一般都会有几个外贸<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/b2b/" title="查看B2B中的全部文章" target="_blank">B2B</a></span>平台，比如阿里巴巴、环球市场、环球资源、<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>等，今天我们就来讲讲如何完善外贸公司的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%b8%ad%e5%9b%bd%e5%88%b6%e9%80%a0/" title="查看中国制造中的全部文章" target="_blank">中国制造</a></span>网，提升其中的产品排名，优化网站结构及内容，进而获取更多有效询盘。
 
-<img class="alignnone size-full wp-image-143" title="mic" src="http://cdn.54jack.com/images/2011/02/mic.gif" alt="" width="960" height="280" />
+<img class="alignnone size-full wp-image-143" title="mic" src="http://blog.xiaoq.in/cdn/images/2011/02/mic.gif" alt="" width="960" height="280" />
 
-中国制造的年费在目前几大<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/b2b/" title="查看B2B中的全部文章" target="_blank">B2B</a></span>中算是比较低的了，但是由于不支持群发功能，询盘数量也较少。中国制造的客服人员的官方数据是平均每月15封左右算是正常，做的好可以到几百封。金牌会员可以自建页面，创建产品分类，有子账号，可以展示视频，网站顶部的企业banner是三个轮显的，可以添加产品认证，展会新闻等信息。
+中国制造的年费在目前几大<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/b2b/" title="查看B2B中的全部文章" target="_blank">B2B</a></span>中算是比较低的了，但是由于不支持群发功能，询盘数量也较少。中国制造的客服人员的官方数据是平均每月15封左右算是正常，做的好可以到几百封。金牌会员可以自建页面，创建产品分类，有子账号，可以展示视频，网站顶部的企业banner是三个轮显的，可以添加产品认证，展会新闻等信息。
 
 无论做任何网络平台，放任自由且缺乏有效管理是询盘少及垃圾询盘太多的首要原因，因为在每个网络平台，都有成功的公司。对网站进行优化主要从两个方面进行，这两者又是相辅相成的，其一是增加流量，其二是提高转化率。
 
@@ -41,7 +41,7 @@ tags:
 
 中国制造的产品发布其实也是讲究“四重匹配”的，无论任何任何平台，充其量是一个行业搜索引擎，要获得更好排名，除了花大价钱去购买竞价关键词、做广告，就是要对发布的产品进行一些改善和优化。主要体现在以下几点：
 
-标题涵盖蓝海关键词（<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%95%bf%e5%b0%be%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看长尾关键词中的全部文章" target="_blank">长尾关键词</a></span>）。
+标题涵盖蓝海关键词（<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%95%bf%e5%b0%be%e5%85%b3%e9%94%ae%e8%af%8d/" title="查看长尾关键词中的全部文章" target="_blank">长尾关键词</a></span>）。
 
 关键词重复标题中的相关重要词语。
 
@@ -49,6 +49,6 @@ tags:
 
 产品描述具有可读性，涵盖上述关键词，可包含一些图片（如认证、资质等）或者表格（如规格参数等）。表格和图片是网络最被人接受的语言，能够引起人的注意，获得更长的浏览停留时间。
 
-以上其实不仅是中国制造的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e4%bc%98%e5%8c%96/" title="查看网站优化中的全部文章" target="_blank">网站优化</a></span>，可以扩展到更多B2B平台，总结起来就是：通过优化产品获得更多展示，通过斟酌关键词和概述并对图片进行专业处理获得更多点击，通过在产品描述中放入更多产品主要参数等客户关注的信息，让客户清楚这就是他想要的，时刻保持在线（如果可能，因为有时差），让客户永远可以找到你。
+以上其实不仅是中国制造的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e4%bc%98%e5%8c%96/" title="查看网站优化中的全部文章" target="_blank">网站优化</a></span>，可以扩展到更多B2B平台，总结起来就是：通过优化产品获得更多展示，通过斟酌关键词和概述并对图片进行专业处理获得更多点击，通过在产品描述中放入更多产品主要参数等客户关注的信息，让客户清楚这就是他想要的，时刻保持在线（如果可能，因为有时差），让客户永远可以找到你。
 
 另外，对平台主页进行专业处理，可以让客户更好了解公司，产生更加强烈的信任感。如果还想了解中国制造能为贵公司网站带去多少流量，跟踪它吧，你知道的。

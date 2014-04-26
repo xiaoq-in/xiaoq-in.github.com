@@ -29,11 +29,11 @@ tags:
 ---
 <div class="post-body">
   <div>
-    Today at the <a href="http://www.gaugecon.com/#utm_source=gablog&utm_medium=blog&utm_content=announce&utm_campaign=newga-blog"><span style="color: #0083c8;"><span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> User Conference</span></a> in San Francisco, we shared a look at a new version of Google Analytics. We’ve also reached out to a small group of Analytics users to participate in the testing. If you’re part of this group you’ll see a link to the new version in your Analytics account. We’re starting small, and we’ll gradually roll the new version out to everyone.
+    Today at the <a href="http://www.gaugecon.com/#utm_source=gablog&utm_medium=blog&utm_content=announce&utm_campaign=newga-blog"><span style="color: #0083c8;"><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> User Conference</span></a> in San Francisco, we shared a look at a new version of Google Analytics. We’ve also reached out to a small group of Analytics users to participate in the testing. If you’re part of this group you’ll see a link to the new version in your Analytics account. We’re starting small, and we’ll gradually roll the new version out to everyone.
   </div>
   
   <div>
-    今天在旧金山的“<a href="http://www.gaugecon.com/#utm_source=gablog&utm_medium=blog&utm_content=announce&utm_campaign=newga-blog" target="_blank">谷歌分析用户会议</a>”上，我们分享了<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>界面。我们同事还邀请了一小部分人参与测试。如果你是其中的一员，那么你将在你的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>账号中看到指向<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>的链接。我们正在小范围测试，但是我们会逐渐把这个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>推向每一个人。
+    今天在旧金山的“<a href="http://www.gaugecon.com/#utm_source=gablog&utm_medium=blog&utm_content=announce&utm_campaign=newga-blog" target="_blank">谷歌分析用户会议</a>”上，我们分享了<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>界面。我们同事还邀请了一小部分人参与测试。如果你是其中的一员，那么你将在你的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>账号中看到指向<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>的链接。我们正在小范围测试，但是我们会逐渐把这个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%96%b0%e7%89%88/" title="查看新版中的全部文章" target="_blank">新版</a></span>推向每一个人。
   </div>
   
   <div>
@@ -44,7 +44,7 @@ tags:
   </div>
   
   <div>
-    新版的目标是更简单，更快速地获取你想要的数据，并且加强<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>平台使之给你带来重大新功能。新版本中的许多改版来源于你们的反馈。比如，你现在可以在不同时必须使用所有访客而查看多项<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>。在新版中，你还将发现其他一些你曾经十分渴望的新功能，比如多个信息中心。
+    新版的目标是更简单，更快速地获取你想要的数据，并且加强<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>平台使之给你带来重大新功能。新版本中的许多改版来源于你们的反馈。比如，你现在可以在不同时必须使用所有访客而查看多项<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>。在新版中，你还将发现其他一些你曾经十分渴望的新功能，比如多个信息中心。
   </div>
   
   <div>

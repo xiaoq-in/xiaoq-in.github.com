@@ -14,7 +14,7 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/x
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2013/3/1105-1.png;
+  - http://blog.xiaoq.in/thumb/cache/2013/3/1105-1.png;
 categories:
   - Google AdWords
 tags:
@@ -23,13 +23,13 @@ tags:
   - 再营销
   - 再营销广告
 ---
-我们每天被各种广告侵袭，随着广告主对<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>的认识逐步提升与看好，其中越来越多的广告是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>。做<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>，我们一般意义来说是希望稳固老用户，提升转化率或用户对品牌的认知度。
+我们每天被各种广告侵袭，随着广告主对<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>的认识逐步提升与看好，其中越来越多的广告是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>。做<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80%e5%b9%bf%e5%91%8a/" title="查看再营销广告中的全部文章" target="_blank">再营销广告</a></span>，我们一般意义来说是希望稳固老用户，提升转化率或用户对品牌的认知度。
 
-<img class="alignnone size-full wp-image-1112" alt="remarketing_what" src="http://cdn.xiaoq.in/2013/03/remarketing_what.png" width="590" height="301" />
+<img class="alignnone size-full wp-image-1112" alt="remarketing_what" src="http://blog.xiaoq.in/cdn/2013/03/remarketing_what.png" width="590" height="301" />
 
-然而，这并非长久之计！<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告的竞争将越来越激烈，比如用户准备买一个美白面膜，她可能会去多个品牌的官网进行调研，然后再去多个电商平台进行比较，最终再决定购买，然后再进行支付下单。这是一个“漫长的”过程，其中的竞争程度也可想而知。如果这些广告主都同时投放了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告，那么你必将进入一个白热化的竞争环境。
+然而，这并非长久之计！<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告的竞争将越来越激烈，比如用户准备买一个美白面膜，她可能会去多个品牌的官网进行调研，然后再去多个电商平台进行比较，最终再决定购买，然后再进行支付下单。这是一个“漫长的”过程，其中的竞争程度也可想而知。如果这些广告主都同时投放了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告，那么你必将进入一个白热化的竞争环境。
 
-我们一般的解决方案是设置频次、时长，根据用户所处的购买阶段设置差异化的出价，如有可能的话甚至会设置针对性的广告语。但是，如果大家都这么做了呢？在其他理想因素都大致一致的情况下，那就只能是去拼CPC了。因此，你可以看到，一般来说<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告的每次点击费用可能是内容广告中最贵的，甚至可能贵于搜索广告。
+我们一般的解决方案是设置频次、时长，根据用户所处的购买阶段设置差异化的出价，如有可能的话甚至会设置针对性的广告语。但是，如果大家都这么做了呢？在其他理想因素都大致一致的情况下，那就只能是去拼CPC了。因此，你可以看到，一般来说<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%8d%e8%90%a5%e9%94%80/" title="查看再营销中的全部文章" target="_blank">再营销</a></span>广告的每次点击费用可能是内容广告中最贵的，甚至可能贵于搜索广告。
 
 其实，我们还可以通过另外一种变通手法。再营销广告的思路是定位老用户，既然是老用户，那么通过一段时间的积累，我们可以去分析再营销广告的展示位置，和用户访问习惯，而不是一味地去轰炸用户。大致可以按照如下思路：
 
@@ -44,4 +44,4 @@ tags:
 9.  尝试不同的广告格式：一般人都习惯用文字、图片、flash，但是，可别忘了表现力最强的视频广告。这种广告，同样可以投放到大多数的内容联盟网站的，即使国内也不例外。
 10. 尝试不同的移动设备：现在大多数网民已经进入跨屏幕时代，越来越多的网民通过手机下单购买，相信在做电商的朋友一定会发现这个趋势，如果有跟踪这种层次数据的话。即使并不会马上下单，但是这种辅助转化的影响力也还是很大的。
 
-以上是关于再营销广告的一些反思，希望对各位有所帮助，最后温馨提示下，如果对所看到的某些广告实在反感，可以在“<a title="广告偏好设置" href="http://www.google.com/ads/preferences" target="_blank">广告偏好设置管理器</a>”选择停用，当然也可以清空cookie了。话说，一个真正的<span class='wp_keywordlink'><a href="https://xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>，他的广告偏好列表，必然得与其广告的目标受众有所交叉，了解行业非常重要！
+以上是关于再营销广告的一些反思，希望对各位有所帮助，最后温馨提示下，如果对所看到的某些广告实在反感，可以在“<a title="广告偏好设置" href="http://www.google.com/ads/preferences" target="_blank">广告偏好设置管理器</a>”选择停用，当然也可以清空cookie了。话说，一个真正的<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/sem/" title="SEM搜索引擎营销" target="_blank">SEM</a></span>，他的广告偏好列表，必然得与其广告的目标受众有所交叉，了解行业非常重要！

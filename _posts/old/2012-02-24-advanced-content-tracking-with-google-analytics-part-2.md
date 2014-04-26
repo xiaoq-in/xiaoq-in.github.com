@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/67
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/669-1.png;https://xiaoq.in/thumb/cache/2012/2/669-2.png;https://xiaoq.in/thumb/cache/2012/2/669-3.jpg;https://xiaoq.in/thumb/cache/2012/2/669-4.jpg;https://xiaoq.in/thumb/cache/2012/2/669-5.png;https://xiaoq.in/thumb/cache/2012/2/669-6.png;https://xiaoq.in/thumb/cache/2012/2/669-7.png;https://xiaoq.in/thumb/cache/2012/2/669-8.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/669-1.png;http://blog.xiaoq.in/thumb/cache/2012/2/669-2.png;http://blog.xiaoq.in/thumb/cache/2012/2/669-3.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/669-4.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/669-5.png;http://blog.xiaoq.in/thumb/cache/2012/2/669-6.png;http://blog.xiaoq.in/thumb/cache/2012/2/669-7.png;http://blog.xiaoq.in/thumb/cache/2012/2/669-8.jpg;
 categories:
   - Google Analytics
 tags:
@@ -29,7 +29,7 @@ tags:
   - 跳出率
   - 高级细分
 ---
-*这是高级<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e8%b7%9f%e8%b8%aa/" title="查看内容跟踪中的全部文章" target="_blank">内容跟踪</a></span>系列的第二部分。本文讲述*如何*报告和分析人们与内容进行交互的方式。*
+*这是高级<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e8%b7%9f%e8%b8%aa/" title="查看内容跟踪中的全部文章" target="_blank">内容跟踪</a></span>系列的第二部分。本文讲述*如何*报告和分析人们与内容进行交互的方式。*
 
 正如我在第一部分提及的，该技巧和概念源于协作。在此感谢这些贡献者：
 
@@ -43,7 +43,7 @@ tags:
 
 **报告**
 
-这个跟踪技巧使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>来跟踪人们在网站上滚动滚动条的行为。那么，让我们先看<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>报告。
+这个跟踪技巧使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>来跟踪人们在网站上滚动滚动条的行为。那么，让我们先看<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%ba%8b%e4%bb%b6%e8%b7%9f%e8%b8%aa/" title="查看事件跟踪中的全部文章" target="_blank">事件跟踪</a></span>报告。
 
 报告位置：内容>事件>热点事件
 
@@ -141,11 +141,11 @@ tags:
   基于实际阅读指标测量流量来源
 </div>
 
-现在，基于多少人实际看了你的内容而不是网站<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%81%9c%e7%95%99%e6%97%b6%e9%97%b4/" title="查看停留时间中的全部文章" target="_blank">停留时间</a></span>、网页<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%81%9c%e7%95%99%e6%97%b6%e9%97%b4/" title="查看停留时间中的全部文章" target="_blank">停留时间</a></span>或者访问次数，你可以真正测量某个流量来源的价值。
+现在，基于多少人实际看了你的内容而不是网站<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%81%9c%e7%95%99%e6%97%b6%e9%97%b4/" title="查看停留时间中的全部文章" target="_blank">停留时间</a></span>、网页<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%81%9c%e7%95%99%e6%97%b6%e9%97%b4/" title="查看停留时间中的全部文章" target="_blank">停留时间</a></span>或者访问次数，你可以真正测量某个流量来源的价值。
 
 注意：GA对于每次访问仅仅计算一个转化。因此一旦访客到达某个文章或页面的地步，目标将会被计算。总时间是原始的数值，并且比总目标数更大。独立事件是被包含在某特定事件中的访问数量，并且应该与目标数相同。
 
-**不要忘记<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>**
+**不要忘记<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>**
 
 这只是开头。你可以做些数据的仔细分析。如果你是一个出版商，尝试类似的细分：
 
@@ -153,14 +153,14 @@ tags:
 *   出版日期
 *   内容分类
 
-当然，你需要这些数据点以创建这些细分。我再<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>中有这些数据（因为有[Google Analytics plugin for WordPress][1]），因此我可以做类似下面的事情：
+当然，你需要这些数据点以创建这些细分。我再<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>中有这些数据（因为有[Google Analytics plugin for WordPress][1]），因此我可以做类似下面的事情：
 
 <div id="attachment_2214">
   <a href="http://cutroni.com/blog/wp-content/uploads/Screen-Shot-2012-02-23-at-5.16.43-PM.png"><img title="Creating a Custom Advanced Segment in Google Analytics." src="http://cutroni.com/blog/wp-content/uploads/Screen-Shot-2012-02-23-at-5.16.43-PM.png" alt="Creating a Custom Advanced Segment in Google Analytics." width="644" height="284" /></a>
 </div>
 
 <div>
-  你可以使用自定义<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>来细分你的阅读指标。
+  你可以使用自定义<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%ab%98%e7%ba%a7%e7%bb%86%e5%88%86/" title="查看高级细分中的全部文章" target="_blank">高级细分</a></span>来细分你的阅读指标。
 </div>
 
 细分得出的数据非常有用，但是在界面中处理它们有些挑战。如下图：
@@ -208,7 +208,7 @@ tags:
 
 **其他需要注意的事情**
 
-除了上述数据，还有更多需要注意的。首先，你的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>将会变低。变得很低。跟踪滚动的事件被记为一个交互。因此，如果放开没有看任何其他页面，他们还是**不会**被记为跳出。
+除了上述数据，还有更多需要注意的。首先，你的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>将会变低。变得很低。跟踪滚动的事件被记为一个交互。因此，如果放开没有看任何其他页面，他们还是**不会**被记为跳出。
 
 其次，你的网站停留时间和网页停留时间将增加。我不会在此深入所有细节，但是对于仅仅包括一个页面浏览的访问，Google将使用当前会话中最后交互的**GIF请求**来计算时间。因此，这将会是访客到达内容或者页面底部的时间。
 
@@ -217,7 +217,7 @@ tags:
 </div>
 
 <div>
-  如果你使用这个技术，你的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>将会降低并且网站停留时间会增加。
+  如果你使用这个技术，你的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>将会降低并且网站停留时间会增加。
 </div>
 
 你的时间测量结果将会**更加地**准确。
@@ -226,7 +226,7 @@ tags:
 
 为了将注意力集中于一些分析，我认为查看一些内容页面和实施该跟踪技术之前它们被察觉到的表现是十分有趣的。
 
-以下是以一周为时间范围针对一篇文章进行比较的数据。本周是新的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e8%b7%9f%e8%b8%aa/" title="查看内容跟踪中的全部文章" target="_blank">内容跟踪</a></span>代码。看看这些在网页停留时间和<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>方面的**巨大**差异。
+以下是以一周为时间范围针对一篇文章进行比较的数据。本周是新的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e8%b7%9f%e8%b8%aa/" title="查看内容跟踪中的全部文章" target="_blank">内容跟踪</a></span>代码。看看这些在网页停留时间和<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b7%b3%e5%87%ba%e7%8e%87/" title="查看跳出率中的全部文章" target="_blank">跳出率</a></span>方面的**巨大**差异。
 
 <div id="attachment_2207">
   <a href="http://cutroni.com/blog/wp-content/uploads/ContentComparison.jpg"><img title="Comparing content before and after the code change." src="http://cutroni.com/blog/wp-content/uploads/ContentComparison-e1329962020656.jpg" alt="Comparing content before and after the code change." width="640" height="172" /></a>
@@ -238,9 +238,9 @@ tags:
 
 很明显的改进，不是吗？代码改变之后，我获得更好的数据。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>呢？**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>呢？**
 
-如果你阅读了本系列的第一部分，那么你可能在想<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。当用户在一分钟之后到达了页面底部，这个代码确实设定了一个自定义变量。如果他们在一分钟内到达页面底部，那么他们是快速浏览者。
+如果你阅读了本系列的第一部分，那么你可能在想<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%87%aa%e5%ae%9a%e4%b9%89%e5%8f%98%e9%87%8f/" title="查看自定义变量中的全部文章" target="_blank">自定义变量</a></span>。当用户在一分钟之后到达了页面底部，这个代码确实设定了一个自定义变量。如果他们在一分钟内到达页面底部，那么他们是快速浏览者。
 
 在看到有那么少人确实到达页面底部之后，我想这段代码应该移到内容部分的底部。因此，我移动了代码。我还改变了代码，使其成为页面级自定义变量。
 
@@ -252,6 +252,6 @@ tags:
 
 再次感谢所有协作贡献者。
 
-<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a title="Advanced Content Tracking with Google Analytics: Part 2" href="http://cutroni.com/blog/2012/02/23/advanced-content-tracking-with-google-analytics-part-2/" target="_blank">http://cutroni.com/blog/2012/02/23/advanced-content-tracking-with-google-analytics-part-2/</a>
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a title="Advanced Content Tracking with Google Analytics: Part 2" href="http://cutroni.com/blog/2012/02/23/advanced-content-tracking-with-google-analytics-part-2/" target="_blank">http://cutroni.com/blog/2012/02/23/advanced-content-tracking-with-google-analytics-part-2/</a>
 
  [1]: http://yoast.com/wordpress/google-analytics/

@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/5n
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/12/562-1.png;https://xiaoq.in/thumb/cache/2011/12/562-2.png;https://xiaoq.in/thumb/cache/2011/12/562-3.png;https://xiaoq.in/thumb/cache/2011/12/562-4.png;https://xiaoq.in/thumb/cache/2011/12/562-5.png;https://xiaoq.in/thumb/cache/2011/12/562-6.png;
+  - http://blog.xiaoq.in/thumb/cache/2011/12/562-1.png;http://blog.xiaoq.in/thumb/cache/2011/12/562-2.png;http://blog.xiaoq.in/thumb/cache/2011/12/562-3.png;http://blog.xiaoq.in/thumb/cache/2011/12/562-4.png;http://blog.xiaoq.in/thumb/cache/2011/12/562-5.png;http://blog.xiaoq.in/thumb/cache/2011/12/562-6.png;
 categories:
   - Google AdWords
   - Google Analytics
@@ -30,10 +30,10 @@ tags:
 ---
 Google的展示网络广告可以为你带来大量点击和转化。但是没有用对的话，则会很快浪费大量预算并且没有任何产出。
 
-几年前，我写过一篇关于如何管理<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%86%85%e5%ae%b9%e7%bd%91%e7%bb%9c%e5%b9%bf%e5%91%8a/" title="查看内容网络广告中的全部文章" target="_blank">内容网络广告</a></span>的文章，以便让你把大多数的钱花在能带来高质量流量的网站上。下面这个流程图直到现在我还在用。
+几年前，我写过一篇关于如何管理<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%86%85%e5%ae%b9%e7%bd%91%e7%bb%9c%e5%b9%bf%e5%91%8a/" title="查看内容网络广告中的全部文章" target="_blank">内容网络广告</a></span>的文章，以便让你把大多数的钱花在能带来高质量流量的网站上。下面这个流程图直到现在我还在用。
 
-*   “探索系列”每日预算较低，它的目标是发现可以花费更多钱的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae/" title="查看展示位置中的全部文章" target="_blank">展示位置</a></span>。
-*   <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae/" title="查看展示位置中的全部文章" target="_blank">展示位置</a></span>广告系列预算较高，其中只保护能为你达到总体目标的网站。
+*   “探索系列”每日预算较低，它的目标是发现可以花费更多钱的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae/" title="查看展示位置中的全部文章" target="_blank">展示位置</a></span>。
+*   <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b1%95%e7%a4%ba%e4%bd%8d%e7%bd%ae/" title="查看展示位置中的全部文章" target="_blank">展示位置</a></span>广告系列预算较高，其中只保护能为你达到总体目标的网站。
 
 &nbsp;
 
@@ -43,9 +43,9 @@ Google的展示网络广告可以为你带来大量点击和转化。但是没�
 
 尽管我发现这个流程图非常有用，但是整体有一个问题他就是：何时决定屏蔽展示位置？在AdWords账户中，你能看到关于任何展示位置的唯一数据便是转化数和转化率。问题是，你掌握如此少的数据，以至于如何等到积累足够的具有统计意义的大量数据再做决定，你将无法找到所有好的展示位置，并且浪费很多钱在效果差的展示位置上。
 
-还有另外一种方法，那就是通过<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>获得关于展示位置效果的数据，从而决定某个网站是否给你带来高质量流量。
+还有另外一种方法，那就是通过<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>获得关于展示位置效果的数据，从而决定某个网站是否给你带来高质量流量。
 
-## 通过<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>评估展示位置
+## 通过<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>评估展示位置
 
 <img title="image" src="http://certifiedknowledge.org/wp-content/uploads/2011/09/image.png" alt="image" width="153" height="178" align="left" border="0" />
 
@@ -81,11 +81,11 @@ Google的展示网络广告可以为你带来大量点击和转化。但是没�
 
 请注意，你不应该只是屏蔽跳出率为100%的网站。你应该再三核查广告语以及登陆页面以确保广告提及的与网站内容相关。如果你总是看到展示广告系列跳出率很高，那么在决定屏蔽这些展示位置前，你可能需要更换广告语或者登陆页面。
 
-请记住，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>中的跳出是指一个访问只进入一个页面然后离开了你的网站。如果某个人到达你的着陆页面，然后给你打电话，并在电话中完成了一个订单，最后离开你的网站&#8212;尽管他们跟你打了20分钟的电话，他们仍然将会被计为跳出。
+请记住，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>中的跳出是指一个访问只进入一个页面然后离开了你的网站。如果某个人到达你的着陆页面，然后给你打电话，并在电话中完成了一个订单，最后离开你的网站&#8212;尽管他们跟你打了20分钟的电话，他们仍然将会被计为跳出。
 
 ### 创建互动目标
 
-查看一个网站是否带了较好的流量的一种捷径是在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>中创建互动目标。通过GA，你可以创建基于网站停留时间或者每次访问页数的目标。
+查看一个网站是否带了较好的流量的一种捷径是在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google-analytics/" title="查看Google Analytics中的全部文章" target="_blank">Google Analytics</a></span>中创建互动目标。通过GA，你可以创建基于网站停留时间或者每次访问页数的目标。
 
 &nbsp;
 
@@ -109,4 +109,4 @@ Google的展示网络广告可以为你带来大量点击和转化。但是没�
 
 通过使用Google Analytics来评估AdWords数据，你可以跳出仅仅考察转化率的范畴，同时考察互动率以及从另外一个角度看待投放广告的展示位置网站，这样你就可以把预算花得尽可能聪明点。
 
-<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://certifiedknowledge.org/blog/save-money-on-placements-with-google-analytics/" target="_blank">http://certifiedknowledge.org/blog/save-money-on-placements-with-google-analytics/</a>
+<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>，原创翻译自：<a href="http://certifiedknowledge.org/blog/save-money-on-placements-with-google-analytics/" target="_blank">http://certifiedknowledge.org/blog/save-money-on-placements-with-google-analytics/</a>

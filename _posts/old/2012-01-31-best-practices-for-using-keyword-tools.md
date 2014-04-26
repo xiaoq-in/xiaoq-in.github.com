@@ -27,10 +27,10 @@ tags:
   - 最佳实践
 ---
 <p align="left">
-  <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>并不会告诉你应该使用什么关键词；他们给你提供关键词建议，你可以选择使用或者忽略。然而，使用<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>对你账户中关键词的各种可能进行全面广泛研究是非常必要的。关键词是思考过程，并且每个人的思维方式均不同。
+  <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>并不会告诉你应该使用什么关键词；他们给你提供关键词建议，你可以选择使用或者忽略。然而，使用<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>对你账户中关键词的各种可能进行全面广泛研究是非常必要的。关键词是思考过程，并且每个人的思维方式均不同。
 </p>
 
-*   AdWords<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>应该是进行关键词研究时最先使用的工具之一。
+*   AdWords<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%85%b3%e9%94%ae%e5%ad%97%e5%b7%a5%e5%85%b7/" title="查看关键字工具中的全部文章" target="_blank">关键字工具</a></span>应该是进行关键词研究时最先使用的工具之一。
 *   当你有一个关键词列表并且希望基于该列表获得建议时，使用AdWords关键字工具中的描述性字词或词组这个选项。
 *   当你希望从一个网站提取数据时，使用AdWords关键字工具中的网站内容选项。尝试输入你的网址，你竞争对手的网址，搜索结果或者在线词典的网址，以查找新关键词。每当看到一个你认为与你的产品高度相关的网页时，输入这个网址到AdWords关键词工具中以查看是否有新关键词与你的账户相关。
 *   一旦你使用AdWords关键词工具找到关键词，你可以保存这些关键词到一个广告组中或者导出来组织并在之后使用。

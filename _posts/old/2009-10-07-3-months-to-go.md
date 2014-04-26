@@ -17,7 +17,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/1u
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2009/10/333-1.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2009/10/333-1.jpg;
 categories:
   - 生活札记
 tags:
@@ -27,7 +27,7 @@ tags:
 ---
 [<img class="alignleft" src="http://t.douban.com/lpic/s3902494.jpg" alt="" width="350" height="350" />][1]
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%9b%bd%e5%ba%86/" title="查看国庆中的全部文章" target="_blank">国庆</a></span>已过，中秋已过，生日已过。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%9b%bd%e5%ba%86/" title="查看国庆中的全部文章" target="_blank">国庆</a></span>已过，中秋已过，生日已过。
 
 现如今的我，仿若这左边的小孩。
 
@@ -35,7 +35,7 @@ tags:
 
 还有三个月，无法闲置，无以闲适。
 
-整整浪费了一周，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%a1%e5%88%92/" title="查看计划中的全部文章" target="_blank">计划</a></span>需要加紧实施。
+整整浪费了一周，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%a1%e5%88%92/" title="查看计划中的全部文章" target="_blank">计划</a></span>需要加紧实施。
 
 站了五个小时的车，头晕目眩；
 
@@ -53,7 +53,7 @@ tags:
 
 本来是想做个生日策划的，本来是写好了文稿，想录一期节目，作为六点电台的开播曲目。（<span style="color: #808080">后发现写得太过伤感，还是不公布了</span>）
 
-还有一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%ae%a1%e5%88%92/" title="查看计划中的全部文章" target="_blank">计划</a></span>也暂时休止了。这是没有办法的。我，没有时间，没有心绪，没有感觉。
+还有一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%ae%a1%e5%88%92/" title="查看计划中的全部文章" target="_blank">计划</a></span>也暂时休止了。这是没有办法的。我，没有时间，没有心绪，没有感觉。
 
 但是，这只是本来。本来的东西，预示着也不可能。不可能是现在的结局。就此罢休吧。也罢。
 

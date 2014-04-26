@@ -14,26 +14,26 @@ views:
 yourls_shorturl:
   - http://t.xiaoq.in/1o
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/8/853-1.gif;https://xiaoq.in/thumb/cache/2012/8/853-2.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/8/853-1.gif;http://blog.xiaoq.in/thumb/cache/2012/8/853-2.gif;
 categories:
   - Google AdWords
 tags:
   - Google再营销
   - 谷歌再营销
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%86%8d%e8%90%a5%e9%94%80/" title="查看谷歌再营销中的全部文章" target="_blank">谷歌再营销</a></span>并不是一个新的产品，然而最近<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/google%e5%86%8d%e8%90%a5%e9%94%80/" title="查看Google再营销中的全部文章" target="_blank">Google再营销</a></span>的频繁更新，让我对它的兴趣达到了另一个顶峰，这是任何一个广告商都应该尝试的功能！
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%86%8d%e8%90%a5%e9%94%80/" title="查看谷歌再营销中的全部文章" target="_blank">谷歌再营销</a></span>并不是一个新的产品，然而最近<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/google%e5%86%8d%e8%90%a5%e9%94%80/" title="查看Google再营销中的全部文章" target="_blank">Google再营销</a></span>的频繁更新，让我对它的兴趣达到了另一个顶峰，这是任何一个广告商都应该尝试的功能！
 
-现在，<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%86%8d%e8%90%a5%e9%94%80/" title="查看谷歌再营销中的全部文章" target="_blank">谷歌再营销</a></span>允许你在多个地方进行设置，并且支持更强大的自定义功能，通过这些自定义你可以将你的营销策略带入另一个巅峰。再营销的作用已经不言而喻了，对于品牌推广客户，通过再营销你可以让你的品牌在目标受众的脑海一遍遍地回荡，加深品牌渗透度；而对于电商类客户来说，在这个竞争如此激烈的市场，没有再营销的帮助，你的回头客或者用户忠诚度也将降低，并且很有可能被竞争对手抢走即将到手的订单。
+现在，<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%86%8d%e8%90%a5%e9%94%80/" title="查看谷歌再营销中的全部文章" target="_blank">谷歌再营销</a></span>允许你在多个地方进行设置，并且支持更强大的自定义功能，通过这些自定义你可以将你的营销策略带入另一个巅峰。再营销的作用已经不言而喻了，对于品牌推广客户，通过再营销你可以让你的品牌在目标受众的脑海一遍遍地回荡，加深品牌渗透度；而对于电商类客户来说，在这个竞争如此激烈的市场，没有再营销的帮助，你的回头客或者用户忠诚度也将降低，并且很有可能被竞争对手抢走即将到手的订单。
 
-现在，你可以在两个地方进行再营销设置：<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>和<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>。在Google AdWords中，你甚至可以不用添加代码（添加代码是一件十分麻烦的事情，特别是当你的网页数量过万，产品类别N多的时候，这对于电子商务企业来说绝对是一个福音，因为他们一般也做SEO，而SEO的一个基本规范&#8212;URL规范化，已经让他们具备使用这个功能的先决条件）；在Google Analytics中，从技术层面来讲也非常简单，只需替换一行代码即可（<a title="Update Your Analytics Tracking Code to Support Display Advertising" href="http://support.google.com/analytics/bin/answer.py?hl=en&answer=2444872" target="_blank">Update Your Analytics Tracking Code to Support Display Advertising</a>），从实现形式上来讲，你可以进行更多定义：访问网页（所有用户或到达特定页面的用户）、目标转化（需要设置目标转化）、访客细分（需要新建profile设置相应的细分）、会员时效（同样是最长540天，即一年半）。
+现在，你可以在两个地方进行再营销设置：<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>和<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span>。在Google AdWords中，你甚至可以不用添加代码（添加代码是一件十分麻烦的事情，特别是当你的网页数量过万，产品类别N多的时候，这对于电子商务企业来说绝对是一个福音，因为他们一般也做SEO，而SEO的一个基本规范&#8212;URL规范化，已经让他们具备使用这个功能的先决条件）；在Google Analytics中，从技术层面来讲也非常简单，只需替换一行代码即可（<a title="Update Your Analytics Tracking Code to Support Display Advertising" href="http://support.google.com/analytics/bin/answer.py?hl=en&answer=2444872" target="_blank">Update Your Analytics Tracking Code to Support Display Advertising</a>），从实现形式上来讲，你可以进行更多定义：访问网页（所有用户或到达特定页面的用户）、目标转化（需要设置目标转化）、访客细分（需要新建profile设置相应的细分）、会员时效（同样是最长540天，即一年半）。
 
-<img class="alignnone size-full wp-image-855" title="remarketing-list" src="http://cdn.xiaoq.in/2012/08/remarketing-list.gif" alt="" width="791" height="625" />
+<img class="alignnone size-full wp-image-855" title="remarketing-list" src="http://blog.xiaoq.in/cdn/2012/08/remarketing-list.gif" alt="" width="791" height="625" />
 
 当你在GA中设置完成之后，便可以到Google AdWords的后台添加该项再营销列表或者将其与其他再营销列表或者其他定位方式进行组合。
 
 而在Google AdWords中，如上面所说，除了可以通过传统的方式添加代码到相应的页面实现再营销之外，你还可以通过设定访客到底某一个URL来实现，无需添加代码。进入共享库，新建再营销列表，进入下图所示页面即可完成相关设置：
 
-<img class="alignnone size-full wp-image-856" title="adwords-remarketing" src="http://cdn.xiaoq.in/2012/08/adwords-remarketing.gif" alt="" width="1010" height="460" />
+<img class="alignnone size-full wp-image-856" title="adwords-remarketing" src="http://blog.xiaoq.in/cdn/2012/08/adwords-remarketing.gif" alt="" width="1010" height="460" />
 
 同样，当你在Google AdWords的共享库中设置完成之后，便可以到Google AdWords的后台添加该项再营销列表或者将其与其他再营销列表或者其他定位方式进行组合。
 

@@ -28,11 +28,11 @@ tags:
   - 网站联盟
   - 网站联盟工具条
 ---
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8d%93%e8%b6%8a%e7%bd%91/" title="查看卓越网中的全部文章" target="_blank">卓越网</a></span>是我最常去的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e4%b8%8a%e8%b4%ad%e7%89%a9/" title="查看网上购物中的全部文章" target="_blank">网上购物</a></span>网站，目前已经是<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/vip/" title="查看VIP中的全部文章" target="_blank">VIP</a></span><span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>，累计消费金额达三千元，可以享受一些优惠。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8d%93%e8%b6%8a%e7%bd%91/" title="查看卓越网中的全部文章" target="_blank">卓越网</a></span>是我最常去的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e4%b8%8a%e8%b4%ad%e7%89%a9/" title="查看网上购物中的全部文章" target="_blank">网上购物</a></span>网站，目前已经是<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/vip/" title="查看VIP中的全部文章" target="_blank">VIP</a></span><span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>，累计消费金额达三千元，可以享受一些优惠。
 
-**<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>资格**
+**<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>资格**
 
-该计划有两类<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>：<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/vip/" title="查看VIP中的全部文章" target="_blank">VIP</a></span>会员和SVIP会员。
+该计划有两类<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e4%bc%9a%e5%91%98/" title="查看会员中的全部文章" target="_blank">会员</a></span>：<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/vip/" title="查看VIP中的全部文章" target="_blank">VIP</a></span>会员和SVIP会员。
 
 如果在任何一个连续十二个月的期间里，您的合格购物的总额达到或超过1,888元人民币，您将会成为VIP会员；如果在任何一个连续十二个月的期间里，您的合格购物的总额达到或超过5,888元人民币，您将会成为SVIP会员。上述的金额中包括税收和礼品包装费，但不含运费和配送费用。如果您取消了一份合格购物的订单，或者将本来属于合格购物的商品退货，我们在确定您在计划中的VIP/SVIP资格时，则不予考虑计算该订单或商品的金额。“合格购物”是指购买卓越在卓越亚马逊网站上出售的商品，但不包括购买礼品卡以及卓越决定不参加计划的其它商品。卓越对您合格购物额的系统统计/确认时间为您每份订单中的商品从卓越库房发出之日起的第十五日。
 
@@ -46,17 +46,17 @@ VIP/SVIP会员可以在购买符合条件的商品时，在卓越价的基础上
 
 计划项下的折扣仅限于卓越在卓越亚马逊网站出售的特定商品。我们可以随时自行决定哪些商品适用或不适用计划项下折扣条件， 而无需事先通知。
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%8d%93%e8%b6%8a%e7%bd%91/" title="查看卓越网中的全部文章" target="_blank">卓越网</a></span>有一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f/" title="查看网站联盟中的全部文章" target="_blank">网站联盟</a></span>，站长通过在文章中推荐卓越上卖的东西，用户点击并购买后，站长可以获得一定的分成。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%8d%93%e8%b6%8a%e7%bd%91/" title="查看卓越网中的全部文章" target="_blank">卓越网</a></span>有一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f/" title="查看网站联盟中的全部文章" target="_blank">网站联盟</a></span>，站长通过在文章中推荐卓越上卖的东西，用户点击并购买后，站长可以获得一定的分成。
 
-最近登录<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f/" title="查看网站联盟中的全部文章" target="_blank">网站联盟</a></span>账号，发现快其中新增了一个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看网站联盟工具条中的全部文章" target="_blank">网站联盟工具条</a></span>，这个<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>同<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>样式基本类似，但是它可以点击关闭，而<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>的则需要通过代码控制关闭。
+最近登录<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f/" title="查看网站联盟中的全部文章" target="_blank">网站联盟</a></span>账号，发现快其中新增了一个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看网站联盟工具条中的全部文章" target="_blank">网站联盟工具条</a></span>，这个<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>同<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>样式基本类似，但是它可以点击关闭，而<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>的则需要通过代码控制关闭。
 
 卓越的这个工具可以让站长方便的添加联盟链接，查看收益报表，联盟新闻。
 
-<img class="alignnone size-full wp-image-131" title="asso-site-stripe__V171309618_" src="http://cdn.54jack.com/images/2011/02/asso-site-stripe__V171309618_.gif" alt="" width="278" height="210" />
+<img class="alignnone size-full wp-image-131" title="asso-site-stripe__V171309618_" src="http://blog.xiaoq.in/cdn/images/2011/02/asso-site-stripe__V171309618_.gif" alt="" width="278" height="210" />
 
-## <span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看网站联盟工具条中的全部文章" target="_blank">网站联盟工具条</a></span>
+## <span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%ab%99%e8%81%94%e7%9b%9f%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看网站联盟工具条中的全部文章" target="_blank">网站联盟工具条</a></span>
 
-网站联盟<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>让您能够方便地从任何Amazon.cn页面建立链接
+网站联盟<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b7%a5%e5%85%b7%e6%9d%a1/" title="查看工具条中的全部文章" target="_blank">工具条</a></span>让您能够方便地从任何Amazon.cn页面建立链接
 
 *   快速方便地在浏览卓越亚马逊页面的时候建立链接。
 

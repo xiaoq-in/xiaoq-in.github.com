@@ -15,7 +15,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/6s
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2011/4/257-1.jpg;https://xiaoq.in/thumb/cache/2011/4/257-2.jpg;https://xiaoq.in/thumb/cache/2011/4/257-3.jpg;https://xiaoq.in/thumb/cache/2011/4/257-4.jpg;https://xiaoq.in/thumb/cache/2011/4/257-5.jpg;https://xiaoq.in/thumb/cache/2011/4/257-6.jpg;
+  - http://blog.xiaoq.in/thumb/cache/2011/4/257-1.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/257-2.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/257-3.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/257-4.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/257-5.jpg;http://blog.xiaoq.in/thumb/cache/2011/4/257-6.jpg;
 categories:
   - Google Analytics
 tags:
@@ -26,11 +26,11 @@ tags:
   - 翻译
   - 谷歌分析
 ---
-**下文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>摘译自<a title="谷歌分析云字词" href="http://www.blastam.com/blog/index.php/2011/03/term-clouds-google-analytics/" target="_blank">这篇</a>文章，主要介绍了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>是什么，怎么使用，利用谷歌新版中的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>，如何更好地指导SEO（搜索引擎优化），方便直观地识别高质量关键词、低质量关键词，网站SEO的表现情况。**
+**下文由<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span><span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>摘译自<a title="谷歌分析云字词" href="http://www.blastam.com/blog/index.php/2011/03/term-clouds-google-analytics/" target="_blank">这篇</a>文章，主要介绍了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>是什么，怎么使用，利用谷歌新版中的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>，如何更好地指导SEO（搜索引擎优化），方便直观地识别高质量关键词、低质量关键词，网站SEO的表现情况。**
 
-**Now**, in <span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Version 5 there is a new report view called “**Term Cloud**“, which is easily accessible within almost all of the “Traffic Sources > Incoming Sources” reports.
+**Now**, in <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="Google Analytics" target="_blank">Google Analytics</a></span> Version 5 there is a new report view called “**Term Cloud**“, which is easily accessible within almost all of the “Traffic Sources > Incoming Sources” reports.
 
-在最新版的<span class='wp_keywordlink'><a href="https://xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>（第五版）中有一个新的报告视图，叫做“<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>”，在几乎所有的流量来源>入站来源报告中都可以轻松查看。
+在最新版的<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-analytics/" title="谷歌分析" target="_blank">谷歌分析</a></span>（第五版）中有一个新的报告视图，叫做“<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%ad%97%e8%af%8d%e4%ba%91/" title="查看字词云中的全部文章" target="_blank">字词云</a></span>”，在几乎所有的流量来源>入站来源报告中都可以轻松查看。
 
 ## Wait…What the Heck is a Term Cloud?!?
 
@@ -57,7 +57,7 @@ Within the “Search” reports and the “Adwords > Keywords” reports you can
 </div>
 
 <div>
-  如何在<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>中使用字词云视图
+  如何在<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e8%b0%b7%e6%ad%8c%e5%88%86%e6%9e%90/" title="查看谷歌分析中的全部文章" target="_blank">谷歌分析</a></span>中使用字词云视图
 </div>
 
 After you change the view from the default “Data” view to the “Term Cloud” view, it is recommended that you change your date range to 90 days for improved data analysis reliability.

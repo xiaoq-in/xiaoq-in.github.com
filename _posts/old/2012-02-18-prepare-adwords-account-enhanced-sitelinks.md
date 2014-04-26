@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/2u
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/641-1.png;https://xiaoq.in/thumb/cache/2012/2/641-2.png;https://xiaoq.in/thumb/cache/2012/2/641-3.png;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/641-1.png;http://blog.xiaoq.in/thumb/cache/2012/2/641-2.png;http://blog.xiaoq.in/thumb/cache/2012/2/641-3.png;
 categories:
   - Google AdWords
 tags:
@@ -26,7 +26,7 @@ tags:
   - 改善的广告附加链接
   - 附加链接
 ---
-本周二，Google宣布他们将对AdWords<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>的格式进行另外一项更新，这对我来说看起来不错&#8212;广告人，情人节快乐！这个新格式叫做<a title="改善的广告附加链接" href="http://adwords.blogspot.com/2012/02/introducing-enhanced-ad-sitelinks.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FATHs+%28Inside+AdWords+-+EN%29&utm_content=Google+Reader" target="_blank">改善的广告附加链接</a>，简言之，它不仅允许广告商可以对网站中的不同页面展现额外的广告链接，还允许广告商展现额外的广告！以下是Google在Inside AdWords博客上发布的一个例子：
+本周二，Google宣布他们将对AdWords<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>的格式进行另外一项更新，这对我来说看起来不错&#8212;广告人，情人节快乐！这个新格式叫做<a title="改善的广告附加链接" href="http://adwords.blogspot.com/2012/02/introducing-enhanced-ad-sitelinks.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FATHs+%28Inside+AdWords+-+EN%29&utm_content=Google+Reader" target="_blank">改善的广告附加链接</a>，简言之，它不仅允许广告商可以对网站中的不同页面展现额外的广告链接，还允许广告商展现额外的广告！以下是Google在Inside AdWords博客上发布的一个例子：
 
 &nbsp;
 
@@ -34,7 +34,7 @@ tags:
   <img src="http://www.lunametrics.com/wp-content/uploads/2012/02/Sample-Ad.png" alt="Sample AdWords Ad" width="436" height="161" />
 </center>&nbsp;
 
-这种格式极大地提高了一个广告商在一个页面中可以占据的展示面积，从而提升更高点击率的概率。事实上，Google报告说当测试改善的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看附加链接中的全部文章" target="_blank">附加链接</a></span>时，其点击率比传统的<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看附加链接中的全部文章" target="_blank">附加链接</a></span>的高出很多。
+这种格式极大地提高了一个广告商在一个页面中可以占据的展示面积，从而提升更高点击率的概率。事实上，Google报告说当测试改善的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看附加链接中的全部文章" target="_blank">附加链接</a></span>时，其点击率比传统的<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看附加链接中的全部文章" target="_blank">附加链接</a></span>的高出很多。
 
 ## 工作原理
 
@@ -70,4 +70,4 @@ tags:
 
 看起来改善的附加链接对于Google和广告商是一个共赢，在所有行业都是如此。我很兴奋地看到这些新的附加链接展现出来并且继续去测量这些附加链接的效果。你是否有相关经验呢？请分享吧！我们酷爱听到你们的看法！
 
-<span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a title="How to Prepare your AdWords Account for Enhanced Sitelinks" href="http://www.lunametrics.com/blog/2012/02/16/prepare-adwords-account-enhanced-sitelinks/" target="_blank">http://www.lunametrics.com/blog/2012/02/16/prepare-adwords-account-enhanced-sitelinks/</a>
+<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自：<a title="How to Prepare your AdWords Account for Enhanced Sitelinks" href="http://www.lunametrics.com/blog/2012/02/16/prepare-adwords-account-enhanced-sitelinks/" target="_blank">http://www.lunametrics.com/blog/2012/02/16/prepare-adwords-account-enhanced-sitelinks/</a>

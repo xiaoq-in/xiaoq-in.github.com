@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/56
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/2/639-1.jpg;https://xiaoq.in/thumb/cache/2012/2/639-2.jpg;https://xiaoq.in/thumb/cache/2012/2/639-3.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/2/639-1.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/639-2.jpg;http://blog.xiaoq.in/thumb/cache/2012/2/639-3.gif;
 categories:
   - Google AdWords
 tags:
@@ -27,7 +27,7 @@ tags:
   - 广告附加链接加强版
   - 改善的广告附加链接
 ---
-比如说你在运行一个带有<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>的广告系列。在某些情况下，我们可能会通过额外增加你提供的关于这些附加页面的信息来自动改善你的附加链接。比如，来自你账户中的不同广告。通过在附加链接中展现更多信息，你的广告将会与潜在客户更具相关性。
+比如说你在运行一个带有<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>的广告系列。在某些情况下，我们可能会通过额外增加你提供的关于这些附加页面的信息来自动改善你的附加链接。比如，来自你账户中的不同广告。通过在附加链接中展现更多信息，你的广告将会与潜在客户更具相关性。
 
 <div>
   <h4>
@@ -35,7 +35,7 @@ tags:
   </h4>
   
   <p>
-    你给你的披萨店广告系列创建了<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，并且你的广告会像以下这个广告类似地显示广告附加链接:
+    你给你的披萨店广告系列创建了<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看广告附加链接中的全部文章" target="_blank">广告附加链接</a></span>，并且你的广告会像以下这个广告类似地显示广告附加链接:
   </p>
   
   <p>
@@ -87,7 +87,7 @@ tags:
   </h4>
   
   <p>
-    我们只会在当你的广告附加链接广告系列满足包含以下的特定条件时才会展现<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e6%94%b9%e5%96%84%e7%9a%84%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看改善的广告附加链接中的全部文章" target="_blank">改善的广告附加链接</a></span>：
+    我们只会在当你的广告附加链接广告系列满足包含以下的特定条件时才会展现<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e6%94%b9%e5%96%84%e7%9a%84%e5%b9%bf%e5%91%8a%e9%99%84%e5%8a%a0%e9%93%be%e6%8e%a5/" title="查看改善的广告附加链接中的全部文章" target="_blank">改善的广告附加链接</a></span>：
   </p>
   
   <ul>
@@ -146,6 +146,6 @@ tags:
   </p>
   
   <p>
-    <span class='wp_keywordlink'><a href="https://xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>帮助中心：<a title="Show links to pages from your website below your ad text" href="http://support.google.com/adwords/bin/answer.py?hl=en&answer=2375416" target="_blank">http://support.google.com/adwords/bin/answer.py?hl=en&answer=2375416</a>
+    <span class='wp_keywordlink'><a href="http://blog.xiaoq.in/" title="肖庆" target="_blank">肖庆</a></span>原创翻译自<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>帮助中心：<a title="Show links to pages from your website below your ad text" href="http://support.google.com/adwords/bin/answer.py?hl=en&answer=2375416" target="_blank">http://support.google.com/adwords/bin/answer.py?hl=en&answer=2375416</a>
   </p>
 </div>

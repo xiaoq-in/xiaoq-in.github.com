@@ -18,7 +18,7 @@ duoshuo_thread_id:
 yourls_shorturl:
   - http://t.xiaoq.in/27
 ta-thumbnail:
-  - https://xiaoq.in/thumb/cache/2012/1/595-1.gif;
+  - http://blog.xiaoq.in/thumb/cache/2012/1/595-1.gif;
 categories:
   - Google AdWords
 tags:
@@ -26,7 +26,7 @@ tags:
   - Google AdWords 优惠申请
   - Google Adwords优惠券
 ---
-一时兴起，在1月6日去申请了<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的350元优惠券，完全免费，连50元开户费也不要，于是就拿这350元去测试学习一些平常工作中可能不太敢轻易去尝试的东西。到现在再营销用户已经超过了100个，于是也通过再营销带来了一些访问；展示次数为69,680，点击次数为60，总共花费￥118.44元，平均每次点击费用为￥1.97。或许，你已经看过我的广告，那么就说说我是怎么“浪费”这350元的。  
+一时兴起，在1月6日去申请了<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="Google Adwords" target="_blank">Google Adwords</a></span>的350元优惠券，完全免费，连50元开户费也不要，于是就拿这350元去测试学习一些平常工作中可能不太敢轻易去尝试的东西。到现在再营销用户已经超过了100个，于是也通过再营销带来了一些访问；展示次数为69,680，点击次数为60，总共花费￥118.44元，平均每次点击费用为￥1.97。或许，你已经看过我的广告，那么就说说我是怎么“浪费”这350元的。  
 <img src="http://xiaoq.in/g/pics/2012/01/adwords_coupon_350.gif" alt="" title="adwords_coupon_350" width="240" height="160" class="alignnone size-full wp-image-596" />
 
 浪费时间是快乐的，生命中有些时间就是用来浪费的。  
@@ -46,6 +46,6 @@ tags:
 
 以上就是我玩350元Google Adwords的基本思路，如果你也会以上这些步骤，去一般的小公司做作Adwords广告应该是没问题的。当然你还可以在其中挖掘更多东西，比如关键词筛选，广告语对比，出价调整，效果跟踪；你还可以去下载一个叫做Adwords编辑器的东西好好玩玩，去申请一个所谓的经理账户玩玩（免费的），去找一本Excel的书好好练练（推荐ExcelHome的）公式函数之类的。如果你觉得懂得差不多了，可以去尝试考下Google Adwords的几个认证考试（强烈建议先读完帮助中心和学习中心的东西）。
 
-做<span class='wp_keywordlink'><a href="https://xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>是一个烧钱的行业，基本的一些操作其实无外乎就是那么些，但是真要做细致了，这350元就够你折腾的了。成功与否的关键词关键词除了技巧之外，关键还要看你对于用户和产品的准确深入研究，创意，数据分析，以及不断“测试”，always be tesing!
+做<span class='wp_keywordlink'><a href="http://blog.xiaoq.in/google-adwords/" title="谷歌广告" target="_blank">谷歌广告</a></span>是一个烧钱的行业，基本的一些操作其实无外乎就是那么些，但是真要做细致了，这350元就够你折腾的了。成功与否的关键词关键词除了技巧之外，关键还要看你对于用户和产品的准确深入研究，创意，数据分析，以及不断“测试”，always be tesing!
 
 想要获得350元的优惠券？去谷歌搜索：<a href="http://www.google.com.hk/#hl=zh-CN&#038;q=Google+Adwords&#038;fp=1" title="Google Adwords" target="_blank">Google Adwords</a>吧，你会看到它们的广告的。

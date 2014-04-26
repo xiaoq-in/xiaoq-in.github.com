@@ -23,7 +23,7 @@ tags:
   - 网络推广
   - 网络营销
 ---
-做<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%bb%9c%e6%8e%a8%e5%b9%bf/" title="查看网络推广中的全部文章" target="_blank">网络推广</a></span>时候，经常碰到的一个问题是你需要多少预算？
+做<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%bb%9c%e6%8e%a8%e5%b9%bf/" title="查看网络推广中的全部文章" target="_blank">网络推广</a></span>时候，经常碰到的一个问题是你需要多少预算？
 
 越多越好，对吗？
 
@@ -33,4 +33,4 @@ tags:
 
 你或许会说，我当然是希望获得越多越好的询盘了。这是一种毫无目标的行为，是市场营销中必须极力克制的一种行为，否则将落入漫无目的，碌碌无为。
 
-<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/%e7%bd%91%e7%bb%9c%e8%90%a5%e9%94%80/" title="查看网络营销中的全部文章" target="_blank">网络营销</a></span>，说句实在的，就是花小钱买大钱。投入与产出的性价比是制定各项决策的一个重要参考。
+<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/%e7%bd%91%e7%bb%9c%e8%90%a5%e9%94%80/" title="查看网络营销中的全部文章" target="_blank">网络营销</a></span>，说句实在的，就是花小钱买大钱。投入与产出的性价比是制定各项决策的一个重要参考。

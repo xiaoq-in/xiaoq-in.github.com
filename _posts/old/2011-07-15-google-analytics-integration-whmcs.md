@@ -25,9 +25,9 @@ tags:
   - 异步跟踪
   - 电子商务跟踪
 ---
-前几天花了一百多刀买了个WHMCS，配合着<span class='wp_keywordlink_affiliate'><a href="https://xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>搭建了一个主机销售平台：<a title="译者主机" href="http://idc.yeezhe.net/" target="_blank">译者主机</a>。<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>主机目前主要销售高速美国空间，目标潜在客户为外贸企业及独立博客。译者主机是专业的外贸主机，博客主机提供商。销售渠道主要通过SEO及口碑，不求赚钱，主要为了实践SEO和网站分析。
+前几天花了一百多刀买了个WHMCS，配合着<span class='wp_keywordlink_affiliate'><a href="http://blog.xiaoq.in/tag/wordpress/" title="查看WordPress中的全部文章" target="_blank">WordPress</a></span>搭建了一个主机销售平台：<a title="译者主机" href="http://idc.yeezhe.net/" target="_blank">译者主机</a>。<span class='wp_keywordlink'><a href="http://www.yeezhe.com/" title="译者" target="_blank">译者</a></span>主机目前主要销售高速美国空间，目标潜在客户为外贸企业及独立博客。译者主机是专业的外贸主机，博客主机提供商。销售渠道主要通过SEO及口碑，不求赚钱，主要为了实践SEO和网站分析。
 
-<img class="alignnone size-full wp-image-513" title="idc-yeezhe-net" src="http://cdn.54jack.com/images/2011/07/idc-yeezhe-net.gif" alt="" width="550" />
+<img class="alignnone size-full wp-image-513" title="idc-yeezhe-net" src="http://blog.xiaoq.in/cdn/images/2011/07/idc-yeezhe-net.gif" alt="" width="550" />
 
 谷歌的标题获取方式很特别，目前我的多个网站都有这种效果了，主要看外链的影响吧。
 
