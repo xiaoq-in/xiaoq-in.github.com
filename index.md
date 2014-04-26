@@ -24,7 +24,21 @@ tagline: 数字营销探索与学习
 近期关注主题：Google Tag Manager、Universal Analytics
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">上一页</a>
+  {% else %}
+    <span class="previous">上一页</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">下一页</a>
+  {% else %}
+    <span class="next ">下一页</span>
+  {% endif %}
+</div>
