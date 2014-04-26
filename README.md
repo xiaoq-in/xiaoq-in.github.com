@@ -1,4 +1,4 @@
-# 肖庆的个人博客
+# 肖庆的博客
 
 [blog.xiaoq.in](http://blog.xiaoq.in/)
 
