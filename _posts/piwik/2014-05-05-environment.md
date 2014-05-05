@@ -49,7 +49,7 @@ sudo apt-get install piwik
 推荐使用Nginx，个人不太喜欢使用一键安装包，手动安装其实也挺简单的，并且可定制性强，不用担心存在漏洞或者没用的东西占用内存。
 
 在服务器设置的入门教程中，[DigitalOcean](https://www.digitalocean.com/?refcode=6b173b2d7e5e
-)（AWS之外，个人推荐的另外一个云服务，不并且容易使用，AWS的价格算法相对复杂点）有一个不错的资料库，其中的[这篇文章](https://www.digitalocean.com/community/articles/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04)就教我们如何在Ubuntu 14.04中安装Nginx+PHP环境。
+)（AWS之外，个人推荐的另外一个云服务，不贵并且容易使用，话说AWS的价格算法相对复杂点）有一个不错的资料库，其中的[这篇文章](https://www.digitalocean.com/community/articles/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04)就教我们如何在Ubuntu 14.04中安装Nginx+PHP环境。
  
 需要额外注意以下几点：
 
