@@ -28,6 +28,7 @@ sudo -i
 sudo nano etc/apt/sources.list.d/piwik.list
 ```
 加入以下两行：
+
 ```
 deb http://debian.piwik.org/ piwik main
 
