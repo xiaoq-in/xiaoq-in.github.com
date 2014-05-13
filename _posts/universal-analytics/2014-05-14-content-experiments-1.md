@@ -29,6 +29,7 @@ A/B测试主要有三种方式，页面跳转是实施层面来说最简单的�
 以下，以[我的首页](http://xiaoq.in/)为例，来介绍下个人最喜欢的，也是个人强烈推荐的js非页面跳转方式，代码范例如下：
 
 
+`
 <!-- 1. Load the Content Experiments JavaScript Client -->
 <script src="//w ww.google-analytics.com/cx/api.js?experiment=F6zsXkdMQTKlHGVBxeCPEA"></script>
 <script>
@@ -61,6 +62,8 @@ A/B测试主要有三种方式，页面跳转是实施层面来说最简单的�
 <a id="call-to-action-link" class="btn btn-lg btn-success" href="http://blog.xiaoq.in/" role="button"></a>
 
 ...
+
+`
 
 
 如果对js有所了解，并且读了GA的API文档，应该不难理解：
