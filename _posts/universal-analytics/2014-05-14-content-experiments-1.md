@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal Analytics 内容实验指南（一）
+title: Universal Analytics 实验指南（一）
 permalink: /universal-analytics/content-experiments-1/
 category : Universal Analytics
 tags : [Universal Analytics, 内容实验, AB测试, 多手柄老虎机实验, MAB, Content Experiments]
