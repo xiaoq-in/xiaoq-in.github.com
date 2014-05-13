@@ -56,11 +56,8 @@ A/B测试主要有三种方式，页面跳转是实施层面来说最简单的�
   ga('send', 'pageview');
 </script>
 
-...
-
 <a id="call-to-action-link" class="btn btn-lg btn-success" href="http://blog.xiaoq.in/" role="button"></a>
 
-...
 
 ```
 
