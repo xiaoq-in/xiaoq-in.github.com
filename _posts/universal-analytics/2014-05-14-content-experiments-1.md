@@ -28,43 +28,7 @@ A/B测试主要有三种方式，页面跳转是实施层面来说最简单的�
 
 以下，以[我的首页](http://xiaoq.in/)为例，来介绍下个人最喜欢的，也是个人强烈推荐的js非页面跳转方式，代码范例如下：
 
-
-`
-<!-- 1. Load the Content Experiments JavaScript Client -->
-<script src="//w ww.google-analytics.com/cx/api.js?experiment=F6zsXkdMQTKlHGVBxeCPEA"></script>
-<script>
-  var button_variations = [
-      '点击进入',
-      '欢迎光临',
-      '去看看吧'
-  ]
-  // 2. Choose the Variation for the User
-  var variation = cxApi.chooseVariation();
-
-  window.onload = function(){
-    // 3. Evaluate the result and update the image
-    exp_button = document.getElementById('call-to-action-link');
-    exp_button.innerText = button_variations[variation];
-  }
-</script>
-<!-- 4. Load analytics.js and send a hit to Google Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-48100963-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-...
-
-<a id="call-to-action-link" class="btn btn-lg btn-success" href="http://blog.xiaoq.in/" role="button"></a>
-
-...
-
-`
-
+{% gist 8ef2fdc33e9a76db367c %}
 
 如果对js有所了解，并且读了GA的API文档，应该不难理解：
 
