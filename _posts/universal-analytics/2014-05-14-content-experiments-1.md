@@ -2,11 +2,13 @@
 ---
 layout: post
 title: Universal Analytics 内容实验指南（一）
-permalink: /universal-analytics/content-experiments-01/
+permalink: /universal-analytics/content-experiments-1/
 category : Universal Analytics
 tags : [Universal Analytics, 内容实验, AB测试, 多手柄老虎机实验, MAB, Content Experiments]
 ---
 {% include JB/setup %}
+
+
 
 《A/B测试服务公司Optimizely获$5700万融资》，相信大家都对最近的这条消息感到很振奋。但是，作为屌丝的我们，可能支付不起昂贵的使用费，英文界面可能也让你有点晕，其实大多数情况下，也没太大必要。
 
