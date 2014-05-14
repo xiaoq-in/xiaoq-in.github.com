@@ -14,7 +14,7 @@ tagline: 数字营销探索与学习
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="nofollow">&laquo; 上一页</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="prev">&laquo; 上一页</a>
   {% else %}
     <span>&laquo; 上一页</span>
   {% endif %}
@@ -30,7 +30,7 @@ tagline: 数字营销探索与学习
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="nofollow">下一页 &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" rel="next">下一页 &raquo;</a>
   {% else %}
     <span>下一页 &raquo;</span>
   {% endif %}
