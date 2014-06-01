@@ -45,7 +45,7 @@ tags : [Enhanced Ecommerce Reports, Universal Analytics, 增强型电商报告]
 
 报告的层次是ABC（流量获取-用户行为-目标转化）模式。注意，在“转化”区域，有一个下拉项，你可以快速选择一个特定的电商目标并进行切换查看。
 
-http://cdn.xiaoq.in/images/ beta-ecomm-7.png
+![beta-ecomm-7.png](http://cdn.xiaoq.in/images/beta-ecomm-7.png)
 
 我偏离主题了，但是出发点是好的。现在，回到电商概览报告，我得尝试点击下“内部促销”，哦，对了，它也是一个链接。我点击了这个链接，并且现在看到了一个新的报告，这个报告显示了内部CTA（Call To Action，行为号召）的表现，包括：浏览次数、点击次数、点击率。我突然觉得电商分析的术语与AdWords非常类似—我喜欢（作者在这里玩了个双关语，impression除了表示觉得，也是AdWords中展示次数的意思）。
 ![beta-ecomm-9.png](http://cdn.xiaoq.in/images/beta-ecomm-9.png)
